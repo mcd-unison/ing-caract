@@ -6,7 +6,7 @@ title: Ingeniería de Características (2021-2)
 tagline: MCD-UNISON 
 email: julio.waissman@unison.mx
 description: Material del curso
-baseurl: "/docs/"
+baseurl: "/"
 url: "https://mcd-unison/ing-caract"
 permalink: pretty
 #favicon: /path/to/favicon.png
