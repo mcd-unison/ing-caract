@@ -2,19 +2,18 @@
 title: Curso Ingeniería de Características 
 subtitle: Maestría en Ciencia de Datos, Universidad de Sonora
 layout: page
-hero_image: ing-caract/docs/img/rectoria2_muse.jpg
+hero_image: /ing-caract/docs/img/rectoria2_muse.jpg
 hero_darken: true
 show_sidebar: false
 ---
 
 
-| *Profesor* | Julio Waissman Vilanova        |
-|            | julio.waissman@unison.mx       |
-| *Horarios* | Lunes de 18:00 a 20:00 hrs     |
-|            | Sábados de 10:00 a 12:00       |
-|            | Jueves y viernes, 3 horas      |
-| Lugar      | Iniciamos en modalidad virtual |
-|            | Uso de Teams                   |
+| **Profesor** | Julio Waissman Vilanova        |
+|              | julio.waissman@unison.mx       |
+| **Horarios** | Lunes de 18:00 a 20:00 hrs     |
+|              | Sábados de 10:00 a 12:00       |
+|              | Jueves y viernes, 3 horas      |
+| **Lugar**    | Iniciamos en modalidad virtual (Teams) |
 
 
 ## Temario
