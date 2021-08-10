@@ -2,7 +2,7 @@
 title: Introducción 
 subtitle: Curso Ingeniería de Características
 layout: page
-hero_image: img/rectoria2_muse.jpg
+hero_image: docs/img/rectoria2_muse.jpg
 hero_darken: true
 show_sidebar: false
 ---
