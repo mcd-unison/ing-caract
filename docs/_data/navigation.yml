@@ -1,0 +1,20 @@
+- name: Temas
+  link: /#
+  dropdown:
+    - name: Introducción 
+      link: /intro/
+    - name: Integración de datos
+      link: /integra/
+    - name: Limpieza de datos
+      link: /limpieza/
+    - name: Transformación de datos
+      link: /transformacion/
+    - name: Reducción de datos
+      link: /reducccion/
+    - name: Análisis exploratorio de datos
+      link: /eda/
+- name: Proyectos
+  link: /#
+  dropdown:
+    - name: Primer proyecto 
+      link: /primero/
