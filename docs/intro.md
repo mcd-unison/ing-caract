@@ -23,3 +23,6 @@ show_sidebar: false
 ## Lecturas recomendadas
 
 1. [Explorig the Data Jungle](https://itbook.store/files/9781617295065/exploring-the-data-jungle.pdf) 
+
+2. [100 libros gratuitos sobre Ciencia de Datos o métodos asociados](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
+
