@@ -4,7 +4,7 @@
 
 Repositorio del curso *Ingeniería de Características*. para el semestre 2021-2. 
 Desarrollado por [Julio Waissman Vilanova](julio.waissman@unison.mx) para la
-[Maestría en Ciencia de Datos](mcd.unison.mx) de la [Universidad de Sonora](unison.mx).
+[Maestría en Ciencia de Datos](https://mcd.unison.mx) de la [Universidad de Sonora](https://www.unison.mx).
 
 A lo largo del semestre se incluira en este repositorio material, código y datos que se utilizará 
 a lo largo de la formación.
