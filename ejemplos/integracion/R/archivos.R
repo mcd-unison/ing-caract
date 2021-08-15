@@ -27,10 +27,12 @@ if(!file.exists(covid.archivo)){
   download.file(covid.dic.conceptos.url, destfile = covid.dic.conceptos.archivo)  
   unzip(covid.dic.conceptos.archivo, exdir = "../data/")
   fecha.descarga <- date()
+  
+  info <- data.frame(
+    concepto = c('Fecha de descarga', 'URL', 'Archivo', 'Diccionario URL', 'Diccionario'),
+    valor = c(fecha.descarga, covid.url, covid.archivo, covid.dic.conceptos.url, covid.dic.conceptos.archivo)
+  )
+  write.csv(x = info, file = "../data/info.txt")
 }
 
-info <- data.frame(
-  concepto = c('Fecha de descarga', 'URL', 'Archivo', 'Diccionario URL', 'Diccionario'),
-  valor = c(fecha.descarga, covid.url, covid.archivo, covid.dic.conceptos.url, covid.dic.conceptos.archivo)
-)
-write.csv(x = info, file = "../data/info.txt")
+
