@@ -36,7 +36,7 @@ import pandas as pd
 #    pueda acceder a la información (Una clave por desarrollador y una 
 #    clave por aplicación).
 
-# Vamos a usar los mios, pero no abusen porque me sacan del tuiter
+# Ya no podemos usarlos mios, porque me sacaron del tuiter
 
 consumer_key = 'PN2ri0UvsLYawitO8Hako1PvM'
 consumer_secret = 'fud3LXwVza6PQMAIRmA9Y9mJ6Gc2Y1uNkV3f8G2okPZHXrCdTK'

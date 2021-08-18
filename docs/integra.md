@@ -47,6 +47,7 @@ Vamos a descargar y analizar los datos de COVID de México usando linea de coman
 3. Archivos [XML](https://www.w3schools.com/xml/default.asp)
 4. Archivos [HDF](https://asdc.larc.nasa.gov/documents/tools/hdf.pdf)
 5. Archivos [Excel](https://www.linkedin.com/pulse/why-all-data-scientists-learn-ms-excel-karthik-shashidhar)
+6. Archivos [Parquet](https://databricks.com/glossary/what-is-parquet)
 
 ## Usando SQL para leer archivos
 
