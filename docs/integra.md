@@ -54,3 +54,11 @@ Vamos a descargar y analizar los datos de COVID de México usando linea de coman
 El curso de SQL lo va a impartir Juan Pablo en la materia de *Introducción*
 
 ¿Vemos el curso *SQL aplicado en la ciencia de datos* de EdX?
+
+## Rest-API y *web scrapping*
+
+1. [Tutorial para el uso de Rest API en python](https://realpython.com/python-api/)
+2. [Usando la API desde R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromAPIs.pdf)
+3. [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
+4. [Tutorial de Beautiful Soup 4](https://realpython.com/beautiful-soup-web-scraper-python/)
+

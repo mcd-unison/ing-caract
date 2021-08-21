@@ -4,7 +4,7 @@ import urllib # Una forma estandard de descargar datos
 import pandas as pd
 import json # Una forma estandar de leer archivos json 
 
-#%% Abrir archivos Json con pandas
+# %% Abrir archivos Json con pandas
 archivo_url = "https://api.github.com/users/juliowaissman/repos"
 archivo_nombre = "../data/repos.json"
 
@@ -15,7 +15,7 @@ if not os.path.exists(archivo_nombre):
 
 # Como cargarlos y como verlos
 df_repos = pd.read_json(archivo_nombre)
-df_repos.owner.apply(lambda x: x['login'])
+#df_repos.owner.apply(lambda x: x['login'])
 
 #%% Abrir archivos json usando la librería json
 with open(archivo_nombre, 'r') as fp:

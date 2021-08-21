@@ -11,7 +11,7 @@ os.chdir(pwd)
 desayunos = et.parse("../ejemplos/ejemplo.xml")
 
 for (i, des) in enumerate(desayunos.getroot()):
-    print("Opción {}:".format(i))
+    print("Opción {}:".format(i+1))
     for prop in des:
         print("\t{}: {}".format(prop.tag, prop.text.strip()))
 
