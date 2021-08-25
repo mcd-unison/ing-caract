@@ -28,10 +28,12 @@ show_sidebar: false
 ### Fechas y horas
 
 
+
+
 ## Imputación de datos
 
 
 
-## Detección de anomalias
+## Detección de anomalías
 
 

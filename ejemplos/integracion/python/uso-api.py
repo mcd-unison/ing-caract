@@ -62,3 +62,5 @@ datos_df = pd.DataFrame.from_dict(datos_dic['response'], orient="columns")
 for (atr, valor) in datos_dic['request'].items():
     datos_df[atr] = valor
 datos_df
+
+# %%

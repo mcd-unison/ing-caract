@@ -61,4 +61,7 @@ El curso de SQL lo va a impartir Juan Pablo en la materia de *Introducción*
 2. [Usando la API desde R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromAPIs.pdf)
 3. [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
 4. [Tutorial de Beautiful Soup 4](https://realpython.com/beautiful-soup-web-scraper-python/)
+5. [Tutoriales del uso de la API de *Tweeter*][https://developer.twitter.com/en/docs/tutorials]
+
+
 

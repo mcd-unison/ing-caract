@@ -23,6 +23,8 @@ print(paste("Contenido:", httr::content(response, as = 'text')))
 
 #-----------Vamos a leer con parametros----------------------
 
+par = c(29.08919, -110.96133)
+
 parametros = list(
   lat = 29.08919, 
   lon = -110.96133
