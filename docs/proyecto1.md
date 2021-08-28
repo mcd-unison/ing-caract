@@ -14,7 +14,7 @@ La obtención de datos es muy importante, y fuera de los datos públicos que pod
 
 En este proyecto individual, cada uno va a desarrollar un pequeño programa que ayude a descargar datos a partir de diferentes APIs, o usando un método para descargas masivas. Cada uno va a terminar con un artículo para *Medium* en donde den una receta sencilla y clara de como utilizar dicha API para obtener datos de interés.
 
-1. Uso de la API de *Tweeter* (Carlos)
+1. Uso de la API de *Fishstats* (Carlos)
 2. Uso de la API de *Telegram* (Héctor)
 3. Uso de la API de *DataMexico* (Paola)
 4. Descargar la información de una encuesta del INEGI con múltiples archivos (Aaron)
@@ -28,3 +28,4 @@ En este proyecto individual, cada uno va a desarrollar un pequeño programa que 
 12. Uso de la API de *Instagram* (Adilene)
 13. Uso de la API de *Youtube* (Pedro)
 14. Uso de la API *Aliexpress/Skyscanner* (Ibsan)
+15. Uso de la API *Kaggle* (Manuel)
