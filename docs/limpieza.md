@@ -24,6 +24,7 @@ show_sidebar: false
 4. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
 5. [*Factors (R for DataScience)*](https://r4ds.had.co.nz/factors.html)
 6. [*A guide to encoding categorical features using R*](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/)
+7. [*https://innovation.alteryx.com/encode-smarter/*](https://innovation.alteryx.com/encode-smarter/)
 
 ### Fechas y horas
 
@@ -33,7 +34,7 @@ show_sidebar: false
 4. [It’s merely a matter of time, Dr. Watson! Understanding date and time in R](https://towardsdatascience.com/its-merely-a-matter-of-time-dr-watson-2fd74a648842)
 5. [https://blog.exploratory.io/5-most-practically-useful-operations-when-working-with-date-and-time-in-r-9f9eb8a17465]
 
-## Manejo de cadenas de caracteres
+### Manejo de cadenas de caracteres
 
 1. [Procesamiento de texto](https://github.com/mcd-unison/ing-caract/raw/main/slides/tratamiento_texto.pdf)
 2. [Regex 101 (para armar expresiones regulares)](https://regex101.com)
@@ -41,6 +42,11 @@ show_sidebar: false
 4. [Working with text data (pandas)](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
+
+### Bibliotecas para generación y limpieza de características
+
+1. Librería [Featuretools](https://www.featuretools.com) de Alteryx.
+
 
 ## Imputación de datos
 
