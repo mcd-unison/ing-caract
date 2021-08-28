@@ -27,8 +27,20 @@ show_sidebar: false
 
 ### Fechas y horas
 
+1. [¿Que es UTC?](Coordinated Universal Time) [¿Y el formato POSIX?](https://en.wikipedia.org/wiki/Unix_time).
+2. [How To Manipulate Date And Time In Python Like A Boss](https://towardsdatascience.com/how-to-manipulate-date-and-time-in-python-like-a-boss-ddea677c6a4d)
+3. [Working with datetime in Pandas DataFrame](https://towardsdatascience.com/working-with-datetime-in-pandas-dataframe-663f7af6c587)
+4. [It’s merely a matter of time, Dr. Watson! Understanding date and time in R](https://towardsdatascience.com/its-merely-a-matter-of-time-dr-watson-2fd74a648842)
+5. [https://blog.exploratory.io/5-most-practically-useful-operations-when-working-with-date-and-time-in-r-9f9eb8a17465]
 
+## Manejo de cadenas de caracteres
 
+1. [Procesamiento de texto](https://github.com/mcd-unison/ing-caract/raw/main/slides/tratamiento_texto.pdf)
+2. [Regex 101 (para armar expresiones regulares)](https://regex101.com)
+3. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+4. [Working with text data (pandas)](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
+5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
+6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 
 ## Imputación de datos
 
