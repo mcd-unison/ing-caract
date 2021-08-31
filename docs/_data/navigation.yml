@@ -16,5 +16,5 @@
 - name: Proyectos
   link: /#
   dropdown:
-    - name: Primer proyecto 
+    - name: Obtención de datos 
       link: /proyecto1/
