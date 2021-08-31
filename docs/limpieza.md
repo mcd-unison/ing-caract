@@ -20,11 +20,13 @@ show_sidebar: false
 
 1. [*All about Categorical Variable Encoding*](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
 2. [*Encoding Categorical Predictors*](http://www.feat.engineering/encoding-categorical-predictors.html)
-3. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data)
-4. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
-5. [*Factors (R for DataScience)*](https://r4ds.had.co.nz/factors.html)
-6. [*A guide to encoding categorical features using R*](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/)
-7. [*https://innovation.alteryx.com/encode-smarter/*](https://innovation.alteryx.com/encode-smarter/)
+3. Biblioteca de python [`categorical_encoding](https://github.com/alteryx/categorical_encoding) de Alteryx
+4. Paquete de R [`forcats`](https://forcats.tidyverse.org), parte del *tidyverse*
+5. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data)
+6. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
+7. [*Factors (R for DataScience)*](https://r4ds.had.co.nz/factors.html)
+8. [*A guide to encoding categorical features using R*](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/)
+9. [*https://innovation.alteryx.com/encode-smarter/*](https://innovation.alteryx.com/encode-smarter/)
 
 ### Fechas y horas
 
@@ -43,10 +45,6 @@ show_sidebar: false
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 
-### Bibliotecas para generación y limpieza de características
-
-1. Librería [Featuretools](https://www.featuretools.com) de Alteryx.
-
 
 ## Imputación de datos
 
@@ -54,4 +52,9 @@ show_sidebar: false
 
 ## Detección de anomalías
 
+
+# Bibliotecas generales de limpieza de datos
+
+1. [R for Data Science](https://r4ds.had.co.nz), el libro de cabecera del *tidyverse*.
+2. [Data Cleaning in Python: the Ultimate Guide](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d). No es lo que el título trata vender pero si trae una guía de varias de las operaciones que normalmente hay que realizar para limpieza de datos.
 

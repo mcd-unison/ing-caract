@@ -24,7 +24,7 @@ En este proyecto individual, cada uno va a desarrollar un pequeño programa que 
 8. Uso de la API de *GitHub* (José Luís)
 9. Uso de la API de *Spotify* (Hugo)
 10. Uso de la API de *Riot* (Benjamín)
-11. Uso de la API de *LinkedIn* (Samuel)
+11. Uso de la API de *EDAMAM* (Samuel)
 12. Uso de la API de *Instagram* (Adilene)
 13. Uso de la API de *Youtube* (Pedro)
 14. Uso de la API *Aliexpress/Skyscanner* (Ibsan)
