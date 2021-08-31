@@ -34,7 +34,9 @@ show_sidebar: false
 2. [How To Manipulate Date And Time In Python Like A Boss](https://towardsdatascience.com/how-to-manipulate-date-and-time-in-python-like-a-boss-ddea677c6a4d)
 3. [Working with datetime in Pandas DataFrame](https://towardsdatascience.com/working-with-datetime-in-pandas-dataframe-663f7af6c587)
 4. [It’s merely a matter of time, Dr. Watson! Understanding date and time in R](https://towardsdatascience.com/its-merely-a-matter-of-time-dr-watson-2fd74a648842)
-5. [https://blog.exploratory.io/5-most-practically-useful-operations-when-working-with-date-and-time-in-r-9f9eb8a17465]
+5. (*5 most practically useful operations when-working with date and time in R*)[https://blog.exploratory.io/5-most-practically-useful-operations-when-working-with-date-and-time-in-r-9f9eb8a17465]
+6. El paquete [`lubridate`](https://lubridate.tidyverse.org) como parte del *tidyverse*.
+7. Para practicar podemos usar las series te tiempo recuperadas de los informas estatales sobre la COVID19 por [Luís Armando Moreno Preciado](http://www.luisarmandomoreno.com)
 
 ### Manejo de cadenas de caracteres
 
@@ -45,13 +47,15 @@ show_sidebar: false
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 
+## Agregación
 
-## Imputación de datos
+1. Operaciones de agregación clásicas y su significado
+2. Agregación en múltiples indices
 
+## Operaciones comunes de limpieza en dataframes
 
-
-## Detección de anomalías
-
+1. Expansión en columnas o renglones
+2. Combinación de dataframes (*join* y *merge*)
 
 # Bibliotecas generales de limpieza de datos
 

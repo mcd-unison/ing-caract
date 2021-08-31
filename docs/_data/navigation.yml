@@ -7,12 +7,12 @@
       link: /integra/
     - name: Limpieza de datos
       link: /limpieza/
-    - name: Transformación de datos
-      link: /transformacion/
-    - name: Reducción de datos
-      link: /reducccion/
     - name: Análisis exploratorio de datos
       link: /eda/
+    - name: Transformación de datos
+      link: /transforma/
+    - name: Reducción de datos
+      link: /reducccion/
 - name: Proyectos
   link: /#
   dropdown:
