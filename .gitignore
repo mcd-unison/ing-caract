@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .Rproj.user
+
+# Archivos de Mac
+.DS_Store
