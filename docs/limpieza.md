@@ -26,7 +26,7 @@ show_sidebar: false
 6. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
 7. [*Factors (R for DataScience)*](https://r4ds.had.co.nz/factors.html)
 8. [*A guide to encoding categorical features using R*](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/)
-9. [*https://innovation.alteryx.com/encode-smarter/*](https://innovation.alteryx.com/encode-smarter/)
+9. [*Encode Smarter: How to Easily Integrate Categorical Encoding into Your Machine Learning Pipeline*](https://innovation.alteryx.com/encode-smarter/)
 
 ### Fechas y horas
 
