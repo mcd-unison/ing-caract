@@ -50,13 +50,17 @@ show_sidebar: false
 
 ## Agregación
 
-1. Operaciones de agregación clásicas y su significado
-2. Agregación en múltiples indices
+1. [Operadores de agregación](https://www.researchgate.net/profile/Magda-Komornikova/publication/285874074_Aggregation_operators_Properties_classes_and_construction_methods_Aggregation_operators_New_trends_and_applications/links/57832d7f08ae69ab88286d25/Aggregation-operators-Properties-classes-and-construction-methods-Aggregation-operators-New-trends-and-applications.pdf?_sg%5B0%5D=CnLFj_rNk1q8U3VLYbtDK1L94kNI1XBzFgrPK5vsO3b2vZYql03JSzRXon5rRZ2xnPUTo8w9lF96BTbSRhU3yA.B-4ecmBWT8oVAK6Y99nPSRyycwpAtU-ptO-jIj79Pod3oNsiVVnihUGgRhY1sEszKha86uC5gaq7tEr11gqjHw&_sg%5B1%5D=hKHosvszXiBud6dou0kAvJvHqDZ36T5UN6OYxiv6Cum8NMoqA4cdFvPPKezZbEy5viaF6O1nHHpBx5UW9Q2sQOlWZ_1mDC5COCf57riDQhhD.B-4ecmBWT8oVAK6Y99nPSRyycwpAtU-ptO-jIj79Pod3oNsiVVnihUGgRhY1sEszKha86uC5gaq7tEr11gqjHw&_iepl=), visto de un punto de vista muy formal. 
+2. [Operadores de centro segun wikipedia](https://en.wikipedia.org/wiki/Average)
+3. [Operadores de agregación OWA](https://www.researchgate.net/publication/228553904_OWA_Operators_in_Decision_Making).
+4. Operadores del tipo [disyunción y conjunción](https://en.wikipedia.org/wiki/T-norm).
+5. Agregación basada en [medidas de dispersión](https://en.wikipedia.org/wiki/Statistical_dispersion). 
+6. Agregación en uno y múltiples indices [en R](https://dplyr.tidyverse.org/articles/grouping.html) y [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html).
 
 ## Operaciones comunes de limpieza en dataframes
 
-1. Expansión en columnas o renglones
-2. Combinación de dataframes (*join* y *merge*)
+1. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html) y [en R](https://tidyr.tidyverse.org/articles/pivot.html).
+2. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) y [en R](https://dplyr.tidyverse.org/articles/two-table.html). 
 
 # Bibliotecas generales de limpieza de datos
 
