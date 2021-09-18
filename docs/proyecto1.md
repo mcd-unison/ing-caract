@@ -21,12 +21,12 @@ En este proyecto individual, cada uno va a desarrollar un pequeño programa que 
 5. [Create word cloud scraping data from Reddit API using PRAW and spaCy](https://medium.com/mcd-unison/create-word-cloud-scraping-data-from-reddit-api-using-praw-and-spacy-b5c9c61c2d10) por Daniel Mendoza
 6. [Web Scraping con Python aplicado al sitio web del INEGI](https://medium.com/mcd-unison/web-scraping-con-python-aplicado-al-sitio-web-del-inegi-f74a52192da8) por Aaron Lara
 7. [Acceso a datos nutricionales y búsqueda de recetas mediante el uso de las APIs de Edamam](https://medium.com/mcd-unison/acceso-a-datos-nutricionales-y-búsqueda-de-recetas-mediante-el-uso-de-las-apis-de-edamam-11f3e28d046) por Samuel Cortéz
+8. [Extrayendo datos acerca del videojuego League of Legends videogame utilizando la API de Riot Games](https://medium.com/mcd-unison/extrayendo-datos-acerca-del-videojuego-league-of-legends-videogame-utilizando-la-api-de-riot-games-2116926d966d) por Benjamín López
 
-8. Uso de la API de *Telegram* (Héctor)
-9.  Uso de la API de *Discord* (Adrián)
-10. Uso de la API de *GitHub* (José Luís)
-11. Uso de la API de *Spotify* (Hugo)
-12. Uso de la API de *Riot* (Benjamín)
+9. Uso de la API de *Telegram* (Héctor)
+10. Uso de la API de *Discord* (Adrián)
+11. Uso de la API de *GitHub* (José Luís)
+12. Uso de la API de *Spotify* (Hugo)
 13. Uso de la API de *Instagram* (Adilene)
 14. Uso de la API *Aliexpress/Skyscanner* (Ibsan)
 15. Uso de la API *Kaggle* (Manuel)
