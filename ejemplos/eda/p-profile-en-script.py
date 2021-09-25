@@ -11,7 +11,7 @@ from pandas_profiling import ProfileReport
 profile = ProfileReport(
     insurance, 
     explorative=True,
-    title='Pandas Profiling Report', 
+    title='Reporte de insurance.csv', 
     html={'style':{'full_width':True}}
 ) 
 profile.to_file("insurance-pandas-profiler.html")

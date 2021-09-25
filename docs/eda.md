@@ -33,5 +33,9 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 ## Creación de tableros para visualización 
 
+1. [Sistemas de ayuda a la toma de decisiones](https://github.com/mcd-unison/ing-caract/raw/main/slides/dss.pptx)
+2. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
+3. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html)
+
 
 ## Información georeferenciada (mapas)
