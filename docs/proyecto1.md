@@ -28,4 +28,4 @@ En este proyecto individual, cada uno va a desarrollar un pequeño programa que 
 12. [Using the Kaggle API](https://medium.com/mcd-unison/using-the-kaggle-api-e43e902fba23) por Manuel Valenzuela.
 13. [Exploring Aliexpress with RapidAPI](https://medium.com/mcd-unison/exploring-aliexpress-with-rapidapi-e8854de01c1a) por Ibsan Morales.
 14. [Using the httr package in R to get audio features from Spotify API](https://medium.com/mcd-unison/using-the-httr-package-in-r-to-get-audio-features-from-spotify-api-68587262b2c7) por Hugo Valenzuela.
-15. [Consuming the GitHub API v3 and load the data into SQLite database](https://medium.com/mcd-unison/consuming-the-github-api-v3-and-load-the-data-into-sqlite-database-223025ca8a4a) por José Luís Bracamontes.
+15. [Consuming the GitHub API v3 and load the data into SQLite database](https://medium.com/mcd-unison/consuming-the-github-api-v3-and-load-the-data-into-sqlite-database-223025ca8a4a) por José Luís Bracamonte.

@@ -6,8 +6,8 @@ output:
     vertical_layout: fill
     theme: spacelab
     social: [ "menu" ]
-    # logo: logo-image.png
-    # favicon: favicon-image.png
+    #logo: SmallLogo-espacio.png
+    favicon: FaviconLogo.png
 
 ---
 
@@ -17,11 +17,9 @@ library(tidyverse)
 library(plotly)
 ```
 
-Básicos
-========================================================================
+# Básicos
 
-Row 
------------------------------------------------------------------------
+## Row 
 
 ### Gráfico de burbujas
 
@@ -73,8 +71,7 @@ fig
 ```
 
 
-Row 
------------------------------------------------------------------------
+## Row 
 
 ### Barras horizontales
 
@@ -167,13 +164,11 @@ fig
 
 ```
 
-Estadísticos
-================================================================================
+# Estadísticos
 
-Row
---------------------------------------------------------------------------------
+## Row {data-height=700}
 
-### Histogramas
+### Histogramas {data-width=800}
 
 ```{r}
 fig <- plot_ly(alpha = 0.6)
@@ -218,8 +213,7 @@ fig <- fig %>%
 fig
 ```
 
-Row {.tabset .tabset-fade}
---------------------------------------------------------------------------------
+## Row {.tabset .tabset-fade}
 
 ### Diagrama de Sankey
 ```{r}
@@ -262,4 +256,16 @@ fig <- fig %>% layout(boxmode = "group")
 
 fig
 ```
+# Información técnica
+
+
+**Información**
+
+**Fuentes de datos**
+
+**Desarrollado por**
+
+slakjsdlkfjsdlkfjsdlkf
+
+**Licencia**
 
