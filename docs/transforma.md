@@ -25,6 +25,7 @@ show_sidebar: false
 
 ## Generación de características
 
+1. Generados automático de características [FeatureTools](https://www.featuretools.com)
 
 ## Series de tiempo
 
