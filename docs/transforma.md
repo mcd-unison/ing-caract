@@ -13,7 +13,7 @@ show_sidebar: false
 2. [Missing value imputation: a review and analysis of the literature](https://github.com/mcd-unison/ing-caract/raw/main/slides/imputation-review.pdf)
 3. [How to Handle Missing Data (R)](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 4. [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
-5. [Manejo de valores faltantes en `pandas`] (https://pandas.pydata.org/docs/user_guide/missing_data.html)
+5. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/missing_data.html)
 6. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
 
 ## Detección de anomalías
