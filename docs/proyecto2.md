@@ -7,10 +7,9 @@ hero_darken: true
 show_sidebar: false
 ---
 
-
-Hacer n tablero que cuente una historia es un resultado importante de una limpieza y análisis exploratorio de datos. 
-Estos tableros permiten ampliar la discusión y el entendimiento con los usuarios de los productos de datos y 
-ayudan a plantear mejor las preguntas que se le puede hacer a los datos.
+Hacer un tablero que cuente una historia a partir de un análisis exploratorio de datos es un resultado parcial
+importante en un proceso de ciencia de datos. 
+Estos tableros permiten ampliar la discusión y el entendimiento con los usuarios de los productos de datos y ayudan a plantear mejor las preguntas, seleccionar mejor los modelos de estimación y/o pronóstico así como a especificar más claramente los productos a desarrollar.
 
 
 ## Contando una historia con los datos
