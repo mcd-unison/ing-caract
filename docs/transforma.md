@@ -23,6 +23,7 @@ show_sidebar: false
 2. [Novelty and Outlier Detection (Sci-kit Learn)](https://scikit-learn.org/stable/modules/outlier_detection.html)
 3. [PyOD](https://pyod.readthedocs.io/en/latest/) y una [breve reseña](https://towardsdatascience.com/pyod-a-unified-python-library-for-anomaly-detection-3608ec1fe321) en TDS.
 4. [Anomalize (R) para detección de anomalías en series de tiempo](https://cran.r-project.org/web/packages/anomalize/vignettes/anomalize_quick_start_guide.html)
+5. [Una libreta](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/anomalias/taller_solar.ipynb) con un ejemplito sobre detección y eliminación de *outliers*.
 
 ## Generación de características
 
