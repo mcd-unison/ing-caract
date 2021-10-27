@@ -2,7 +2,7 @@
 title: Proyecto 2. Haciendo un tablero que cuente una historia
 subtitle: Curso Ingeniería de Características
 layout: page
-hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/dash-banner.jpg
+hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/dash-banner.png
 hero_darken: true
 show_sidebar: false
 ---
