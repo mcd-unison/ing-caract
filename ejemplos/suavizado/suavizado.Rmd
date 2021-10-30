@@ -1,0 +1,137 @@
+---
+title: "Suavizado de Curvas"
+author: "Julio Waissman Vilanova"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+Este es un documento en el cual vamos a revisar los diferentes métodos de 
+suavizado de series de tiempo. Para esto, vamos a usar los datos recolectados y
+mantenidos por [Luis Armando Moreno](http://www.luisarmandomoreno.com), los cuales se pueden descargar directamente desde el [proyecto de *github* del tablero COVID que mantiene](https://github.com/dogomoreno/Covid19-Sonora-Municipios), los cuales se pueden accesar directamente en [este link](https://raw.githubusercontent.com/dogomoreno/Covid19-Sonora-Municipios/master/Bases/Casosdiarios.csv).
+
+```{r datos, echo=FALSE}
+
+library("tidyverse")
+library("plotly")
+
+download.file(
+  "https://raw.githubusercontent.com/dogomoreno/Covid19-Sonora-Municipios/master/Bases/Casosdiarios.csv",
+  destfile = "Casosdiarios.csv"
+)
+
+confirmados <- read.csv("Casosdiarios.csv") %>%
+  select(Fecha, CASOS) %>%
+  mutate(Fecha=as.Date(Fecha)) %>%
+  group_by(Fecha) %>%
+  summarise(CASOS=sum(CASOS)) %>%
+  mutate(CASOS = CASOS - lag(CASOS))
+
+plot_ly(
+  data = confirmados,
+  x = ~Fecha,
+  y = ~CASOS
+)
+
+```
+
+
+## Medias moviles
+
+```{r medias.moviles}
+confirmados <- confirmados %>%
+  mutate(
+    ma.3 = zoo::rollmean(CASOS, 3, align = "center", fill = NA),
+    ma.7 = zoo::rollmean(CASOS, 7, align = "center", fill = NA),
+    ma.14 = zoo::rollmean(CASOS, 14, align = "center", fill = NA)
+  )
+
+plot_ly(
+  data = confirmados, x = ~Fecha
+) %>%
+  add_trace(
+    y = ~CASOS, 
+    name = 'Reales', mode = 'markers'
+  ) %>%
+  add_trace(
+    y = ~ma.3, 
+    name = 'MA 3 días', mode = 'lines'
+  ) %>%
+  add_trace(
+    y = ~ma.7, 
+    name = 'MA 7 días', mode = 'lines'
+  ) %>%
+  add_trace(
+    y = ~ma.14, 
+    name = 'MA 14 días', mode = 'lines'
+  )
+```
+
+## Medianas moviles
+
+```{r medianas.moviles}
+confirmados <- confirmados %>%
+  mutate(
+    mm.3 = zoo::rollmedian(CASOS, 3, align = "center", fill = NA),
+    mm.7 = zoo::rollmedian(CASOS, 7, align = "center", fill = NA),
+    mm.14 = zoo::rollmedian(CASOS, 14, align = "center", fill = NA)
+  )
+
+plot_ly(
+  data = confirmados, x = ~Fecha
+) %>%
+  add_trace(
+    y = ~CASOS, 
+    name = 'Reales', mode = 'markers'
+  ) %>%
+  add_trace(
+    y = ~mm.3, 
+    name = 'MM 3 días', mode = 'lines'
+  ) %>%
+  add_trace(
+    y = ~mm.7, 
+    name = 'MM 7 días', mode = 'lines'
+  ) %>%
+  add_trace(
+    y = ~mm.14, 
+    name = 'MM 14 días', mode = 'lines'
+  )
+```
+
+# Suavizado LOWESS
+
+```{r}
+
+confirmados <- confirmados %>%
+  mutate(
+    lowess.5 = lowess(CASOS, f= 1/5)$y,
+    lowess.10 = lowess(CASOS, f=1/10)$y,
+    lowess.20 = lowess(CASOS, f=1/20)$y
+  )
+
+
+plot_ly(
+  data = confirmados, x = ~Fecha
+) %>%
+  add_trace(
+    y = ~CASOS, 
+    name = 'Reales', mode = 'markers'
+  ) %>%
+  add_trace(
+    y = ~lowess.5, 
+    name = 'LOWESS 1/5', mode = 'lines'
+  ) %>%
+  add_trace(
+    y = ~lowess.10, 
+    name = 'LOWESS 1/10', mode = 'lines'
+  ) %>%
+  add_trace(
+    y = ~lowess.20, 
+    name = 'LOWESS 1/20', mode = 'lines'
+  )
+
+```
+
