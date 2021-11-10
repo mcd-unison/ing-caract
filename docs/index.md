@@ -63,7 +63,7 @@ DataCamp cuenta con cursos, proyectos, tutoriales y rutas de aprendizaje para ap
 ciencia de datos usando R, python y SQL. DataCamp ofrece 350+ cursos por instructores expertos en tópicos como importación de datos, visualización 
 y aprendizaje automático entre otros.
 
-Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educaciín alrededor del muno con esta iniciacita libre. Puesdes encontrar más información al respecto en
+Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educación alrededor del muno con esta iniciativa libre. Puedes encontrar más información al respecto en
 [datacamp.com/groups/education](datacamp.com/groups/education)
 
 
