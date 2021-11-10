@@ -53,7 +53,6 @@ que complementen las técnicas vistas en clases presenciales a distancia,
 y al mismo tiempo se generen una serie de evidencias de las competencias
 desarrolladas a lo largo del curso.
 
-### DataCamp
 
 <img src="https://waffles.datacamp.com/logo/logo-regular.svg" alt="DataCamp" height="100">
 
@@ -67,7 +66,6 @@ Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la e
 [datacamp.com/groups/education](datacamp.com/groups/education)
 
 
-### EdX On Line Campus Essentials de la Universidad de Sonora
 
 <img src="https://campus.edx.org/hubfs/Logo%20Files/edX-Online-Campus_stack_ELM.svg" alt="EdX Campus Essentials" height="100">
 
