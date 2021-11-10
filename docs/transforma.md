@@ -31,6 +31,4 @@ show_sidebar: false
 
 ## Series de tiempo
 
-
-
-## Suavizado
+1. Suavizado de datos

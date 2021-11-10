@@ -46,5 +46,32 @@ show_sidebar: false
    2. Análisis en componentes principales
    3. Otras técnicas de reducción
 
+## Herramientas de enseñanza
 
+Para este curso vamos a contar con diversas herramientas de enseñanza
+que complementen las técnicas vistas en clases presenciales a distancia, 
+y al mismo tiempo se generen una serie de evidencias de las competencias
+desarrolladas a lo largo del curso.
+
+### DataCamp
+
+<img src="https://waffles.datacamp.com/logo/logo-regular.svg" alt="DataCamp" height="100">
+
+
+Este curso tiene el soporte de [DataCamp](https://www.datacamp.com/) , una plataforma intuitiva para el aprendizaje de competencias para ciencia de datos.
+DataCamp cuenta con cursos, proyectos, tutoriales y rutas de aprendizaje para aprender desde los conceptos básicos hasta los temas avanzados de
+ciencia de datos usando R, python y SQL. DataCamp ofrece 350+ cursos por instructores expertos en tópicos como importación de datos, visualización 
+y aprendizaje automático entre otros.
+
+Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educaciín alrededor del muno con esta iniciacita libre. Puesdes encontrar más información al respecto en
+[datacamp.com/groups/education](datacamp.com/groups/education)
+
+
+### EdX On Line Campus Essentials de la Universidad de Sonora
+
+<img src="https://campus.edx.org/hubfs/Logo%20Files/edX-Online-Campus_stack_ELM.svg" alt="EdX Campus Essentials" height="100">
+
+[*Online Campus Essentials*](https://campus.edx.org/es/essentials) proporciona acceso ilimitado a determinados cursos de tecnología, informática, negocios y otras temáticas. La plataforma de aprendizaje activo de edX motiva e involucra a los estudiantes para apoyar su progreso y dominio de una materia. Los estudiantes obtienen certificados verificados al completar el curso con éxito.
+
+*Online Campus Essentials* Enriquece el aprendizaje de los estudiantes con módulos y tareas del curso con actividades de aprendizaje asíncronas y a ritmo propio en cualquier dispositivo. Las herramientas de la plataforma de edX permiten al profesorado y a los administradores hacer seguimiento de las inscripciones, la participación y medir el rendimiento.
 
