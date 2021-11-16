@@ -54,7 +54,7 @@ y al mismo tiempo se generen una serie de evidencias de las competencias
 desarrolladas a lo largo del curso.
 
 
-<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/datacamp.jpg" alt="DataCamp" height="150">
+<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/datacamp.jpg" alt="DataCamp" height="100">
 
 
 Este curso tiene el soporte de [DataCamp](https://www.datacamp.com/) , una plataforma intuitiva para el aprendizaje de competencias para ciencia de datos.
