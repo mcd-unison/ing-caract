@@ -15,8 +15,8 @@ show_sidebar: false
 
 ## Análisis en componentes principales
 
-1. [Notas sobre PCA](https://github.com/mcd-unison/ing-caract/raw/main/pdf/PCA-Standford.pdf) del curso de Andrew Ng en Standford
-2. [Principal Component Analysis](). Libreta de Colab del libro [Python Data Science Handbook](https://jakevdp.github.io/)
+1. [Notas sobre PCA](https://github.com/mcd-unison/ing-caract/raw/main/pdf/PCA-Standford.pdf) del curso de Andrew Ng en Stanford
+2. [Principal Component Analysis](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html). Libreta de Colab del libro [Python Data Science Handbook](https://jakevdp.github.io/)
 
 ## Otras técnicas de reducción
 

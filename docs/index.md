@@ -65,9 +65,7 @@ y aprendizaje automático entre otros.
 Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educación alrededor del muno con esta iniciativa libre. Puedes encontrar más información al respecto en
 [datacamp.com/groups/education](datacamp.com/groups/education)
 
-
-
-<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/edx-online-campus.png" alt="EdX Campus Essentials" height="150">
+<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/edx-online-campus.png" alt="EdX Campus Essentials" height="100">
 
 [*Online Campus Essentials*](https://campus.edx.org/es/essentials) proporciona acceso ilimitado a determinados cursos de tecnología, informática, negocios y otras temáticas. La plataforma de aprendizaje activo de edX motiva e involucra a los estudiantes para apoyar su progreso y dominio de una materia. Los estudiantes obtienen certificados verificados al completar el curso con éxito.
 
