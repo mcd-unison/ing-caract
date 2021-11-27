@@ -23,3 +23,13 @@ Por equipos de tres personas, seleccionar un conjunto de datos al que habrá que
 4. Resultados y conclusiones
 
 Cada uno de los miembros del equipo tendrán que tener un repositorio con la libreta desarrollada, los datos (o enlaces a sus fuentes) e información general del problema. Es posible hacer un solo repositorio y que los otros miembros hagan un *fork* del original
+
+## Resultados por equipos
+
+Sólo se anexa un repositorio por equipo, pero todos los estudiantes tienen su repositorio.
+
+1. Adilene Calderón, Adrian Vázquez y José Luís Bracamonte (No se tiene enlace al trabajo)
+2. [Martha Juárez, Manuel Valenzuela y Samuel Cortez](https://github.com/SamuelCortez2008/Anomaly_Detection_MCD) (*Repositorio privado al utilizar información sensible de una empresa*)
+3. [Ana Paola Vélez, Carlos Velázquez y Daniel Mendoza](https://github.com/carlosvelv/proyecto_anomalias)
+4. [Hugo Valenzuela, Ibsan Morales y Hector Domínguez](https://github.com/Silvertongue26/deteccionAnomalias)
+5. [Pedro Hernández, Benjamín López y Aaron Lara](https://github.com/Pedro-Hdez/deteccion-anomalias)

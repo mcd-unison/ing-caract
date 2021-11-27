@@ -21,6 +21,28 @@ y determinar que historia contar.
 Para esto, vamos a establecer un borrador (antes de escribir una sola linea de código) con el plan
 de acción y los datos que se van a mostrar.
 
+Borradores de dashboard de [José Luís Bracamonte](), [Adilene Calderón](), [Samuel Cortez](), [Pedro Hernández](), [Martha Juárez](), [Aaron Lara](), [Benjamín López](), [Daniel Mendoza](), [Ibsan Morales](),[Héctor Domínguez](), [Manuel Valenzuela](), [Hugo Valenzuela](), [Adrián Vázquez](), [Carlos Velázquez]() y [Paola Vélez]().   
+
 ## Desarrollar un tablero de visualización
 
-Aplicación de las ideas desarrolladas en la sección anterior.
+Aplicación de las ideas desarrolladas en la sección anterior:
+
+- José Luís Bracamonte
+- Adilene Calderón
+- Samuel Cortez
+- Pedro Hernández
+- Martha Juárez
+- Aaron Lara
+- Benjamín López
+- Daniel Mendoza
+- Ibsan Morales
+- Héctor Domínguez
+- Manuel Valenzuela
+- Hugo Valenzuela
+- Adrián Vázquez
+- Carlos Velázquez
+- Paola Vélez
+
+
+
+
