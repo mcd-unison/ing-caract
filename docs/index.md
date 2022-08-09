@@ -13,7 +13,7 @@ show_sidebar: false
 | **Horarios** | Lunes de 18:00 a 20:00 hrs     |
 |              | Sábados de 10:00 a 12:00       |
 |              | Jueves y viernes, 3 horas      |
-| **Lugar**    | Iniciamos en modalidad virtual (Teams) |
+| **Lugar**    | Aula 202, edificio 3K-4        |
 
 ## Temario
 

@@ -11,6 +11,12 @@ Hacer un tablero que cuente una historia a partir de un análisis exploratorio d
 importante en un proceso de ciencia de datos. 
 Estos tableros permiten ampliar la discusión y el entendimiento con los usuarios de los productos de datos y ayudan a plantear mejor las preguntas, seleccionar mejor los modelos de estimación y/o pronóstico así como a especificar más claramente los productos a desarrollar.
 
+En este proyecto vamos a utilizar al menos dos fuentes diferentes de datos para combinarlas y hacer un análisis exploratorio de datos sobre alguna problemática del estado de Sonora o la Ciudad de Hermosillo. En el proyecto es requisito:
+
+1. Usar datos históricos (tipo `datetime`)
+2. Usar datos numéricos y cualitativos
+3. Limpiar y analizar datos faltantes
+
 
 ## Contando una historia con los datos
 
@@ -21,9 +27,10 @@ y determinar que historia contar.
 Para esto, vamos a establecer un borrador (antes de escribir una sola linea de código) con el plan
 de acción y los datos que se van a mostrar.
 
-Borradores de dashboard de [José Luís Bracamonte](), [Adilene Calderón](), [Samuel Cortez](), [Pedro Hernández](), [Martha Juárez](), [Aaron Lara](), [Benjamín López](), [Daniel Mendoza](), [Ibsan Morales](),[Héctor Domínguez](), [Manuel Valenzuela](), [Hugo Valenzuela](), [Adrián Vázquez](), [Carlos Velázquez]() y [Paola Vélez]().   
 
 ## Desarrollar un tablero de visualización
+
+
 
 Aplicación de las ideas desarrolladas en la sección anterior:
 
