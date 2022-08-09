@@ -55,7 +55,7 @@ y al mismo tiempo se generen una serie de evidencias de las competencias
 desarrolladas a lo largo del curso.
 
 
-<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/datacamp.jpg" alt="DataCamp" height="50">
+<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/datacamp.jpg" alt="DataCamp" height="10">
 
 
 Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educación alrededor del muno con esta iniciativa libre. Puedes encontrar más información al respecto en [datacamp.com/groups/education](datacamp.com/groups/education).
@@ -70,7 +70,7 @@ Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la e
 
 *Online Campus Essentials* Enriquece el aprendizaje de los estudiantes con módulos y tareas del curso con actividades de aprendizaje asíncronas y a ritmo propio en cualquier dispositivo. Las herramientas de la plataforma de edX permiten al profesorado y a los administradores hacer seguimiento de las inscripciones, la participación y medir el rendimiento.
 
-<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/Coursera-for-Campus.png" alt="Coursera for Campus" height="100">
+<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/Coursera-for-Campus.png" alt="Coursera for Campus" height="30">
 
 [Coursera for Campus Basic plan](https://www.coursera.org/campus/basic/) ofrece todos los proyectos de *Coursera project network* sin costo alguno para los estudiantes registrados. Los proyectos guiados son experiencias de aprendizaje  *hands-on* donde los estudiantes desarrollan habilidades muy específicas en pequeños proyectos de dos horas o menos. Los proyectos se realizan en un entorno en nube y sólamente es necesaria una computadora con navegador relativamente reciente.
 
