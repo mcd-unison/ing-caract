@@ -29,20 +29,20 @@ show_sidebar: false
    2. Datos cualitativos
    3. Cadenas de caracteres
    4. Fechas, horas y series de tiempo
-   5. Imputación de datos
-   6. Agregación
-4. **Análisis exploratorio de Datos**
+4. **Transformación de datos**
+   1. Valores faltantes e imputación de datos
+   2. Agregación
+   3. Generación de características
+5. **Análisis exploratorio de Datos**
    1. Indicadores claves de desempeño
    2. Herramientas para EDA
    3. Principios básicos de visualización
    4. Desarrollo de tableros para EDA
-   5. Manejo de información georeferenciada
-5. **Transformación de datos**
-   1. Series de tiempo
-   2. Generación de características
+6. **Casos especiales**
+   1. Información georeferenciada
+   2. Series de tiempo
    3. Detección de anomalías
-   4. Suavizado
-6. **Reducción de datos**
+7. **Reducción de datos**
    1. Selección de características
    2. Análisis en componentes principales
    3. Otras técnicas de reducción
