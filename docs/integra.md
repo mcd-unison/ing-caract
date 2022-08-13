@@ -13,9 +13,10 @@ show_sidebar: false
 2. El [INEGI](https://www.inegi.org.mx/default.html)
 3. El portal de [datos abiertos del gobierno de México](https://datos.gob.mx)
 4. El portal de [Datamx](http://datamx.io) o el de [Data Civica](https://datacivica.org)
-5. [Kaggle](https://www.kaggle.com/datasets)
-6. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
-7. [Google Dataset Search](https://datasetsearch.research.google.com)
+5. [Explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
+6. [Kaggle](https://www.kaggle.com/datasets)
+7. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
+8. [Google Dataset Search](https://datasetsearch.research.google.com)
 
 
 ## Descargando archivos
@@ -29,16 +30,17 @@ show_sidebar: false
 
 - Usando [`ddownload.file`](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/download.file)
 - Descargando los datos [Directamente cuando se leen](https://www.datacamp.com/community/tutorials/r-data-import-tutorial?utm_source=adwords_ppc&utm_campaignid=1658343524&utm_adgroupid=63833881815&utm_device=c&utm_keyword=%2Bread%20%2Bdata%20%2Br&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=469789579419&utm_targetid=aud-522010995285:kwd-309793905111&utm_loc_interest_ms=&utm_loc_physical_ms=1010167&gclid=CjwKCAjw092IBhAwEiwAxR1lRvFJfvVx6UVJMwqkAUiVf7v6mqs-m5V2Ti3umTn1qbwYYvQOisnMRxoC2RgQAvD_BwE).
+- [Acordeón de R para descarga de archivos](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf)
 
 ### Usando python
 
 - [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6)
 - [Descargando datos con Pandas](https://towardsdatascience.com/direct-to-pandas-dataframe-ab2e97ae7574)
-
+- [Acordeón de python para descarga de datos](http://datacamp-community-prod.s3.amazonaws.com/72e88aa1-b4f2-4658-9d86-15becf8263df)
 
 ### Vamos practicando
 
-Vamos a descargar y analizar los datos de COVID de México usando linea de comando, python y R.
+Vamos a descargar y analizar datos de Sonora usando linea de comando, python y R.
 
 ## Tipos de archivos, y como leerlos en python y R
 
@@ -62,6 +64,7 @@ El curso de SQL lo va a impartir Juan Pablo en la materia de *Introducción*
 3. [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
 4. [Tutorial de Beautiful Soup 4](https://realpython.com/beautiful-soup-web-scraper-python/)
 5. [Tutoriales del uso de la API de *Tweeter*][https://developer.twitter.com/en/docs/tutorials]
+6. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
 
 
 

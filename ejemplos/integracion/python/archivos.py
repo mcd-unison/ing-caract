@@ -1,12 +1,14 @@
 # Carga archivos desde internet (muchas formas de hacerlo)
 
 import os  # Para manejo de archivos y directorios
-import urllib # Una forma estandard de descargar datos
+import urllib.request # Una forma estandard de descargar datos
 # import requests # Otra forma no de las librerías de uso comun
 
 import datetime # Fecha de descarga
 import pandas as pd # Solo para ver el archivo descargado
 import zipfile # Descompresión de archivos
+
+
 
 # pwd
 print(os.getcwd())
