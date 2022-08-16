@@ -14,11 +14,20 @@ show_sidebar: false
 2. [Datos crudos (*raw*) vs ordenados (*tidy*)](https://github.com/mcd-unison/ing-caract/raw/main/slides/RawAndProcessedData.pdf)
 3. [Características de los datos ordenados](https://github.com/mcd-unison/ing-caract/raw/main/slides/ComponentsOfTidyData.pdf)
 
-## Cursos cortos para realizar
+## Cursos recomendados para iniciar
+
+### Python
+
+
+
+### R
+
+
+
+## Curso corto para una visión general
 
 1. Curso *Data Science Tools* de IBM en el *EdX Capus Essentials* de la Universidad de Sonora
 
-2. Curso *Data Science: Productivity Tools* de Harvard en el *EdX Capus Essentials* de la Universidad de Sonora
 
 ## Lecturas recomendadas
 
