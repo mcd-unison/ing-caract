@@ -18,7 +18,14 @@ show_sidebar: false
 
 ### Python
 
-
+- [Libretas jupyter](intro-jupyter.html)
+- Algunas opciones de libretas jupyter en linea:  
+   - [Binder](https://mybinder.org)
+   - [Colaborative (Colab)](https://colab.research.google.com)
+   - [Kaggle](https://www.kaggle.com/code)
+   - [DeepNote](https://deepnote.com)
+   - [SageMaker Studio Lab](https://studiolab.sagemaker.aws)
+   - [Datalore](https://datalore.jetbrains.com/)
 
 ### R
 
