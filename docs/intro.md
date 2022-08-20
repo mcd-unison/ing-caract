@@ -16,7 +16,9 @@ show_sidebar: false
 
 ## Cursos recomendados para iniciar
 
-### Python
+- [Introduction to Data Science]()
+
+## Python
 
 - [Libretas jupyter](intro-jupyter.html)
 - Algunas opciones de libretas jupyter en linea:  
@@ -27,13 +29,16 @@ show_sidebar: false
    - [SageMaker Studio Lab](https://studiolab.sagemaker.aws)
    - [Datalore](https://datalore.jetbrains.com/)
 
-### R
+## Entornos de Ciencia de datos
 
+- [DataBricks, community edition](https://www.databricks.com/try-databricks)
+- [Dataiku, free edition (on premise)](https://www.dataiku.com/product/get-started/)
+- [Para solicitar acceso a los cursos de DataBricks](https://docs.google.com/forms/d/1xa7NHz5mWh5y40KiyshOi4_XJRnWIVGrtyqI0uNvyFE/edit)
 
+## Entornos para BI y reportes (sin costo)
 
-## Curso corto para una visión general
-
-1. Curso *Data Science Tools* de IBM en el *EdX Capus Essentials* de la Universidad de Sonora
+- [Tableau public](https://public.tableau.com/s/)
+- [Google DataStudio](https://datastudio.google.com)
 
 
 ## Lecturas recomendadas

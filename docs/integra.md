@@ -52,6 +52,11 @@ Vamos a descargar y analizar datos de Sonora usando linea de comando, python y R
 5. Archivos [Excel](https://www.linkedin.com/pulse/why-all-data-scientists-learn-ms-excel-karthik-shashidhar)
 6. Archivos [Parquet](https://databricks.com/glossary/what-is-parquet)
 
+## Ingeniería de datos
+
+1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
+2. Entorno para Ciencia de Datos [*DeltaLake*](https://delta.io) y [una presentación](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
+
 ## Usando SQL para leer archivos
 
 El curso de SQL lo va a impartir Juan Pablo en la materia de *Introducción*
