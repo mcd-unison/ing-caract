@@ -31,6 +31,7 @@ show_sidebar: false
 - Usando [`ddownload.file`](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/download.file)
 - Descargando los datos [Directamente cuando se leen](https://www.datacamp.com/community/tutorials/r-data-import-tutorial?utm_source=adwords_ppc&utm_campaignid=1658343524&utm_adgroupid=63833881815&utm_device=c&utm_keyword=%2Bread%20%2Bdata%20%2Br&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=469789579419&utm_targetid=aud-522010995285:kwd-309793905111&utm_loc_interest_ms=&utm_loc_physical_ms=1010167&gclid=CjwKCAjw092IBhAwEiwAxR1lRvFJfvVx6UVJMwqkAUiVf7v6mqs-m5V2Ti3umTn1qbwYYvQOisnMRxoC2RgQAvD_BwE).
 - [Acordeón de R para descarga de archivos](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf)
+- [Ejemplito de RMarkdown para descarga de datos](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/integracion/R/descarga_datos.Rmd)
 
 ### Usando python
 
