@@ -16,7 +16,9 @@ show_sidebar: false
 
 ## Cursos recomendados para iniciar
 
-- [Introduction to Data Science]()
+- [Introduction to Data Science](https://enterprise.edx.org/uni-sonora/course/IBM+DS0101EN)
+- [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep) de Google.
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) de Udacity
 
 ## Python
 

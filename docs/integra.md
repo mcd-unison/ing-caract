@@ -57,6 +57,7 @@ Vamos a descargar y analizar datos de Sonora usando linea de comando, python y R
 
 1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
 2. Entorno para Ciencia de Datos [*DeltaLake*](https://delta.io) y [una presentación](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
+3. Curso sobre [*Datalakes fundamentals*](https://customer-academy.databricks.com/) de Databricks
 
 ## Usando SQL para leer archivos
 
@@ -70,7 +71,7 @@ El curso de SQL lo va a impartir Juan Pablo en la materia de *Introducción*
 2. [Usando la API desde R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromAPIs.pdf)
 3. [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
 4. [Tutorial de Beautiful Soup 4](https://realpython.com/beautiful-soup-web-scraper-python/)
-5. [Tutoriales del uso de la API de *Tweeter*][https://developer.twitter.com/en/docs/tutorials]
+5. [Tutoriales del uso de la API de *Tweeter*](https://developer.twitter.com/en/docs/tutorials)
 6. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
 
 
