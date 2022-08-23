@@ -1,0 +1,146 @@
+---
+title: "Integración de datos"
+subtitle: "Maestría en Ciencia de Datos"
+author: "Julio Waissman Vilanova"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Descargando datos a la fuerza bruta
+
+Vamos a ver primero como ir descargando datos y luego como lidiar con diferentes formatos. Es muy importante que, si los datos los vamos a cargar por única vez, descargar el conjunto de datos, tal como se encuentran, esto es `raw data`.
+
+Recuerda primero establecer tu directorio de trabajo (pwd) porque en R a veces esto no es claro. Recuerda que, como si fuera una libreta Jupyter, puedes ejecutar los RMarkdown por celdas.
+
+```{r pwd}
+getwd()
+# setwd("Aquí pon el directorio o hazlo a punta de clicks")
+# getwd()
+
+```
+
+Es importante saber en donde nos encontramos y crear los subdirectorios necesarios para guardar los datos de manera ordenada. Tambien es importante evitar cargar datos que ya han sido descargados anteriormente.
+
+```{r archivos}
+
+#  Estos son los datos que vamos a descargar y donde vamos a guardarlos
+desaparecidos.RNPDNO.url <- "http://www.datamx.io/dataset/fdd2ca20-ee70-4a31-9bdf-823f3c1307a2/resource/d352810c-a22e-4d72-bb3b-33c742c799dd/download/desaparecidos3ago.zip"
+
+desaparecidos.RNPDNO.archivo <- "desaparecidosRNPDNO.zip"
+
+desaparecidos.corte.nacional.url <- "http://www.datamx.io/dataset/fdd2ca20-ee70-4a31-9bdf-823f3c1307a2/resource/4865e244-cf59-4d39-b863-96ed7f45cc70/download/nacional.json"
+
+desaparecidos.corte.nacional.archivo <- "desaparecidos_nacional.json"
+subdir <- "./data/"
+
+```
+
+Y ahora lo que ya habíamos hacho en python:
+
+```{r descarga}
+
+if (!dir.exists(subdir)){
+  dir.create(subdir)
+}
+
+archivo.descarga <- paste(subdir, desaparecidos.RNPDNO.archivo, "")
+if(!file.exists(archivo.descarga)){
+  download.file(desaparecidos.RNPDNO.url, destfile = archivo.descarga)  
+  unzip(archivo.descarga, exdir = subdir)
+  
+  download.file(
+    desaparecidos.corte.nacional.url, 
+    destfile = paste(subdir, desaparecidos.corte.nacional.archivo, "")
+  )  
+
+  fecha.descarga <- date()
+  info <- data.frame(
+    concepto = c(
+      'Fecha de descarga', 'URL', 'Archivo', 'Nacional URL', 'Nacional'
+    ),
+    valor = c(
+      fecha.descarga, desaparecidos.RNPDNO.url, archivo.descarga, 
+      desaparecidos.corte.nacional.url, desaparecidos.corte.nacional.archivo
+    )
+  )
+  write.csv(x = info, file = "../data/info.txt")
+}
+
+```
+
+## 2. Archivos en formato `json`
+
+Los archivos en formato json son posiblemente los más utilizados actualmente para transferir información por internet, ya que se usa en prácticamente todas las REST API. Como acabamos de ver es normal tener que enfrentarse con archivos `json` pésimamente o nada documentados, por lo que es necesario saber como tratarlos.
+
+Vamos a ver como se hace eso utilizando la bibloteca de `jsonlite`. Para la mayoría de las librerías de R, lo mejor es buscar la documentación que se genera con `vignettes`, como [esta de jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html).
+
+Sobre `json`, posiblemente [la página con la especificación](https://www.json.org/json-en.html) sea más que suficiente.
+
+Vamos a hacer un ejemplito sencillo y carismático revisando los repositorios de [github](https://github.com) y les voy a dejar que exploren los `json` de los archivos de personas desaparecidas.
+
+```{r json}
+library(jsonlite)
+
+subdir <- "./data"
+
+# Descargar archivo (una sola vez)
+usuario <- "google"
+archivo.url <- paste("https://api.github.com/users/", usuario, "/repos", sep="")
+archivo.nombre <- paste("../data/", usuario, "-repos.json", sep="")
+
+if (!dir.exists(subdir)){
+  dir.create(subdir)
+}
+
+if(!file.exists(archivo.nombre)){
+  download.file(archivo.url, destfile = archivo.nombre)  
+  fecha.descarga <- date()
+}
+
+r.json <- fromJSON(archivo.nombre)
+
+```
+
+# 3. Archivos xml
+
+Los archivos *xml* son una manera de compartir información a través de internet o de guardar información con formatos genéricos que sigue siendo muy utilizada hoy en día. En general lidiar con archivos xml es una pesadilla y se necesita explorarlos con calma y revisarlos bien antes de usarlos.
+
+La definición del formato y su uso se puede revisar en [este tutorial de la w3schools](https://www.w3schools.com/xml/default.asp). Vamos a ver un ejemplo sencillo basado en la librería [xml2](https://cran.r-project.org/web/packages/xml2/index.html) y aprovechamos para ver una de las cosas más aterradoras pero más completas del lenguage R, su documentación:
+
+```{r xml}
+#%% Archivos en xml
+library("xml2")
+
+#--------Leer archivo ejemplo xml-------------------
+archivo <- "https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/integracion/ejemplos/ejemplo.xml"
+datos.xml <- read_xml(archivo)
+
+for (des in xml_children(xml_root(datos.xml))){
+  print("Opción:")
+  for (atr in xml_children(des)){
+    print(paste("   ", xml_name(atr), "->", xml_text(atr)))
+  }
+}
+
+#-----Buscar por etiquetas y subetiquetas-----------
+print("Las opciones disponibles son:")
+for (menu in xml_find_all(datos.xml,"food/name")){
+  print(xml_text(menu))
+}
+
+```
+
+# 4. Archivos de Excel
+
+Los archivos de excel son a veces nuestros mejores amigos, y otras veces nuestras peores pesadillas. Un archivo en excel (o cualquier otra hoja de caálculo) son formatos muy útiles que permiten compartir información técnica con personas sin preparación técnica, lo que lo vuelve una herramienta muy poderosa para comunicar hallazgos a los usuarios.
+
+Igualmente, la manipulación de datos a través de hojas de cálculo, sin usarlas correctamente (esto es, programando cualquier modificación) genera normalmente un caos y una fuga de información importante para una posterior toma de desición. 
+
+Como buena práctica, si se tiene acceso a la fuente primaria de datos y se puede uno evitar el uso de datos procesados en hoja de calculo, siempre es mejor esa alternativa (como científico de datos o analista de datos). Pero eso muchas veces es imposible.
+
+Vamos a dejar la importación desde `xlsx` a los cursos de *DataCamp* que lo tratan magistralmente. Es importante que, para que se pueda importar desde python o R, muchas veces es necesario instalar librerías extras.
+
