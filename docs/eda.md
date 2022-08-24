@@ -38,7 +38,3 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 3. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html)
 4. [Python tools for data visualization](https://pyviz.org)
 
-## Información georeferenciada (mapas)
-
-1. La biblioteca [Leaflet](https://leafletjs.com) y su interface [para R](https://rstudio.github.io/leaflet/) y [para python](http://python-visualization.github.io/folium/).
-2. Archivos [geojson](https://geojson.org), [archivos Shape](https://en.wikipedia.org/wiki/Shapefile)

@@ -13,3 +13,8 @@ show_sidebar: false
 2. Libreta de colab [Working with Time Series](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html), como parte del libro en linea [Python Data Science Handbook](https://jakevdp.github.io/)PythonDataScienceHandbook/)
 3. [Suavizado por medias móviles, filtro exponencial y *Holt-Winters*](https://medium.com/@srv96/smoothing-techniques-for-time-series-data-91cccfd008a2)
 
+## Información georeferenciada (mapas)
+
+1. La biblioteca [Leaflet](https://leafletjs.com) y su interface [para R](https://rstudio.github.io/leaflet/) y [para python](http://python-visualization.github.io/folium/).
+2. Archivos [geojson](https://geojson.org), [archivos Shape](https://en.wikipedia.org/wiki/Shapefile)
+
