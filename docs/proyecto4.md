@@ -1,8 +1,8 @@
 ---
-title: Proyecto 4. Un proceso de ingeniería de características
+title: Proyecto 3. Un proceso de ingeniería de características
 subtitle: Curso Ingeniería de Características
 layout: page
-hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/iintegrabanner.png
+hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/anomaly-banner.jpg
 hero_darken: true
 show_sidebar: false
 ---
