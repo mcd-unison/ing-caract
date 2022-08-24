@@ -24,24 +24,24 @@ show_sidebar: false
    1. Lectura de formatos `csv`, `json`, `xml`, `sql`
    2. Uso de API's para adquirir información
    3. Operaciones comunes en `dataframes`
-3. **Limpieza de datos**
+3. **Tipos de datos**
    1. Datos numéricos
    2. Datos cualitativos
    3. Cadenas de caracteres
    4. Fechas, horas y series de tiempo
 4. **Transformación de datos**
    1. Valores faltantes e imputación de datos
-   2. Agregación
-   3. Generación de características
+   2. Detección de anomalías
+   3. Agregación
+   4. Generación de características
 5. **Análisis exploratorio de Datos**
    1. Indicadores claves de desempeño
    2. Herramientas para EDA
    3. Principios básicos de visualización
    4. Desarrollo de tableros para EDA
-6. **Casos especiales**
-   1. Información georeferenciada
-   2. Series de tiempo
-   3. Detección de anomalías
+6. **Series de tiempo y datos georeferenciados**
+   1. Series de tiempo
+   2. Información georeferenciada
 7. **Reducción de datos**
    1. Selección de características
    2. Análisis en componentes principales

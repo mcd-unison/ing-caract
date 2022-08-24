@@ -1,6 +1,0 @@
-"","concepto","valor"
-"1","Fecha de descarga","Tue Aug 23 13:30:35 2022"
-"2","URL","http://www.datamx.io/dataset/fdd2ca20-ee70-4a31-9bdf-823f3c1307a2/resource/d352810c-a22e-4d72-bb3b-33c742c799dd/download/desaparecidos3ago.zip"
-"3","Archivo","./data/ desaparecidosRNPDNO.zip "
-"4","Nacional URL","http://www.datamx.io/dataset/fdd2ca20-ee70-4a31-9bdf-823f3c1307a2/resource/4865e244-cf59-4d39-b863-96ed7f45cc70/download/nacional.json"
-"5","Nacional","desaparecidos_nacional.json"

@@ -47,7 +47,7 @@ if (!dir.exists(subdir)){
   dir.create(subdir)
 }
 
-archivo.descarga <- paste(subdir, desaparecidos.RNPDNO.archivo, "")
+archivo.descarga <- paste(subdir, desaparecidos.RNPDNO.archivo, sep="")
 if(!file.exists(archivo.descarga)){
   download.file(desaparecidos.RNPDNO.url, destfile = archivo.descarga)  
   unzip(archivo.descarga, exdir = subdir)
@@ -67,7 +67,7 @@ if(!file.exists(archivo.descarga)){
       desaparecidos.corte.nacional.url, desaparecidos.corte.nacional.archivo
     )
   )
-  write.csv(x = info, file = "../data/info.txt")
+  write.csv(x = info, file = "./data/info.txt")
 }
 
 ```
@@ -90,7 +90,7 @@ subdir <- "./data"
 # Descargar archivo (una sola vez)
 usuario <- "google"
 archivo.url <- paste("https://api.github.com/users/", usuario, "/repos", sep="")
-archivo.nombre <- paste("../data/", usuario, "-repos.json", sep="")
+archivo.nombre <- paste(subdir, usuario, "-repos.json", sep="")
 
 if (!dir.exists(subdir)){
   dir.create(subdir)
@@ -138,9 +138,8 @@ for (menu in xml_find_all(datos.xml,"food/name")){
 
 Los archivos de excel son a veces nuestros mejores amigos, y otras veces nuestras peores pesadillas. Un archivo en excel (o cualquier otra hoja de caálculo) son formatos muy útiles que permiten compartir información técnica con personas sin preparación técnica, lo que lo vuelve una herramienta muy poderosa para comunicar hallazgos a los usuarios.
 
-Igualmente, la manipulación de datos a través de hojas de cálculo, sin usarlas correctamente (esto es, programando cualquier modificación) genera normalmente un caos y una fuga de información importante para una posterior toma de desición. 
+Igualmente, la manipulación de datos a través de hojas de cálculo, sin usarlas correctamente (esto es, programando cualquier modificación) genera normalmente un caos y una fuga de información importante para una posterior toma de desición.
 
 Como buena práctica, si se tiene acceso a la fuente primaria de datos y se puede uno evitar el uso de datos procesados en hoja de calculo, siempre es mejor esa alternativa (como científico de datos o analista de datos). Pero eso muchas veces es imposible.
 
 Vamos a dejar la importación desde `xlsx` a los cursos de *DataCamp* que lo tratan magistralmente. Es importante que, para que se pueda importar desde python o R, muchas veces es necesario instalar librerías extras.
-

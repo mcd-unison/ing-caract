@@ -1,5 +1,5 @@
 ---
-title: Limpieza de Datos 
+title: Tipos de Datos 
 subtitle: Curso Ingeniería de Características
 layout: page
 hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/organize-banner.jpg
@@ -47,24 +47,4 @@ show_sidebar: false
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 7. Nubes de palabras [en python](https://amueller.github.io/word_cloud/) y [en R](https://cran.r-project.org/web/packages/wordcloud2/)
-
-## Agregación
-
-1. [Operadores de agregación](https://www.researchgate.net/profile/Magda-Komornikova/publication/285874074_Aggregation_operators_Properties_classes_and_construction_methods_Aggregation_operators_New_trends_and_applications/links/57832d7f08ae69ab88286d25/Aggregation-operators-Properties-classes-and-construction-methods-Aggregation-operators-New-trends-and-applications.pdf?_sg%5B0%5D=CnLFj_rNk1q8U3VLYbtDK1L94kNI1XBzFgrPK5vsO3b2vZYql03JSzRXon5rRZ2xnPUTo8w9lF96BTbSRhU3yA.B-4ecmBWT8oVAK6Y99nPSRyycwpAtU-ptO-jIj79Pod3oNsiVVnihUGgRhY1sEszKha86uC5gaq7tEr11gqjHw&_sg%5B1%5D=hKHosvszXiBud6dou0kAvJvHqDZ36T5UN6OYxiv6Cum8NMoqA4cdFvPPKezZbEy5viaF6O1nHHpBx5UW9Q2sQOlWZ_1mDC5COCf57riDQhhD.B-4ecmBWT8oVAK6Y99nPSRyycwpAtU-ptO-jIj79Pod3oNsiVVnihUGgRhY1sEszKha86uC5gaq7tEr11gqjHw&_iepl=), visto de un punto de vista muy formal. 
-2. [Operadores de centro segun wikipedia](https://en.wikipedia.org/wiki/Average)
-3. [Operadores de agregación OWA](https://www.researchgate.net/publication/228553904_OWA_Operators_in_Decision_Making).
-4. Operadores del tipo [disyunción y conjunción](https://en.wikipedia.org/wiki/T-norm).
-5. Agregación basada en [medidas de dispersión](https://en.wikipedia.org/wiki/Statistical_dispersion). 
-6. Agregación en uno y múltiples indices [en R](https://dplyr.tidyverse.org/articles/grouping.html) y [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html).
-
-## Operaciones comunes de limpieza en dataframes
-
-1. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html) y [en R](https://tidyr.tidyverse.org/articles/pivot.html).
-2. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) y [en R](https://dplyr.tidyverse.org/articles/two-table.html). 
-
-# Bibliotecas generales de limpieza de datos
-
-1. [R for Data Science](https://r4ds.had.co.nz), el libro de cabecera del *tidyverse*.
-2. [Data Cleaning in Python: the Ultimate Guide](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d). No es lo que el título trata vender pero si trae una guía de varias de las operaciones que normalmente hay que realizar para limpieza de datos.
-
 

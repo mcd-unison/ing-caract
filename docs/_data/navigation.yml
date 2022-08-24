@@ -3,14 +3,16 @@
   dropdown:
     - name: Introducción 
       link: /intro/
-    - name: Integración de datos
+    - name: Obtención de datos
       link: /integra/
-    - name: Limpieza de datos
+    - name: Tipos de datos
       link: /limpieza/
-    - name: Análisis exploratorio de datos
-      link: /eda/
     - name: Transformación de datos
       link: /transforma/
+    - name: Análisis exploratorio de datos
+      link: /eda/
+    - name: Series de tiempo y datos georeferenciados
+      link: /casos/
     - name: Reducción de datos
       link: /reducccion/
 - name: Proyectos

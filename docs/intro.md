@@ -7,18 +7,12 @@ hero_darken: true
 show_sidebar: false
 ---
 
-
 ## Presentaciones
 
 1. [Presentación inicial del curso](https://github.com/mcd-unison/ing-caract/raw/main/slides/inicial.pdf)
 2. [Datos crudos (*raw*) vs ordenados (*tidy*)](https://github.com/mcd-unison/ing-caract/raw/main/slides/RawAndProcessedData.pdf)
 3. [Características de los datos ordenados](https://github.com/mcd-unison/ing-caract/raw/main/slides/ComponentsOfTidyData.pdf)
 
-## Cursos recomendados para iniciar
-
-- [Introduction to Data Science](https://enterprise.edx.org/uni-sonora/course/IBM+DS0101EN)
-- [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep) de Google.
-- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) de Udacity
 
 ## Python
 
@@ -35,13 +29,12 @@ show_sidebar: false
 
 - [DataBricks, community edition](https://www.databricks.com/try-databricks)
 - [Dataiku, free edition (on premise)](https://www.dataiku.com/product/get-started/)
-- [Para solicitar acceso a los cursos de DataBricks](https://docs.google.com/forms/d/1xa7NHz5mWh5y40KiyshOi4_XJRnWIVGrtyqI0uNvyFE/edit)
+- [Para solicitar acceso a los cursos de DataBricks](https://docs.google.com/forms/d/1xa7NHz5mWh5y40KiyshOi4_XJRnWIVGrtyqI0uNvyFE/edit) y un [archivo con instrucciones para ingresar a los Cursos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/databricks-instructions.pdf)
 
 ## Entornos para BI y reportes (sin costo)
 
 - [Tableau public](https://public.tableau.com/s/)
 - [Google DataStudio](https://datastudio.google.com)
-
 
 ## Lecturas recomendadas
 
@@ -49,3 +42,7 @@ show_sidebar: false
 
 2. [100 libros gratuitos sobre Ciencia de Datos o métodos asociados](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
 
+## Actividades de aprendizaje y sus evidencias
+
+- Realizar el curso [Introduction to Data Science](https://enterprise.edx.org/uni-sonora/course/IBM+DS0101EN) de IBM, en EdX.
+- Realizar el curso [Data Preparation and Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep) de *Google Developers*.

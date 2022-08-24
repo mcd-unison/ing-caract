@@ -17,7 +17,7 @@ show_sidebar: false
 6. [Kaggle](https://www.kaggle.com/datasets)
 7. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
 8. [Google Dataset Search](https://datasetsearch.research.google.com)
-
+9. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
 
 ## Descargando archivos
 
@@ -31,6 +31,8 @@ show_sidebar: false
 - Usando [`ddownload.file`](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/download.file)
 - Descargando los datos [Directamente cuando se leen](https://www.datacamp.com/community/tutorials/r-data-import-tutorial?utm_source=adwords_ppc&utm_campaignid=1658343524&utm_adgroupid=63833881815&utm_device=c&utm_keyword=%2Bread%20%2Bdata%20%2Br&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=469789579419&utm_targetid=aud-522010995285:kwd-309793905111&utm_loc_interest_ms=&utm_loc_physical_ms=1010167&gclid=CjwKCAjw092IBhAwEiwAxR1lRvFJfvVx6UVJMwqkAUiVf7v6mqs-m5V2Ti3umTn1qbwYYvQOisnMRxoC2RgQAvD_BwE).
 - [Acordeón de R para descarga de archivos](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf)
+- [Usando la API desde R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromAPIs.pdf)
+- [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
 - [Ejemplito de RMarkdown para descarga de datos](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/integracion/R/descarga_datos.Rmd)
 
 ### Usando python
@@ -38,11 +40,15 @@ show_sidebar: false
 - [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6)
 - [Descargando datos con Pandas](https://towardsdatascience.com/direct-to-pandas-dataframe-ab2e97ae7574)
 - [Acordeón de python para descarga de datos](http://datacamp-community-prod.s3.amazonaws.com/72e88aa1-b4f2-4658-9d86-15becf8263df)
+- [Tutorial para el uso de Rest API en python](https://realpython.com/python-api/)
+- [Tutorial de Beautiful Soup 4](https://realpython.com/beautiful-soup-web-scraper-python/)
+
 - [Una libreta de ejemplito](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb)
 
-### Vamos practicando
+### SQL
 
-Vamos a descargar y analizar datos de Sonora usando linea de comando, python y R.
+- Curso [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) de Udacity
+
 
 ## Tipos de archivos, y como leerlos en python y R
 
@@ -59,20 +65,13 @@ Vamos a descargar y analizar datos de Sonora usando linea de comando, python y R
 2. Entorno para Ciencia de Datos [*DeltaLake*](https://delta.io) y [una presentación](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
 3. Curso sobre [*Datalakes fundamentals*](https://customer-academy.databricks.com/) de Databricks
 
-## Usando SQL para leer archivos
 
-El curso de SQL lo va a impartir Juan Pablo en la materia de *Introducción*
+## Actividades de aprendizaje y sus evidencias
 
-¿Vemos el curso *SQL aplicado en la ciencia de datos* de EdX?
-
-## Rest-API y *web scrapping*
-
-1. [Tutorial para el uso de Rest API en python](https://realpython.com/python-api/)
-2. [Usando la API desde R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromAPIs.pdf)
-3. [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
-4. [Tutorial de Beautiful Soup 4](https://realpython.com/beautiful-soup-web-scraper-python/)
-5. [Tutoriales del uso de la API de *Tweeter*](https://developer.twitter.com/en/docs/tutorials)
-6. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
-
+1. Descargar datos de un problema de interés personal de al menos dos fuentes diferentes (repositorio público)
+2. Realizar el *skill track* [SQL Fundamentals](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) de DataCamp.
+3. Realizar el *skill track* [Importing and cleaning data with r](https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-r?version=2) de DataCamp
+4. Realizar el *skill track* [Importing and cleaning data with python](https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-python) de DataCamp
+5. Realizar el *learning path* [Databricks Lakehouse Fundamentals](https://customer-academy.databricks.com/learn/lp/21/Databricks%2520Lakehouse%2520Fundamentals%2520Learning%2520Plan) de DataBricks
 
 
