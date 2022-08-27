@@ -13,8 +13,10 @@ show_sidebar: false
 
 1. [*Engineering Numeric Predictors*](http://www.feat.engineering/engineering-numeric-predictors.html)
 2. [*Normalización y estandarización de datos numéricos*](https://towardsdatascience.com/clearly-explained-what-why-and-how-of-feature-scaling-normalization-standardization-e9207042d971)
-3. [Una opinión en contra de la discretización](https://medium.com/@peterflom/why-binning-continuous-data-is-almost-always-a-mistake-ad0b3a1d141f)
-4. [Una opinión a favor de la discretización](https://towardsdatascience.com/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde)
+3. [Algunas transformaciones en variables numéricas a considerar (`sci-kit learn` guide)](https://scikit-learn.org/stable/modules/preprocessing.html#non-linear-transformation)
+4. [Un ejemplo en `sci-kit learn` de diferentes métodos de escalamiento](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#sphx-glr-auto-examples-preprocessing-plot-all-scaling-py)
+5. [Una opinión en contra de la discretización](https://medium.com/@peterflom/why-binning-continuous-data-is-almost-always-a-mistake-ad0b3a1d141f)
+6. [Una opinión a favor de la discretización](https://towardsdatascience.com/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde)
 
 ### Categóricos
 
