@@ -14,10 +14,11 @@ show_sidebar: false
 3. El portal de [datos abiertos del gobierno de México](https://datos.gob.mx)
 4. El portal de [Datamx](http://datamx.io) o el de [Data Civica](https://datacivica.org)
 5. [Explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
-6. [Kaggle](https://www.kaggle.com/datasets)
-7. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
-8. [Google Dataset Search](https://datasetsearch.research.google.com)
-9. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
+6. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
+7. [Kaggle](https://www.kaggle.com/datasets)
+8. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
+9. [Google Dataset Search](https://datasetsearch.research.google.com)
+10. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
 
 ## Descargando archivos
 
