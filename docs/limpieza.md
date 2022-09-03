@@ -24,7 +24,7 @@ show_sidebar: false
 2. [*Encoding Categorical Predictors*](http://www.feat.engineering/encoding-categorical-predictors.html)
 3. Biblioteca de python [`categorical_encoding`](https://github.com/alteryx/categorical_encoding) de Alteryx
 4. Paquete de R [`forcats`](https://forcats.tidyverse.org), parte del *tidyverse*
-5. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data), con una [libreta para colab que les hice](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/python/tipos/categoricos.ipynb)
+5. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data), con una [libreta para colab](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/categoricos.ipynb).
 6. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
 7. [*Factors (R for DataScience)*](https://r4ds.had.co.nz/factors.html)
 8. [*A guide to encoding categorical features using R*](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/)
@@ -54,5 +54,5 @@ show_sidebar: false
 
 ### Actividades de aprendizaje
 
-1. Realizar los ejercicios de esta [libreta sobre tipos numéricos](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/python/tipos/numericos.ipynb)
+1. Realizar los ejercicios de esta [libreta sobre tipos numéricos](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/numericos.ipynb)
 
