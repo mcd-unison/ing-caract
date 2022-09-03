@@ -22,13 +22,14 @@ show_sidebar: false
 
 1. [*All about Categorical Variable Encoding*](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
 2. [*Encoding Categorical Predictors*](http://www.feat.engineering/encoding-categorical-predictors.html)
-3. Biblioteca de python [`categorical_encoding](https://github.com/alteryx/categorical_encoding) de Alteryx
+3. Biblioteca de python [`categorical_encoding`](https://github.com/alteryx/categorical_encoding) de Alteryx
 4. Paquete de R [`forcats`](https://forcats.tidyverse.org), parte del *tidyverse*
-5. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data)
+5. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data), con una [libreta para colab que les hice](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/python/tipos/categoricos.ipynb)
 6. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
 7. [*Factors (R for DataScience)*](https://r4ds.had.co.nz/factors.html)
 8. [*A guide to encoding categorical features using R*](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/)
 9. [*Encode Smarter: How to Easily Integrate Categorical Encoding into Your Machine Learning Pipeline*](https://innovation.alteryx.com/encode-smarter/)
+
 
 ### Fechas y horas
 
@@ -49,4 +50,9 @@ show_sidebar: false
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 7. Nubes de palabras [en python](https://amueller.github.io/word_cloud/) y [en R](https://cran.r-project.org/web/packages/wordcloud2/)
+
+
+### Actividades de aprendizaje
+
+1. Realizar los ejercicios de esta [libreta sobre tipos numéricos](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/python/tipos/numericos.ipynb)
 
