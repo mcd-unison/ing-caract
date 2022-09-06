@@ -39,7 +39,7 @@ show_sidebar: false
 4. [It’s merely a matter of time, Dr. Watson! Understanding date and time in R](https://towardsdatascience.com/its-merely-a-matter-of-time-dr-watson-2fd74a648842)
 5. [*5 most practically useful operations when-working with date and time in R*](https://blog.exploratory.io/5-most-practically-useful-operations-when-working-with-date-and-time-in-r-9f9eb8a17465)
 6. El paquete [`lubridate`](https://lubridate.tidyverse.org) como parte del *tidyverse*.
-7. Para practicar podemos usar las series te tiempo recuperadas de los informas estatales sobre la COVID19 por [Luís Armando Moreno Preciado](http://www.luisarmandomoreno.com)
+7. Para ver como funciona `lubridate` vamos a descargar [el *Rmarkdown* del vignette de lubridate (oficial)](https://github.com/tidyverse/lubridate/raw/0bb49b21c88736240219dc67e7ed0eb3df15d9b1/vignettes/lubridate.Rmd "download")
 
 ### Manejo de cadenas de caracteres
 
