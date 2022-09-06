@@ -40,6 +40,7 @@ show_sidebar: false
 5. [*5 most practically useful operations when-working with date and time in R*](https://blog.exploratory.io/5-most-practically-useful-operations-when-working-with-date-and-time-in-r-9f9eb8a17465)
 6. El paquete [`lubridate`](https://lubridate.tidyverse.org) como parte del *tidyverse*.
 7. Para ver como funciona `lubridate` vamos a descargar [el *Rmarkdown* del vignette de lubridate (oficial)](https://github.com/tidyverse/lubridate/raw/0bb49b21c88736240219dc67e7ed0eb3df15d9b1/vignettes/lubridate.Rmd "download")
+8. La documentación de `pandas`para fechas y horas [vuelta una libreta de jupyter](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/timestamp.ipynb)
 
 ### Manejo de cadenas de caracteres
 
@@ -55,4 +56,9 @@ show_sidebar: false
 ### Actividades de aprendizaje
 
 1. Realizar los ejercicios de esta [libreta sobre tipos numéricos](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/numericos.ipynb)
+2. Desarrollar un archivo *RMarkdown* sobre codificación de variables cualitativas que exporte a formato `pdf`o `html` (o inclusive en modo presentación) y que explique e incluta código que ejemplifique:
+   1. El método *One hot encoding*
+   2. Un método de contraste (*Helmert*, *Backward difference*, *polinomial*)
+   3. Un método de codificación bayesiano (*Target*, +Leave one out*, *WoE*, *Stein*, *M*)
+   4. Puedes basarte en [este tutorial](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/) que trae su [propio código](https://github.com/radmuzom/categorical_encoding). Esto último es opcional.
 
