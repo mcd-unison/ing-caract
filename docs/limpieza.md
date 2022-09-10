@@ -44,9 +44,9 @@ show_sidebar: false
 
 ### Manejo de cadenas de caracteres
 
-1. [Procesamiento de texto](https://github.com/mcd-unison/ing-caract/raw/main/slides/tratamiento_texto.pdf)
-2. [Regex 101 (para armar expresiones regulares)](https://regex101.com)
-3. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+1. [Regex 101 (para armar expresiones regulares)](https://regex101.com)
+2. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+3. [Procesamiento de texto](https://github.com/mcd-unison/ing-caract/raw/main/slides/tratamiento_texto.pdf) y su [libreta sobre expresiones regulares](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/texto.ipynb) 
 4. [Working with text data (pandas)](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
@@ -61,4 +61,5 @@ show_sidebar: false
    2. Un método de contraste (*Helmert*, *Backward difference*, *polinomial*)
    3. Un método de codificación bayesiano (*Target*, +Leave one out*, *WoE*, *Stein*, *M*)
    4. Puedes basarte en [este tutorial](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/) que trae su [propio código](https://github.com/radmuzom/categorical_encoding). Esto último es opcional.
-
+3. Realizar el *Coursera project network* de [expresiones regulares en python](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=kVjg-qnzEeuLCQ6P36XDuw&productType=course&showMiniModal=true&source=browse)
+4. Realizar el curso de [Data wrangling](https://enterprise.edx.org/uni-sonora/course/HarvardX+PH125.6x) de Harvard que se encuentra en EdX.
