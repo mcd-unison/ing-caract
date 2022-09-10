@@ -11,7 +11,7 @@ vignette: >
 knitr::opts_chunk$set(comment = "#>", collapse = TRUE)
 ```
 
-(This vignette is an updated version of the blog post first published at [r-statistics](https://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)\_
+(This vignette is an updated version of the blog post first published at [r-statistics](https://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)_
 
 Lubridate is an R package that makes it easier to work with dates and times. Below is a concise tour of some of the things lubridate can do for you. Lubridate was created by Garrett Grolemund and Hadley Wickham, and is now maintained by Vitalie Spinu.
 
@@ -58,12 +58,8 @@ There are two very useful things to do with dates and time zones. First, display
 For example, a while ago I was in Auckland, New Zealand. I arranged to meet the co-author of lubridate, Hadley, over skype at 9:00 in the morning Auckland time. What time was that for Hadley who was back in Houston, TX?
 
 ```{r}
-meeting <- ymd_hms(
-  "2011-07-01 09:00:00", 
-  tz = "Pacific/Auckland")
-
+meeting <- ymd_hms("2011-07-01 09:00:00", tz = "Pacific/Auckland")
 with_tz(meeting, "America/Chicago")
-
 ```
 
 So the meetings occurred at 4:00 Hadley's time (and the day before no less). Of course, this was the same actual moment of time as 9:00 in New Zealand. It just appears to be a different day due to the curvature of the Earth.
@@ -73,7 +69,6 @@ What if Hadley made a mistake and signed on at 9:00 his time? What time would it
 ```{r}
 mistake <- force_tz(meeting, "America/Chicago")
 with_tz(mistake, "Pacific/Auckland")
-
 ```
 
 His call would arrive at 2:00 am my time! Luckily he never did that.
@@ -92,9 +87,7 @@ auckland
 My mentor at the University of Auckland, Chris, traveled to various conferences that year including the Joint Statistical Meetings (JSM). This took him out of the country from July 20 until the end of August.
 
 ```{r}
-jsm <- interval(
-  ymd(20110720, tz = "Pacific/Auckland"), 
-  ymd(20110831, tz = "Pacific/Auckland"))
+jsm <- interval(ymd(20110720, tz = "Pacific/Auckland"), ymd(20110831, tz = "Pacific/Auckland"))
 jsm
 ```
 
@@ -171,9 +164,9 @@ as.period(auckland)
 
 The length of months and years change so often that doing arithmetic with them can be unintuitive. Consider a simple operation, `January 31st + one month`. Should the answer be
 
-1.  `February 31st` (which doesn't exist)
-2.  `March 4th` (31 days after January 31), or
-3.  `February 28th` (assuming its not a leap year)
+1. `February 31st` (which doesn't exist)
+2. `March 4th` (31 days after January 31), or
+3. `February 28th` (assuming its not a leap year)
 
 A basic property of arithmetic is that `a + b - b = a`. Only solution 1 obeys this property, but it is an invalid date. I've tried to make lubridate as consistent as possible by invoking the following rule *if adding or subtracting a month or a year creates an invalid date, lubridate will return an NA*. This is new with version 1.3.0, so if you're an old hand with lubridate be sure to remember this!
 
@@ -197,6 +190,7 @@ last_day <- function(date) {
   ceiling_date(date, "month") - days(1)
 }
 ```
+
 
 ## Further Resources
 
