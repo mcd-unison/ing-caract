@@ -51,7 +51,7 @@ show_sidebar: false
 5. [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
 6. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 7. Nubes de palabras [en python](https://amueller.github.io/word_cloud/) y [en R](https://cran.r-project.org/web/packages/wordcloud2/), y [una libreta con un ejemplo que hicimos para integrar `spacy` con `word_cloud`](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/nube_informe.ipynb)
-8. [Vectores de palabras](https://github.com/mcd-unison/ing-caract/raw/main/slides/vectores-palabras.pdf)
+8. [Vectores de palabras](https://github.com/mcd-unison/ing-caract/raw/main/slides/vectores-palabras.pdf) y una [presentación con más detalle](https://github.com/mcd-unison/ing-caract/raw/main/slides/modelo-cbow.pdf)
 
 
 ### Actividades de aprendizaje
