@@ -9,19 +9,18 @@ show_sidebar: false
 
 ## Operaciones comunes en dataframes
 
-1. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html) y [en R](https://tidyr.tidyverse.org/articles/pivot.html).
-2. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) y [en R](https://dplyr.tidyverse.org/articles/two-table.html). 
+1. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) y [en R](https://dplyr.tidyverse.org/articles/two-table.html). 
+2. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html) y [en R](https://tidyr.tidyverse.org/articles/pivot.html).
 
 
 ## Imputación de datos
 
-1. [All About Missing Data Handling](https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184)
+1. [How to Handle Missing Data (R)](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 2. [Missing value imputation: a review and analysis of the literature](https://github.com/mcd-unison/ing-caract/raw/main/slides/imputation-review.pdf)
-3. [How to Handle Missing Data (R)](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
-4. [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
-5. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
-6. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/missing_data.html)
-7. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
+3. [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
+4. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/missing_data.html)
+5. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
+6. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
 
 ## Detección de anomalías
 
