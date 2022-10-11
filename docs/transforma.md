@@ -50,3 +50,7 @@ show_sidebar: false
 1. [R for Data Science](https://r4ds.had.co.nz), el libro de cabecera del *tidyverse*.
 2. [Data Cleaning in Python: the Ultimate Guide](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d). No es lo que el título trata vender pero si trae una guía de varias de las operaciones que normalmente hay que realizar para limpieza de datos.
 
+## Actividades
+
+1. Realizar los cursos necesarios de *DataBricks* y presentar el examen de la certificación par *Databrick Data Analyst*.
+

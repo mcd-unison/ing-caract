@@ -64,4 +64,3 @@ show_sidebar: false
    4. Puedes basarte en [este tutorial](https://www.r-bloggers.com/2020/02/a-guide-to-encoding-categorical-features-using-r/) que trae su [propio código](https://github.com/radmuzom/categorical_encoding). Esto último es opcional.
 3. Realizar el *Coursera project network* de [expresiones regulares en python](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=kVjg-qnzEeuLCQ6P36XDuw&productType=course&showMiniModal=true&source=browse)
 4. Realizar el curso de [Data wrangling](https://enterprise.edx.org/uni-sonora/course/HarvardX+PH125.6x) de Harvard que se encuentra en EdX.
-5. Realizar los cursos necesarios para 
