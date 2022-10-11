@@ -10,12 +10,10 @@ show_sidebar: false
 ## Análisis exploratorio de datos
 
 1. [EDA ¿Qué es?](https://github.com/mcd-unison/ing-caract/raw/main/slides/exploratoryGraphs.pdf)
-2. [Curso de EDA de Hardvard](https://enterprise.edx.org/uni-sonora/course/HarvardX+PH125.2x) incluido en *EdX Campus Essentials* de la Universidad de Sonora
-3. *Skill Tracks* de *Data Visualization* de [DataCamp](https://learn.datacamp.com/skill-tracks).
 
 ## Librerías para visualización de datos:
 
-1. Python: [`matplotlib`](https://matplotlib.org/) y [`seaborn`](https://seaborn.pydata.org/index.html)
+1. Python: [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/index.html) y [`holoviz`](https://holoviz.org)
 2. R: [`ggplot2`](https://ggplot2.tidyverse.org/) y sus [`extensiones`](https://exts.ggplot2.tidyverse.org/gallery/)
 3. General: [librerías abiertas de `plotly`](https://plotly.com/graphing-libraries/)
 
@@ -38,3 +36,8 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 3. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html)
 4. [Python tools for data visualization](https://pyviz.org)
 
+## Actividades de aprendizaje
+
+1. [Curso de EDA de Hardvard](https://enterprise.edx.org/uni-sonora/course/HarvardX+PH125.2x) incluido en *EdX Campus Essentials* de la Universidad de Sonora
+
+2. Proyectos de Coursera [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=ga5yHIcJEeqG6wra8eGWjw&productType=course&showMiniModal=true&source=browse), [Exploratory Data Analysis with Seaborn](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=p6Q7wxtgEeq7pQqHWtJNxQ&productType=course&showMiniModal=true&source=browse) y [Data Visualization using Plotly](https://www.coursera.org/programs/universidad-de-sonora-on-coursera-ggm7m/data-science/all-data-science?productId=e0wkbyH-EeymZwrrGHVoWw&productType=course&showMiniModal=true&source=browse).
