@@ -43,7 +43,7 @@ show_sidebar: false
 
 ## Generación de características
 
-1. [Featuretools](https://www.featuretools.com). Herramienta para generación automática de atributos en función de la naturaleza de los atributos originales.
+1. [Featuretools](https://www.featuretools.com). Herramienta para generación automática de atributos en función de la naturaleza de los atributos originales y una [libreta de ejemplo que me copié de la documentación](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/featuretools/NHL_Games.ipynb).
 
 # Bibliotecas generales de limpieza de datos
 
