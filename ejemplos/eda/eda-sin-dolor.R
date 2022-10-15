@@ -14,7 +14,10 @@ setwd(paste(getwd(), 'ejemplos', 'eda', sep='/'))
 dir(getwd())
 
 library(readr)
-df <- read_csv("insurance.csv")
+url_insurance <- "https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/insurance.csv"
+url_titanic <- "https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/titanic.csv"
+
+df <- read_csv(url_insurance)
 
 #---------- Usando explore(mas acá) ---------------------------------
 

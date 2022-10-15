@@ -2,7 +2,9 @@
 
 #%% Abrir data frame
 import pandas as pd
-insurance = pd.read_csv("insurance.csv")
+url_insurance = "https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/insurance.csv"
+url_titanic = "https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/titanic.csv"
+insurance = pd.read_csv(url_insurance)
 
 #%% Probando pandas-profiling
 

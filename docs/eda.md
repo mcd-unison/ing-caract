@@ -10,6 +10,21 @@ show_sidebar: false
 ## Análisis exploratorio de datos
 
 1. [EDA ¿Qué es?](https://github.com/mcd-unison/ing-caract/raw/main/slides/exploratoryGraphs.pdf)
+   
+2. Python: [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling), [otras herramientas](https://medium.com/spatial-data-science/4-tools-to-speed-up-exploratory-data-analysis-eda-in-python-e240ebcd18de). Un [script](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/p-profile-en-script.py) para usar el el curso y generar un reporte EDA automatizado.
+   
+3. R: [`dlookr`](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html), [SmartEDA](https://github.com/daya6489/SmartEDA), capítulo del libro [R for Data Science](https://r4ds.had.co.nz/exploratory-data-analysis.html), y muchos más. Un [script en R](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/eda-sin-dolor.R) para probar con la generación de EDA automatizados.
+
+
+## Principios de visualización básicos
+
+1. Libro [*Storytelling with data: a data visualization guide for business professionals*](https://www.storytellingwithdata.com)
+de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
+
+2. Libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) de Claus O. Wilke. Buena introducción, con código en R.
+
+2. [Un checklist](https://github.com/mcd-unison/ing-caract/raw/main/pdf/DataVizChecklist.pdf) viejito pero útil para saber si mis gráficas son correctas.
+
 
 ## Librerías para visualización de datos:
 
@@ -17,17 +32,6 @@ show_sidebar: false
 2. R: [`ggplot2`](https://ggplot2.tidyverse.org/) y sus [`extensiones`](https://exts.ggplot2.tidyverse.org/gallery/)
 3. General: [librerías abiertas de `plotly`](https://plotly.com/graphing-libraries/)
 
-## Principios de visualización básicos
-
-1. Libro [*Storytelling with data: a data visualization guide for business professionals*](https://www.storytellingwithdata.com)
-de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
-
-2. [Un checklist](https://github.com/mcd-unison/ing-caract/raw/main/pdf/DataVizChecklist.pdf) viejito pero útil para saber si mis gráficas son correctas.
-
-## Herramienta de EDA
-
-1. Python: [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling), [otras herramientas](https://medium.com/spatial-data-science/4-tools-to-speed-up-exploratory-data-analysis-eda-in-python-e240ebcd18de)
-2. R: [`dlookr`](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html), [SmartEDA](https://github.com/daya6489/SmartEDA), capítulo del libro [R for Data Science](https://r4ds.had.co.nz/exploratory-data-analysis.html), y muchos más.
 
 ## Creación de tableros para visualización 
 
