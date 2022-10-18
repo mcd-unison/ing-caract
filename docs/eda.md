@@ -23,7 +23,9 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 2. Libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) de Claus O. Wilke. Buena introducción, con código en R.
 
-2. [Un checklist](https://github.com/mcd-unison/ing-caract/raw/main/pdf/DataVizChecklist.pdf) viejito pero útil para saber si mis gráficas son correctas.
+3. Un muy bonito sitio [para escoger visualizaciones](https://datavizproject.com/#)
+
+3. [Un checklist](https://github.com/mcd-unison/ing-caract/raw/main/pdf/DataVizChecklist.pdf) viejito pero útil para saber si mis gráficas son correctas.
 
 
 ## Librerías para visualización de datos:
