@@ -38,9 +38,10 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 ## Creación de tableros para visualización 
 
 1. [Sistemas de ayuda a la toma de decisiones](https://github.com/mcd-unison/ing-caract/raw/main/slides/dss.pptx)
-2. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
-3. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html)
-4. [Python tools for data visualization](https://pyviz.org)
+2. Una [página de Qlik](https://www.qlik.com/us/kpi) sobre KPI's y [una guía](https://github.com/mcd-unison/ing-caract/raw/main/pdf/eb-kpi-planning-guide-en.pdf) para su desarrollo de la misma compañía.
+3. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
+4. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html), y [un ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/flexmarkdown/dashboard.Rmd)
+5. [Python tools for data visualization](https://pyviz.org) y también [su ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb)
 
 ## Actividades de aprendizaje
 
