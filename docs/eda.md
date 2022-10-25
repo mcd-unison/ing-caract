@@ -43,7 +43,7 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 2. Una [página de Qlik](https://www.qlik.com/us/kpi) sobre KPI's y [una guía](https://github.com/mcd-unison/ing-caract/raw/main/pdf/eb-kpi-planning-guide-en.pdf) para su desarrollo de la misma compañía.
 3. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
 4. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html), y [un ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/flexmarkdown/dashboard.Rmd)
-5. [Python tools for data visualization](https://pyviz.org) y también [su ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb)
+5. [Python tools for data visualization](https://pyviz.org) y también [un ejemplito en jupyter-flex](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb) y otro [ejemplito en panel](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/panel/panel-demo.ipynb) 
 
 ## Actividades de aprendizaje
 
