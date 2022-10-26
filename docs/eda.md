@@ -4,7 +4,7 @@ subtitle: Curso Ingeniería de Características
 layout: page
 hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/eda-banner.jpg
 hero_darken: true
-show_sidebar: false
+show_sidebar: false 
 ---
 
 ## Análisis exploratorio de datos
