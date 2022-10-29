@@ -15,6 +15,8 @@ show_sidebar: false
    
 3. R: [`dlookr`](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html), [SmartEDA](https://github.com/daya6489/SmartEDA), capítulo del libro [R for Data Science](https://r4ds.had.co.nz/exploratory-data-analysis.html), y muchos más. Un [script en R](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/eda-sin-dolor.R) para probar con la generación de EDA automatizados.
 
+4. Coeficientes de correlación de [Pearson](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Spearman](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [Kendall](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient) y[$\Phi_k$](https://phik.readthedocs.io/en/latest/index.html) (con [un ejemplito](https://github.com/KaveIO/PhiK/blob/master/phik/notebooks/phik_tutorial_basic.ipynb) de como usarla).
+
 
 ## Principios de visualización básicos
 
