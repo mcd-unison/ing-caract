@@ -14,6 +14,8 @@ show_sidebar: false
 2. Libreta de colab [Working with Time Series](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html), como parte del libro en linea [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 3. [Suavizado por medias móviles, filtro exponencial y *Holt-Winters*](https://medium.com/@srv96/smoothing-techniques-for-time-series-data-91cccfd008a2)
 4. [Suavizado local](https://en.wikipedia.org/wiki/Local_regression) y en particular [LOESS](https://towardsdatascience.com/loess-373d43b03564)
+5. [Un tutorial bastante completo en Kaggle](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python)
+6. [Un ejemplito sobre suavizado en python](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/suavizado/suavizado.ipynb)
 
 ## Información georeferenciada (mapas)
 
