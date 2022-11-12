@@ -16,14 +16,15 @@ show_sidebar: false
 ## Análisis en componentes principales
 
 1. [Notas sobre PCA](https://github.com/mcd-unison/ing-caract/raw/main/pdf/PCA-Standford.pdf) del curso de Andrew Ng en Stanford
-2. [Principal Component Analysis](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html). Libreta de Colab del libro [Python Data Science Handbook](https://jakevdp.github.io/)
-3. [Libreta de jupyter]() ejemplificando el uso del análisis en componentes principales
+2. [Principal Component Analysis](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html). Libreta de Colab del libro [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 
 ## Otras técnicas de reducción
 
-1. [*Manifold learning*](https://scikit-learn.org/stable/modules/manifold.html) en `sci-kit learn`
-2. [Libreta de colab sobre *Manifold Learning*](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) del libro [Python Data Science Handbook](https://jakevdp.github.io/)
-3. [An illustrated introduction to the t-SNE algorithm](https://www.oreilly.com/content/an-illustrated-introduction-to-the-t-sne-algorithm/)
-4. [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+1. [Kernel PCA](https://people.eecs.berkeley.edu/~wainwrig/stat241b/scholkopf_kernel.pdf) con su respectivo [ejemplo en `sci-kit learn`](https://scikit-learn.org/stable/auto_examples/decomposition/plot_kernel_pca.html#sphx-glr-auto-examples-decomposition-plot-kernel-pca-py)
+2. [*Manifold learning*](https://scikit-learn.org/stable/modules/manifold.html) en `sci-kit learn`
+3. [Libreta de colab sobre *Manifold Learning*](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) del libro [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+4. [An illustrated introduction to the t-SNE algorithm](https://www.oreilly.com/content/an-illustrated-introduction-to-the-t-sne-algorithm/)
+5. [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
 
