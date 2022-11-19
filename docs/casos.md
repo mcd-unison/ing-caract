@@ -20,11 +20,11 @@ show_sidebar: false
 ## Información georeferenciada (mapas)
 
 1. Las librerías de base [GDAL](https://gdal.org) y [GEOS](https://trac.osgeo.org/geos), que son las bases para [geopandas](https://geopandas.org/en/stable/index.html#) para python y [Simple Features](https://r-spatial.github.io/sf/index.html) para R.
-2. Para visualizar, lo preferido es la biblioteca [Leaflet](https://leafletjs.com) y su interface [para R](https://rstudio.github.io/leaflet/) y [para python](http://python-visualization.github.io/folium/).
+2. Para visualizar, lo más usado es la biblioteca [Leaflet](https://leafletjs.com) y su interface [para R](https://rstudio.github.io/leaflet/) y [para python](http://python-visualization.github.io/folium/).
 3. Archivos [geojson](https://geojson.org), [archivos Shape](https://en.wikipedia.org/wiki/Shapefile)
 
 ## Material sobre como hacer mapas en python y en R
 
-1. Una [presentación realizada por Luís Armando Moreno](), con su respectivo [ejemplo ilustrativo]().
+1. Una [presentación realizada por Luís Armando Moreno](https://github.com/mcd-unison/ing-caract/raw/main/slides/Mapas%20coropléticos.pdf), con su respectivo [ejemplo ilustrativo](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/mapas/R/GMU-Ejemplo.R).
 2. Una [libreta para hacer mapas en python](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/Mapas-en-python.ipynb)
 

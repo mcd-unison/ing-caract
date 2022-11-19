@@ -18,17 +18,17 @@ dir.create("./02Shapes")
 # Descarga del Marco Geoestadístico de Sonora
 
 shapes.url <- "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/geografia/marcogeo/889463807469/26_sonora.zip"
-shapes.archivo <- "/Users/juliowaissman/Documents/cursos/IC-MCD-Unison/2021-2/Seminario-Leaflet/02Shapes/26_sonora.zip"
+shapes.archivo <- "./02Shapes/26_sonora.zip"
 
 if(!file.exists(shapes.archivo)){
   download.file(shapes.url, destfile = shapes.archivo)  
-  unzip(shapes.archivo, exdir = "./02Shapes")
+  unzip(shapes.archivo, exdir = "./02Shapes") # No funciona, descomprimir a mano o con python
 }
 
 # Descarga del Índice de Marginación Urbana 2020 de CONAPO
 
 conapo.url <- "http://www.conapo.gob.mx/work/models/CONAPO/Marginacion/Datos_Abiertos/IMU_2020.zip"
-conapo.archivo <- "/Users/juliowaissman/Documents/cursos/IC-MCD-Unison/2021-2/Seminario-Leaflet/IMU_2020.zip"
+conapo.archivo <- "./IMU_2020.zip"
 
 if(!file.exists(conapo.archivo)){
   download.file(conapo.url, destfile = conapo.archivo)  
