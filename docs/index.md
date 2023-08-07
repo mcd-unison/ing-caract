@@ -8,12 +8,15 @@ show_sidebar: false
 ---
 
 
-| **Profesor** | Julio Waissman Vilanova        |
-|              | julio.waissman@unison.mx       |
-| **Horarios** | Lunes de 18:00 a 20:00 hrs     |
-|              | Sábados de 10:00 a 12:00       |
-|              | Jueves y viernes, 3 horas      |
-| **Lugar**    | Aula 202, edificio 3K-4        |
+**Profesor**: Julio Waissman Vilanova  (julio.waissman@unison.mx)
+
+**Horarios**:
+
+- Martes de 18:00 a 20:00 hrs
+- Sábados de 10:00 a 12:00
+- Jueves, 3 horas autónomas
+
+**Lugar**: Lab. en Ciencia de Datos, edificio 3K-1
 
 ## Temario
 
@@ -73,4 +76,3 @@ Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la e
 <img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/Coursera-for-Campus.png" alt="Coursera for Campus" height="30">
 
 [Coursera for Campus Basic plan](https://www.coursera.org/campus/basic/) ofrece todos los proyectos de *Coursera project network* sin costo alguno para los estudiantes registrados. Los proyectos guiados son experiencias de aprendizaje  *hands-on* donde los estudiantes desarrollan habilidades muy específicas en pequeños proyectos de dos horas o menos. Los proyectos se realizan en un entorno en nube y sólamente es necesaria una computadora con navegador relativamente reciente.
-
