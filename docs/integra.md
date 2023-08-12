@@ -7,18 +7,37 @@ hero_darken: true
 show_sidebar: false
 ---
 
+## Integración de datos
+
+1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
+2. Una presentación (medio propagandistica, pero buena) de [*DeltaLake*](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
+- [DataBricks, community edition](https://www.databricks.com/try-databricks)
+- [Para solicitar acceso a los cursos de DataBricks](https://docs.google.com/forms/d/1xa7NHz5mWh5y40KiyshOi4_XJRnWIVGrtyqI0uNvyFE/edit) y un [archivo con instrucciones para ingresar a los Cursos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/databricks-instructions.pdf)
+
+
+## Tipos de archivos, y como leerlos en python y R
+
+1. Archivos CSV
+2. Archivos [JSON](https://www.json.org/json-en.html)
+3. Archivos [XML](https://www.w3schools.com/xml/default.asp)
+4. Archivos [HDF](https://asdc.larc.nasa.gov/documents/tools/hdf.pdf)
+5. Archivos [Excel](https://www.linkedin.com/pulse/why-all-data-scientists-learn-ms-excel-karthik-shashidhar)
+6. Archivos [Parquet](https://databricks.com/glossary/what-is-parquet)
+
+
 ## En donde encontrar datos
 
-1. Plataforma [DataMéxico](https://datamexico.org/es) y su [interesante API](https://dev-api.datamexico.org/ui/)
-2. El [INEGI](https://www.inegi.org.mx/default.html)
+1. El [INEGI](https://www.inegi.org.mx/default.html)
+2. Plataforma [DataMéxico](https://datamexico.org/es) y su [interesante API](https://dev-api.datamexico.org/ui/)
 3. El portal de [datos abiertos del gobierno de México](https://datos.gob.mx)
-4. El portal de [Datamx](http://datamx.io) o el de [Data Civica](https://datacivica.org)
-5. [Explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
-6. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
-7. [Kaggle](https://www.kaggle.com/datasets)
-8. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
-9. [Google Dataset Search](https://datasetsearch.research.google.com)
-10. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis)
+4. Micrositio de [incidencia delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-299891?state=published) del secretariado ejecutivo nacional, [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx), [CONAPO](https://www.gob.mx/conapo)
+5. El portal de [Datamx](http://datamx.io) o el de [Data Civica](https://datacivica.org)
+6. [Explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
+7. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
+8. [Kaggle](https://www.kaggle.com/datasets)
+9. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
+10. [Google Dataset Search](https://datasetsearch.research.google.com)
+11. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis) y otro [de APIs gratuitas](https://free-apis.github.io)
 
 ## Descargando archivos
 
@@ -43,35 +62,11 @@ show_sidebar: false
 - [Acordeón de python para descarga de datos](http://datacamp-community-prod.s3.amazonaws.com/72e88aa1-b4f2-4658-9d86-15becf8263df)
 - [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/), y [este otro](https://towardsdatascience.com/quick-fire-guide-to-apis-in-python-891dd98c8877)
 - [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
-- [Una libreta de ejemplito](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) y [otra con la API medio simplona](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
+- [Una libreta de ejemplito](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) y [otra con el uso de una API mal documentada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
 
 ### SQL
 
 - Curso [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) de Udacity
 
-
-## Tipos de archivos, y como leerlos en python y R
-
-1. Archivos CSV
-2. Archivos [JSON](https://www.json.org/json-en.html)
-3. Archivos [XML](https://www.w3schools.com/xml/default.asp)
-4. Archivos [HDF](https://asdc.larc.nasa.gov/documents/tools/hdf.pdf)
-5. Archivos [Excel](https://www.linkedin.com/pulse/why-all-data-scientists-learn-ms-excel-karthik-shashidhar)
-6. Archivos [Parquet](https://databricks.com/glossary/what-is-parquet)
-
-## Ingeniería de datos
-
-1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
-2. Entorno para Ciencia de Datos [*DeltaLake*](https://delta.io) y [una presentación](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
-3. Curso sobre [*Datalakes fundamentals*](https://customer-academy.databricks.com/) de Databricks
-
-
-## Actividades de aprendizaje y sus evidencias
-
-1. Descargar datos de un problema de interés personal de al menos dos fuentes diferentes (repositorio público)
-2. Realizar el *skill track* [SQL Fundamentals](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) de DataCamp.
-3. Realizar el *skill track* [Importing and cleaning data with r](https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-r?version=2) de DataCamp
-4. Realizar el *skill track* [Importing and cleaning data with python](https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-python) de DataCamp
-5. Realizar el *learning path* [Databricks Lakehouse Fundamentals](https://customer-academy.databricks.com/learn/lp/21/Databricks%2520Lakehouse%2520Fundamentals%2520Learning%2520Plan) de DataBricks
 
 
