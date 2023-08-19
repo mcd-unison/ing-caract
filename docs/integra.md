@@ -59,7 +59,7 @@ show_sidebar: false
 
 - [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6)
 - [Descargando datos con Pandas](https://towardsdatascience.com/direct-to-pandas-dataframe-ab2e97ae7574)
-- [Acordeón de python para descarga de datos](http://datacamp-community-prod.s3.amazonaws.com/72e88aa1-b4f2-4658-9d86-15becf8263df)
+- [Documentación de Pandas para entrada y salida](https://pandas.pydata.org/docs/user_guide/io.html)
 - [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/), y [este otro](https://towardsdatascience.com/quick-fire-guide-to-apis-in-python-891dd98c8877)
 - [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
 - [Una libreta de ejemplito](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) y [otra con el uso de una API mal documentada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
