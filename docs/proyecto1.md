@@ -35,15 +35,15 @@ La entrega del trabajo será que cada miembro del equipo suba en la plataforma T
 
 ### Semáforo delictivo
 
-Se tiene el siguiente sitio: http://www.semaforo.com.mx/ 
-
-Donde se propone un semáforo delictivo, al cual se le pueden ver claramente varios problemas para que represente claramente a un semaforo delictivo en forma general. 
+Se tiene el siguiente [semáforo delictivo propuesto](http://www.semaforo.com.mx/),
+donde se propone un semáforo delictivo, al cual se le pueden ver claramente varios problemas.
 
 La idea final es proponer diferentes KPIs así como un tablero interactivo que pueda *sustituir* al semáforo. Para realizarlo se necesitará integrar *al menos* dos bases de datos:
 
 - Censo poblacional del INEGI (para calcular tasas delictivas por cada 100,000 hab.), o proyecciones de población de la CONAPO.
 
-- Datos de incidencia delictiva publicado por el secretariado ejecutivo: https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva 
+- [Datos de incidencia delictiva publicado por el secretariado ejecutivo](https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva) 
+
 
 *Usuario:* **Estephanía Pivac Alcaráz** 
 
@@ -55,16 +55,16 @@ Exste es un proyecto de interés de la SAGARPA en el que solicitan la colaboraci
 
 Aquí se integrarían varias fuentes de datos:
 
-- Datos de SAGARHPA: https://sagarhpa.sonora.gob.mx/
+- [Datos de SAGARHPA](https://sagarhpa.sonora.gob.mx/)
   
-- Agricultura: https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-de-agricultura-sonora/1573
+- [Agricultura](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-de-agricultura-sonora/1573)
   
-- Ganadería: https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-ganaderia-sonora/1581
+- [Ganadería](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-ganaderia-sonora/1581)
   
-- Pesca: https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-pesca-sonora/1582
-Información del IMSS: http://datos.imss.gob.mx/dataset/asg2023/resource/asg-2023-01-31
+- [Pesca](https://datos.sonora.gob.mx/conjuntos-de-datos/mostrar/datos-pesca-sonora/1582)
+  
+- [Información del IMSS](http://datos.imss.gob.mx/dataset/asg2023/resource/asg-2023-01-31)
 
-- IMSS: http://datos.imss.gob.mx/dataset/asg2023/resource/asg-2023-01-31
 
 *Usuario:* **Estephanía Pivac Alcaráz** 
 
@@ -77,11 +77,13 @@ Los excedentes agrícolas son una de las vías en que la Red de Bancos de Alimen
 
 Se busca iniciar con una exploración de los datos siguientes:
 
-- Sistema SIAP: https://www.gob.mx/siap
+- [Sistema SIAP](https://www.gob.mx/siap)
 
-- Precios del Mercado Agricola: http://www.economia-sniim.gob.mx/nuevo/Home.aspx?opcion=Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ConsultaFrutasYHortalizas.aspx?SubOpcion=4|0
+- [Precios del Mercado Agricola](http://www.economia-sniim.gob.mx/nuevo/Home.aspx?opcion=Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ConsultaFrutasYHortalizas.aspx?SubOpcion=4|0)
 
 - Información de la Secretaría de Economía (DataMexico)
+
+y aqui se presenta un ejemplo de un [tablero](https://amhpac.org/negociosymercados/socios/v2/produccion/) de la AMHPAC.
 
 *Usuario:* **Everardo Riestra Ochoa** 
 
