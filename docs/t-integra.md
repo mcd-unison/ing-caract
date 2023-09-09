@@ -28,4 +28,5 @@ show_sidebar: false
 
 - Completar las libretas vistas en clase para integración de datos:
   - [Descargando y limpiando archivos `json` y `xml`](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) 
+  
   - [Uso de una API mal documentada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
