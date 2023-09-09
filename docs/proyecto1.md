@@ -83,7 +83,7 @@ Se busca iniciar con una exploración de los datos siguientes:
 
 - Información de la Secretaría de Economía (DataMexico)
 
-y aqui se presenta un ejemplo de un [tablero](https://amhpac.org/negociosymercados/socios/v2/produccion/) de la AMHPAC.
+y aquí se presenta un ejemplo de un [tablero](https://amhpac.org/negociosymercados/socios/v2/produccion/) de la AMHPAC.
 
 *Usuario:* **Everardo Riestra Ochoa** 
 
