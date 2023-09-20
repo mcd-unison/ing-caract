@@ -32,11 +32,12 @@ show_sidebar: false
    2. Datos cualitativos
    3. Cadenas de caracteres
    4. Fechas, horas y series de tiempo
-4. **Transformación de datos**
-   1. Valores faltantes e imputación de datos
-   2. Detección de anomalías
-   3. Agregación
-   4. Generación de características
+4. **Procesamiento de datos**
+   1. Combinando tablas de datos
+   2. Valores faltantes e imputación de datos
+   3. Detección de anomalías
+   4. Agregación
+   5. Generación de características
 5. **Análisis exploratorio de Datos**
    1. Indicadores claves de desempeño
    2. Herramientas para EDA

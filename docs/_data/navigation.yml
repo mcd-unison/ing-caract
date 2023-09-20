@@ -24,7 +24,7 @@
       link: /t-integra/
     - name: Tipos de datos
       link: /t-limpieza/
-    - name: Transformación de datos
+    - name: Procesamiento de datos
       link: /t-transforma/
     - name: Análisis exploratorio de datos
       link: /t-eda/
