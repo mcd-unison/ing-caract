@@ -15,5 +15,3 @@ show_sidebar: false
 - [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas). Parte del *career track* de analista de datos de *DataCamp*.
 
 - [Joining Data with pandas](https://www.datacamp.com/courses/joining-data-with-pandas). Parte del *career track* de analista de datos de *DataCamp*.
-
-
