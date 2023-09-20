@@ -17,7 +17,7 @@ show_sidebar: false
 
 1. Presentación [*Dealing with Missing Data*](https://harvard-iacs.github.io/2020-CS109A/lectures/lecture19/slides/Lecture19_Missingdata.pdf) de curso *CS109A Introduction to Data Science* de Harvard.
 2. Presentación [*Dealing with Missing Data*](https://cyfs.unl.edu/cyfsprojects/videoPPT/8551c12760de7027a89d14b29c26522a/151026-Enders.pdf) de *Craig Enders* de la UCLA. Muy completo.
-3. [Un resumen del proceso de imputación](https://github.com/mcd-unison/ing-caract/raw/main/docs/img/missing_data.png)
+3. Una imagen con [el resumen del proceso de imputación](https://github.com/mcd-unison/ing-caract/raw/main/docs/imagenes/missing_data.png)
 4. [How to Handle Missing Data (R)](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 5. [Missing value imputation: a review and analysis of the literature](https://github.com/mcd-unison/ing-caract/raw/main/slides/imputation-review.pdf)
 6. [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
