@@ -9,13 +9,26 @@ show_sidebar: false
 
 ## Análisis exploratorio de datos
 
-1. [EDA ¿Qué es?](https://github.com/mcd-unison/ing-caract/raw/main/slides/exploratoryGraphs.pdf)
-   
-2. Python: [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling), [otras herramientas](https://medium.com/spatial-data-science/4-tools-to-speed-up-exploratory-data-analysis-eda-in-python-e240ebcd18de). Un [script](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/p-profile-en-script.py) para usar el el curso y generar un reporte EDA automatizado.
-   
-3. R: [`dlookr`](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html), [SmartEDA](https://github.com/daya6489/SmartEDA), capítulo del libro [R for Data Science](https://r4ds.had.co.nz/exploratory-data-analysis.html), y muchos más. Un [script en R](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/eda-sin-dolor.R) para probar con la generación de EDA automatizados.
+1. Motivación: [¿Porque las solas estadísticas descriptivas no son suficientes y un análisis exploratorio de datos siempre es necesario?](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
 
-4. Coeficientes de correlación de [Pearson](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Spearman](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [Kendall](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient) y[$\Phi_k$](https://phik.readthedocs.io/en/latest/index.html) (con [un ejemplito](https://github.com/KaveIO/PhiK/blob/master/phik/notebooks/phik_tutorial_basic.ipynb) de como usarla).
+1. [EDA ¿Qué es?](https://harvard-iacs.github.io/2018-CS109A/lectures/lecture-3/presentation/lecture3.pdf)
+   
+2. EDA automátizado (primera versión) 
+   1. En python: [Esta entrada de Medium con 5 herramientas](https://towardsdatascience.com/5-powerful-python-libraries-you-need-to-know-to-enhance-your-eda-process-f0100d563c16) y [esta otra, con algunas repetidas](https://pub.towardsai.net/5-python-packages-for-effortless-eda-94abddac3bc5) entre las que destacan:
+      -  [YData profiling](https://docs.profiling.ydata.ai/),
+      -  [D-Tale](https://github.com/man-group/dtale)
+      -  [Sweetviz](https://github.com/fbdesignpro/sweetviz)
+      -  [summarytools](https://github.com/6chaoran/jupyter-summarytools) 
+      -  [AutoViz](https://github.com/AutoViML/AutoViz)
+      -  [Un script](https://raw.githubusercontent.com/mcd-unison/ing-caract/main/ejemplos/eda/p-profile-en-script.py) para probar y comparar el uso de YData profiling y de Sweetviz
+   
+   2. R: 
+      - [`dlookr`](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html), 
+      - [SmartEDA](https://github.com/daya6489/SmartEDA), 
+      - capítulo del libro [R for Data Science](https://r4ds.had.co.nz/exploratory-data-analysis.html), 
+      - un [script en R](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/eda/eda-sin-dolor.R) para probar con la generación de EDA automatizados.
+
+3. Coeficientes de correlación de [Pearson](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Spearman](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [Kendall](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient) y[$\Phi_k$](https://phik.readthedocs.io/en/latest/index.html) (con [un ejemplito](https://github.com/KaveIO/PhiK/blob/master/phik/notebooks/phik_tutorial_basic.ipynb) de como usarla).
 
 ## Librerías para visualización de datos:
 

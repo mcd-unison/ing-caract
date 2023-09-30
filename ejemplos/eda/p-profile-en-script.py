@@ -8,7 +8,7 @@ insurance = pd.read_csv(url_insurance)
 
 #%% Probando pandas-profiling
 
-from pandas_profiling import ProfileReport 
+from ydata_profiling import ProfileReport
 
 profile = ProfileReport(
     insurance, 
