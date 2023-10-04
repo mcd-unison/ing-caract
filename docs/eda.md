@@ -20,7 +20,6 @@ show_sidebar: false
       -  [Sweetviz](https://github.com/fbdesignpro/sweetviz)
       -  [summarytools](https://github.com/6chaoran/jupyter-summarytools) 
       -  [AutoViz](https://github.com/AutoViML/AutoViz)
-      -  [Un script](https://raw.githubusercontent.com/mcd-unison/ing-caract/main/ejemplos/eda/p-profile-en-script.py) para probar y comparar el uso de YData profiling y de Sweetviz
    
    2. R: 
       - [`dlookr`](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html), 
