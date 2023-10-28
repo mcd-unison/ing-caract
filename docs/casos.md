@@ -19,12 +19,16 @@ show_sidebar: false
 
 ## Información georeferenciada (mapas)
 
-1. Las librerías de base [GDAL](https://gdal.org) y [GEOS](https://trac.osgeo.org/geos), que son las bases para [geopandas](https://geopandas.org/en/stable/index.html#) para python y [Simple Features](https://r-spatial.github.io/sf/index.html) para R.
-2. Para visualizar, lo más usado es la biblioteca [Leaflet](https://leafletjs.com) y su interface [para R](https://rstudio.github.io/leaflet/) y [para python](http://python-visualization.github.io/folium/).
-3. Archivos [geojson](https://geojson.org), [archivos Shape](https://en.wikipedia.org/wiki/Shapefile)
+1. [Una presentación muy agradable](https://kjordahl.net/SciPy-Tutorial-2015/#1) sobre el análisis de datos geoespaciales en python con herramientas libres.
+2. Curso [Geographic Data Science](http://darribas.org/gds16/index.html) de [Dani Arribas-Bel](http://darribas.org). Tiene ejemplos en librets de python y presentaciones muy interesantes y accesibles.
+3. [Material del curso de geoinformática](https://centrogeo.github.io/curso-geoinformatica-2/) del Laboratorio Nacional de Geointeligencia (GeoInt) de CentroGeo.
+4. [Geopandas](https://geopandas.org/en/stable/index.html#) 
+5. Para visualizar, lo más usado es la biblioteca [Leaflet](https://leafletjs.com) y su interface [para R](https://rstudio.github.io/leaflet/) y [para python](http://python-visualization.github.io/folium/).
+6. Archivos [geojson](https://geojson.org), [archivos Shape](https://en.wikipedia.org/wiki/Shapefile)
 
 ## Material sobre como hacer mapas en python y en R
 
 1. Una [presentación realizada por Luís Armando Moreno](https://github.com/mcd-unison/ing-caract/raw/main/slides/Mapas%20coropléticos.pdf), con su respectivo [ejemplo ilustrativo](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/mapas/R/GMU-Ejemplo.R).
-2. Una [libreta para hacer mapas en python](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/Mapas-en-python.ipynb)
+2. Una [libreta de uso de geopandas](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/geopandas.ipynb) copiada directamente del [Material del curso de geoinformática](https://centrogeo.github.io/curso-geoinformatica-2/)
+3. Una [libreta para hacer mapas en python usando folium](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/Mapas-en-python.ipynb)
 
