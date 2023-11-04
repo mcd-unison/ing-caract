@@ -1,5 +1,5 @@
 ---
-title: Proyecto 2. Haciendo un tablero que cuente una historia
+title: Proyecto 2. Análisis exploratrio de datos
 subtitle: Curso Ingeniería de Características
 layout: page
 hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/dash-banner.png
@@ -7,30 +7,21 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Contando historias con datos
+## Análisis exploratorio de datos
 
-Hacer un tablero que cuente una historia a partir de un análisis exploratorio de datos es un resultado parcial importante en un proceso de ciencia de datos. Estos tableros permiten ampliar la discusión y el entendimiento con los usuarios de los productos de datos y ayudan a plantear mejor las preguntas, seleccionar mejor los modelos de estimación y/o pronóstico así como a especificar más claramente los productos a desarrollar.
+A partir de los datos en forma *tidy* que se obtuvieron de proyecto 1, en este proyecto se busca tener un conocimiento más a profundidad de los datos y del problema que se busca resolver. El análisis exploratorio de datos es el inicio de todo trabajo de Ciencia de Datos y ayuda a definir mejor los posibles alcances, los objetivos que se pueden alcanzar en corto, mediano y largo plazo, y a hacer una mejor planeación. También es una actividad que permite conocer mejor al usuario del producto de datos final y sus necesidades.
 
-En este proyecto vamos a utilizar al menos dos fuentes diferentes de datos para combinarlas y hacer un análisis exploratorio de datos sobre alguna problemática del estado de Sonora o la Ciudad de Hermosillo. En el proyecto es requisito:
+Para este proyecto, se espera lo siguiente:
 
-1. Usar datos históricos (tipo `datetime`)
-2. Usar datos numéricos y cualitativos
-3. Limpiar y analizar datos faltantes
-
-
-## ¿Qué historia queremos contar? ¿Para qué?
-
-Para mostrar los datos es necesario establecer un plan, determinar los
-principales KPIs, en función del usuario y los objetivos del análisis exploratorio de los datos, 
-y determinar que historia contar. 
-
-Para esto, vamos a realizar un EDA y una visualización en modo *rápido y furioso* para determinar que es lo que se puede ver con los datos y que podría ser importante para el usuario de esta información.
-
-En segunda parte, hay que establecer los KPIs relevantes, utilizando una metodología estándar que permita definirlos claramente. Ya con todo esto, se puede hacer una maqueta con la idea de tablero y la historia que queremos que cuente.
+1. Una libreta con un *auto EDA* que permita un primer análisis de los datos de forma rápida.
+2. Una o varias libretas de análisis exploratorio que cubran los siguientes aspectos:
+   1. Datos faltantes
+   2. Anomalías (*outliers*), usando al menos dos técnicas
+   3. Relaciones entre variables por visualización
+   4. Correlación entre variables
+   5. Uso de métodos de reducción de características para visualización (PCA, t-SNE, ...)
+   6. Consulta con los usuarios sobre el proceso de exploración
+   7. Integrar al final de forma clara (dentro de las mismas libretas o como reporte aparte en archivo en *markdown* por ejemplo) los hallazgos principales del proceso de exploración de los datos.
 
 
-## Tablero de visualización
-
-Una vez tendiendo la idea clara, vamos a desarrollar el tablero. Suele suceder que del plan a la acción, muchas cosas tienen que cambiar, por lo que es posible que el borrador inicial cambie drásticamente cuando ya nos encontremos desarrollándolo. Aquí es importante utilizar las gráficas correctas para comunicar sin confusiones a un usuario que no tendría que ser experto en el análisis de datos. 
-
-Para este tablero es importante la correcta selección de colores, la estética de las gráficas y su interactividad.
+Todo esto deberá estar en un repositorio de *Github* en el cual se desarrolle el trabajo. Cada miembro del equipo subirá en la plataforma Teams, de manera individual, el enlace al repositorio.

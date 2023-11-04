@@ -38,7 +38,7 @@
   dropdown:
     - name: Obtención de datos 
       link: /proyecto1/
-    - name: Contando historias con datos
+    - name: Análisis exploratorio de datos
       link: /proyecto2/
     - name: Proyecto integrador
       link: /proyecto4/
