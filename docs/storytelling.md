@@ -20,7 +20,7 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 3. [Un checklist](https://github.com/mcd-unison/ing-caract/raw/main/pdf/DataVizChecklist.pdf) viejito pero útil para saber si mis gráficas son correctas.
 
 
-## Creación de tableros para visualización 
+## Tableros e indicadores clave de desempeño
 
 1. [Sistemas de ayuda a la toma de decisiones](https://github.com/mcd-unison/ing-caract/raw/main/slides/dss.pptx)
 
@@ -28,8 +28,14 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 3. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
 
-4. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html), y [un ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/flexmarkdown/dashboard.Rmd)
 
-5. [Python tools for data visualization](https://pyviz.org) y también [un ejemplito en jupyter-flex](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb) y otro [ejemplito en panel](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/panel/panel-demo.ipynb) 
+## Herramientas para desarrollar tablero
+
+1. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html), y [un ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/flexmarkdown/dashboard.Rmd)
+
+2. [Python tools for data visualization](https://pyviz.org) y también [un ejemplito en jupyter-flex](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb) y otro [ejemplito en panel](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/panel/panel-demo.ipynb) 
 
 
+3. [Streamlit](https://streamlit.io), una forma muy sencilla de hacer tableros en python. Revisar [la documentación](https://docs.streamlit.io), la sección de *get started* muy rápido nos enseña lo escencial.
+
+4. [Dash open source](https://dash.plotly.com), la versión libre del *framework* de *Dash*. Una forma de crear tableros dinámicos complejor, pero que requiere una mayor complejidad en su programación, respecto a *Streamlit*.
