@@ -38,4 +38,8 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 3. [Streamlit](https://streamlit.io), una forma muy sencilla de hacer tableros en python. Revisar [la documentación](https://docs.streamlit.io), la sección de *get started* muy rápido nos enseña lo escencial.
 
-4. [Dash open source](https://dash.plotly.com), la versión libre del *framework* de *Dash*. Una forma de crear tableros dinámicos complejor, pero que requiere una mayor complejidad en su programación, respecto a *Streamlit*.
+4. [Dash open source](https://dash.plotly.com), la versión libre del *framework* de *Dash*. Una forma de crear tableros dinámicos complejos, pero que requiere una mayor complejidad en su programación, respecto a *Streamlit*.
+
+5. Para tableros dinámicos con filtros existen dos opciones comerciales que son importantes de conocer debido a que se uso se encuentra muy extendido en mucas empresas e instituciones:
+   1. [PowerBI](https://powerbi.microsoft.com/es-mx/) de *Microsoft. Se puede acceder a *PowerBI* con la cuenta institucional, aunque solamente se tiene acceso a la versión limitada es suficiente para aprender a usarlo. Particularmente interesante es que se puede acceder a *PowerBI* desde *Teams* y tener visualizaciones para un equipo de trabajo.
+   2. [Tableau](https://www.tableau.com) de +Salesforce*. Se pueden solicitar licencias sin conto y acceso a material de aprendizaje en los [programas académicos de Tableau](https://www.tableau.com/community/academic). Igualmente, se pueden hacer tableros y postearlos en forma pública con [Tableau Public](https://www.tableau.com/products/public).
