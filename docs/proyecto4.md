@@ -9,11 +9,11 @@ show_sidebar: false
 
 ## Contando una historia con datos
 
-Para este proyecto, vamos a culminar todo lo realizado a lo largo del semestre con un tablero, en el cual contemos una historia con los datos que obtuvimos y limpiamos en el proyecto 1, y luego exploramos en el proyecto 2. Como en ambos priyectos anteriores, las evidencias deberán estar en el mismo repositorio del proyecto. Una posible excepción podría ser el tablero, el cual es posible que sea más fácil tenerlo en un repositorio independiente.
+Para este proyecto, vamos a culminar todo lo realizado a lo largo del semestre con un tablero, en el cual contemos una historia con los datos que obtuvimos y limpiamos en el proyecto 1, y luego exploramos en el proyecto 2. Como en ambos proyectos anteriores, las evidencias deberán estar en el mismo repositorio del proyecto. Una posible excepción podría ser el tablero, el cual es posible que sea más fácil tenerlo en un repositorio independiente.
 
 Para este proyecto es necesario entregar lo siguiente:
 
-1. Un documento (markdown, latex o pdf) con la fundamentación de la historia, el cual deberá conener los siguientes puntos:
+1. Un documento (*markdown*, *latex* o pdf) con la fundamentación de la historia, el cual deberá contener los siguientes puntos:
    
    1. Audiencia (¿A quien está dirigido el tablero? ¿Que tipo de tablero debe de ser?)
    
@@ -21,13 +21,13 @@ Para este proyecto es necesario entregar lo siguiente:
    
    3. La relación de los datos que se tienen con la historia (¿Porqué podemos contar la historia? ¿Hasta donde está delimitada por los datos que tenemos?)
 
-2. Un documento (markdown, latex o pdf) con el *storyboard* con la narrativa que se va a contar, cuida que se tenga exposición del problema, datos, climax, descubrimientos y conclusión.
+2. Un documento (*markdown*, *latex* o pdf) con el *storyboard* con la narrativa que se va a contar, cuida que se tenga exposición del problema, datos, climax, descubrimientos y conclusión.
 
-3. Uno o varios documentos (markdown, latex o pdf) con la definición de los KPIs necesarios para contar la historia. Para definir los KPIs se puede utilizar [este formato](https://bernardmarr.com/a-sample-kpi-template/), aunque son libres de definirlos usando otra plantilla, pero siempre procurando que sean SMARTER.
+3. Uno o varios documentos (*markdown*, *latex* o pdf) con la definición de los KPIs necesarios para contar la historia. Para definir los KPIs se puede utilizar [este formato](https://bernardmarr.com/a-sample-kpi-template/), aunque son libres de definirlos usando otra plantilla, pero siempre procurando que sean SMARTER.
 
-4. Un documento (markdown, latex o pdf) con los KPIs en orden de importancia, manejando una narrativa de lo más importante a lo contextual.
+4. Un documento (*markdown*, *latex* o pdf) con los KPIs en orden de importancia, manejando una narrativa de lo más importante a lo contextual.
 
-5. Un documento (markdown, latex o pdf) con un borrador de como se haría la visualización. Recuerda usar la técnica de la forma de F, y cuidar el orden de acuerdo a la historia que se está contando. Pueden hacerlo a mano y simplemente subir una fotografía.
+5. Un documento (*markdown*, *latex* o pdf) con un borrador de como se haría la visualización. Recuerda usar la técnica de la forma de F, y cuidar el orden de acuerdo a la historia que se está contando. Pueden hacerlo a mano y simplemente subir una fotografía.
 
 6. Un enlace a un tablero con la historia. Es muy importante en el tablero que se encuentren los siguientes elementos:
    
