@@ -12,3 +12,4 @@ a lo largo de la formación.
 
 Si quieres consultar la página web generada para el curso, puedes hacerlo 
 [en esta enlace](https://mcd-unison.github.io/ing-caract/).
+
