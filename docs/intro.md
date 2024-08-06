@@ -10,8 +10,7 @@ show_sidebar: false
 ## Presentaciones
 
 1. [Presentación inicial del curso](https://github.com/mcd-unison/ing-caract/raw/main/slides/inicial.pdf)
-2. [Datos crudos (*raw*) vs ordenados (*tidy*)](https://github.com/mcd-unison/ing-caract/raw/main/slides/RawAndProcessedData.pdf)
-3. [Características de los datos ordenados](https://github.com/mcd-unison/ing-caract/raw/main/slides/ComponentsOfTidyData.pdf)
+2. [Datos crudos (*raw*) vs ordenados (*tidy*)](https://github.com/mcd-unison/ing-caract/raw/main/slides/datos.pdf)
 
 
 ## Entorno de desarrollo
