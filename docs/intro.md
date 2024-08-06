@@ -27,11 +27,12 @@ show_sidebar: false
 - [Estructura genérica de un proyecto de ciencia de datos](https://cookiecutter-data-science.drivendata.org)
 - [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
 
-## Entornos de Ciencia de datos
+## Plataformas de datos
 
-- [DataBricks, community edition](https://www.databricks.com/try-databricks)
-- [Dataiku, free edition (on premise)](https://www.dataiku.com/product/get-started/)
-- [Para solicitar acceso a los cursos de DataBricks](https://docs.google.com/forms/d/1xa7NHz5mWh5y40KiyshOi4_XJRnWIVGrtyqI0uNvyFE/edit) y un [archivo con instrucciones para ingresar a los Cursos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/databricks-instructions.pdf)
+1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
+2. [DataBricks](https://www.databricks.com). [Para solicitar acceso a los cursos de DataBricks](https://www.databricks.com/university) y [el enlace al academy login](https://www.databricks.com/learn/training/login)
+3. [Dataiku](https://www.dataiku.com)
+4. [Alteryx](https://www.alteryx.com), y los recursos que tiene [para estudiantes y profesores](https://www.alteryx.com/sparked)
 
 ## Entornos para BI y reportes (sin costo)
 
