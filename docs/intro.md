@@ -11,6 +11,8 @@ show_sidebar: false
 
 1. [Presentación inicial del curso](https://github.com/mcd-unison/ing-caract/raw/main/slides/inicial.pdf)
 2. [Datos crudos (*raw*) vs ordenados (*tidy*)](https://github.com/mcd-unison/ing-caract/raw/main/slides/datos.pdf)
+3. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
+4. Proceso de ingeniería de datos
 
 
 ## Entorno de desarrollo
@@ -29,7 +31,6 @@ show_sidebar: false
 
 ## Plataformas de datos
 
-1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
 2. [DataBricks](https://www.databricks.com). [Para solicitar acceso a los cursos de DataBricks](https://www.databricks.com/university) y [el enlace al academy login](https://www.databricks.com/learn/training/login)
 3. [Dataiku](https://www.dataiku.com)
 4. [Alteryx](https://www.alteryx.com), y los recursos que tiene [para estudiantes y profesores](https://www.alteryx.com/sparked)
