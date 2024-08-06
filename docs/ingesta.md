@@ -1,5 +1,5 @@
 ---
-title: Integración de Datos 
+title: Ingesta de datos 
 subtitle: Curso Ingeniería de Características
 layout: page
 hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/download-banner.jpg
@@ -7,15 +7,8 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Integración de datos
 
-1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
-2. Una presentación (medio propagandistica, pero buena) de [*DeltaLake*](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
-- [DataBricks, community edition](https://www.databricks.com/try-databricks)
-- [Para solicitar acceso a los cursos de DataBricks](https://docs.google.com/forms/d/1xa7NHz5mWh5y40KiyshOi4_XJRnWIVGrtyqI0uNvyFE/edit) y un [archivo con instrucciones para ingresar a los Cursos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/databricks-instructions.pdf)
-
-
-## Tipos de archivos, y como leerlos en python y R
+## Tipos de archivos, y como leerlos en python
 
 1. Archivos CSV
 2. Archivos [JSON](https://www.json.org/json-en.html)
@@ -39,6 +32,7 @@ show_sidebar: false
 10. [Google Dataset Search](https://datasetsearch.research.google.com)
 11. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis) y otro [de APIs gratuitas](https://free-apis.github.io)
 
+
 ## Descargando archivos
 
 ### Con comandos de UNIX
@@ -46,7 +40,8 @@ show_sidebar: false
 - [Un bonito acordeón de `curl`](https://curl.se/docs/manual.html)
 - Libro gratuito [Data Science at the Command Line, 2e](https://www.datascienceatthecommandline.com/2e/)
 
-### Usando R
+
+<!-- ### Usando R
 
 - Usando [`ddownload.file`](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/download.file)
 - Descargando los datos [Directamente cuando se leen](https://www.datacamp.com/community/tutorials/r-data-import-tutorial?utm_source=adwords_ppc&utm_campaignid=1658343524&utm_adgroupid=63833881815&utm_device=c&utm_keyword=%2Bread%20%2Bdata%20%2Br&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=469789579419&utm_targetid=aud-522010995285:kwd-309793905111&utm_loc_interest_ms=&utm_loc_physical_ms=1010167&gclid=CjwKCAjw092IBhAwEiwAxR1lRvFJfvVx6UVJMwqkAUiVf7v6mqs-m5V2Ti3umTn1qbwYYvQOisnMRxoC2RgQAvD_BwE).
@@ -54,7 +49,7 @@ show_sidebar: false
 - [Usando la API desde R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromAPIs.pdf)
 - [Webscraping con R](https://github.com/mcd-unison/ing-caract/raw/main/slides/ReadingFromTheWeb.pdf)
 - [Ejemplito de RMarkdown para descarga de datos](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/integracion/R/descarga_datos.Rmd)
-
+ -->
 ### Usando python
 
 - [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6)
@@ -70,4 +65,16 @@ show_sidebar: false
 - Curso [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) de Udacity
 
 
+## Calidad de datos
 
+1. Una presentación sobre calidad de los datos
+2. [Great Expectations](https://greatexpectations.io), una librería en python para asegurar la calidad de los datos
+3. Una presentación (medio propagandistica, pero buena) de [*DeltaLake*](https://github.com/mcd-unison/ing-caract/raw/main/slides/deltalake.pdf)
+4. [DVC](https://dvc.org) o *Data Version Control*
+
+## Plataformas de datos
+
+1. [Ingeniería de datos 101](https://github.com/mcd-unison/ing-caract/raw/main/slides/data-eng-101.pdf)
+2. [DataBricks](https://www.databricks.com). [Para solicitar acceso a los cursos de DataBricks](https://www.databricks.com/university) y [el enlace al academy login](https://www.databricks.com/learn/training/login)
+3. [Dataikku](https://www.dataiku.com)
+4. [Alteryx](https://www.alteryx.com), y los recursos que tiene [para estudiantes y profesores](https://www.alteryx.com/sparked)

@@ -3,35 +3,31 @@
   dropdown:
     - name: Introducción 
       link: /intro/
-    - name: Obtención de datos
-      link: /integra/
-    - name: Tipos de datos
+    - name: Ingesta de datos
+      link: /ingesta/
+    - name: Procesamiento de características
       link: /tipos/
-    - name: Procesamiento de datos
+    - name: Limpieza de datos
       link: /procesa/
-    - name: Análisis exploratorio de datos
-      link: /eda/
-    - name: Series de tiempo y datos georeferenciados
-      link: /casos/
-    - name: Contando historias con datos
+    - name: Reducción de datos
+      link: /redu/
+    - name: EDA y visualización
       link: /storytelling/
 - name: Actividades aprendizaje
   link: /#
   dropdown:
     - name: Introducción 
       link: /t-intro/
-    - name: Obtención de datos
-      link: /t-integra/
-    - name: Tipos de datos
+    - name: Ingesta de datos
+      link: /t-ingesta/
+    - name: Procesamiento de características
       link: /t-tipos/
-    - name: Procesamiento de datos
+    - name: Limpieza de datos
       link: /t-procesa/
-    - name: Análisis exploratorio de datos
-      link: /t-eda/
-    - name: Series de tiempo y datos georeferenciados
-      link: /t-casos/
+    - name: Reducción de datos
+      link: /t-redu/
     - name: Contando historias con datos
-      link: /t-rstorytelling/
+      link: /t-storytelling/
 
 - name: Proyectos
   link: /#

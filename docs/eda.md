@@ -31,7 +31,7 @@ show_sidebar: false
 
 ## Librerías para visualización de datos:
 
-1. Python: [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/index.html) y [`holoviz`](https://holoviz.org)
+1. Exclusivas de pythopn: [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/index.html) y [`holoviz`](https://holoviz.org)
 2. R: [`ggplot2`](https://ggplot2.tidyverse.org/) y sus [`extensiones`](https://exts.ggplot2.tidyverse.org/gallery/)
 3. General: [librerías abiertas de `plotly`](https://plotly.com/graphing-libraries/)
 

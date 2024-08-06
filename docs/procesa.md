@@ -9,8 +9,8 @@ show_sidebar: false
 
 ## Operaciones comunes en dataframes
 
-1. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) y [en R](https://dplyr.tidyverse.org/articles/two-table.html). 
-2. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html) y [en R](https://tidyr.tidyverse.org/articles/pivot.html).
+1. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) 
+2. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html)
 
 
 ## Imputación de datos
@@ -19,20 +19,17 @@ show_sidebar: false
 2. Presentación [*Dealing with Missing Data*](https://cyfs.unl.edu/cyfsprojects/videoPPT/8551c12760de7027a89d14b29c26522a/151026-Enders.pdf) de *Craig Enders* de la UCLA. Muy completo.
 3. Una imagen con [el resumen del proceso de imputación](https://github.com/mcd-unison/ing-caract/raw/main/docs/imagenes/missing_data.png)
 4. [Missing value imputation: a review and analysis of the literature](https://github.com/mcd-unison/ing-caract/raw/main/slides/imputation-review.pdf)
-5. [How to Handle Missing Data (R)](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
-6. [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
-7. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/merging.html)
-8. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
-9. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
-10. [Top Techniques to Handle Missing Values Every Data Scientist Should Know](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values). Blog de *DataCamp*
+5. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/merging.html)
+6. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
+7. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
+8.  [Top Techniques to Handle Missing Values Every Data Scientist Should Know](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values). Blog de *DataCamp*
 
 ## Detección de anomalías
 
 1. [Recursos sobre detección de anomalías](https://github.com/yzhao062/anomaly-detection-resources)
 2. [Novelty and Outlier Detection (Sci-kit Learn)](https://scikit-learn.org/stable/modules/outlier_detection.html)
 3. [PyOD](https://pyod.readthedocs.io/en/latest/) y una [breve reseña](https://towardsdatascience.com/pyod-a-unified-python-library-for-anomaly-detection-3608ec1fe321) en TDS.
-4. [Anomalize (R) para detección de anomalías en series de tiempo](https://cran.r-project.org/web/packages/anomalize/vignettes/anomalize_quick_start_guide.html)
-5. [Una libreta](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/anomalias/taller_solar.ipynb) con un ejemplito sobre detección y eliminación de *outliers*.
+4. [Una libreta](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/anomalias/taller_solar.ipynb) con un ejemplito sobre detección y eliminación de *outliers*.
 
 
 ## Agregación
@@ -49,7 +46,7 @@ show_sidebar: false
 
 1. [Featuretools](https://www.featuretools.com). Herramienta para generación automática de atributos en función de la naturaleza de los atributos originales y una [libreta de ejemplo que me copié de la documentación](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/featuretools/NHL_Games.ipynb).
 
-# Libros de consulta general
+<!-- # Libros de consulta general
 
 1. [R for Data Science](https://r4ds.had.co.nz), el libro de cabecera del *tidyverse*.
 
@@ -59,4 +56,4 @@ show_sidebar: false
    
 2. Entrada de *Medium*: [How to Test Pandas ETL Data Pipeline](https://towardsdatascience.com/how-to-test-pandas-etl-data-pipeline-e49fb5dac4ce).
 
-
+ -->

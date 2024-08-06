@@ -12,5 +12,3 @@ show_sidebar: false
 
 - Realizar el curso [Understanding Data Science](https://app.datacamp.com/learn/courses/understanding-data-science) de DataCamp
   
-- Realizar el curso [Introduction to Data Science](https://enterprise.edx.org/uni-sonora/course/IBM+DS0101EN) de IBM, en EdX.
-  

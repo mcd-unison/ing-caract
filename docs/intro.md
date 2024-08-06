@@ -14,7 +14,7 @@ show_sidebar: false
 3. [Características de los datos ordenados](https://github.com/mcd-unison/ing-caract/raw/main/slides/ComponentsOfTidyData.pdf)
 
 
-## Python
+## Entorno de desarrollo
 
 - [Libretas jupyter](intro-jupyter.html)
 - Algunas opciones de libretas jupyter en linea:  
@@ -24,19 +24,9 @@ show_sidebar: false
    - [DeepNote](https://deepnote.com)
    - [SageMaker Studio Lab](https://studiolab.sagemaker.aws)
    - [Datalore](https://datalore.jetbrains.com/)
-- Algunos cursos introductorios:
-  - Un [curso muy introductorio y libre de Datacamp en español](https://www.datacamp.com/community/open-courses/introduccion-a-python).
-  - El [curso de *swcarpentry*](https://swcarpentry.github.io/python-novice-inflammation/) que si no es visualmente muy atractivo, ni muy actualizado, es un buen curso introductorio de python para ciencia de datos.
-  - Los [cursos básicos de Kaggle](https://www.kaggle.com/learn) (*Intro to programming*, *python* y *pandas*) suelen estar bien, son tambien un buen punto de partida.
-
-## R
-
-- [Rstudio](https://www.rstudio.com), y en particular [los acordeones](https://www.rstudio.com/resources/cheatsheets/) pero tiene muchos recursos interesantes
-- El [Tidyverse](https://www.tidyverse.org) que son los paquetes de R que todo científico de datos (que use R) debe conocer.
-- Algunos cursos introductorios:
-  - Un [curso muy introductorio y libre de Datacamp en español](https://www.datacamp.com/community/open-courses/introduccion-a-r).
-  - El [curso de *swcarpentry*](http://swcarpentry.github.io/r-novice-inflammation/) que si no es visualmente muy atractivo, ni muy actualizado, es un buen curso introductorio de R para ciencia de datos.
-  - [Top 5 Free R Programming Courses for Data Science and Statistics to Learn in 2022](https://becominghuman.ai/top-5-free-courses-to-learn-r-programming-for-data-science-and-statistics-in-2020-305bf1c6f24e) es una entrada de *Medium*. No lo he leído pero algunos cursos que vi por encima parecen de lugares muy serios. Vale la pena pegarle un ojo a sus recomendaciones.
+- [Docker](https://www.docker.com), con unas muy buenas [guías de uso](https://docs.docker.com/guides/)
+- [Estructura genérica de un proyecto de ciencia de datos](https://cookiecutter-data-science.drivendata.org)
+- [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
 
 ## Entornos de Ciencia de datos
 

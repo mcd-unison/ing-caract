@@ -7,6 +7,21 @@ hero_darken: true
 show_sidebar: false
 ---
 
+## Análisis exploratorio de datos
+
+1. Motivación: [¿Porque las solas estadísticas descriptivas no son suficientes y un análisis exploratorio de datos siempre es necesario?](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
+2. [EDA ¿Qué es?](https://harvard-iacs.github.io/2018-CS109A/lectures/lecture-3/presentation/lecture3.pdf)
+3. EDA automátizado. [Esta entrada de Medium con 5 herramientas](https://towardsdatascience.com/5-powerful-python-libraries-you-need-to-know-to-enhance-your-eda-process-f0100d563c16) y [esta otra, con algunas repetidas](https://pub.towardsai.net/5-python-packages-for-effortless-eda-94abddac3bc5) entre las que destacan:
+   -  [YData profiling](https://docs.profiling.ydata.ai/),
+   -  [D-Tale](https://github.com/man-group/dtale)
+   -  [Sweetviz](https://github.com/fbdesignpro/sweetviz)
+   -  [summarytools](https://github.com/6chaoran/jupyter-summarytools) 
+   -  [AutoViz](https://github.com/AutoViML/AutoViz)
+
+## Librerías para visualización de datos:
+
+1. Exclusivas de python: [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/index.html) y [`holoviz`](https://holoviz.org)
+2. General: [librerías abiertas de `plotly`](https://plotly.com/graphing-libraries/)
 
 ## Principios de visualización básicos
 
@@ -36,9 +51,7 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 ## Herramientas para desarrollar tablero
 
-1. [Tableros estáticos en R con flexdashboard](https://pkgs.rstudio.com/flexdashboard/index.html), y [un ejemplito](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/flexmarkdown/dashboard.Rmd)
-
-2. [Python tools for data visualization](https://pyviz.org) y también [un ejemplito en jupyter-flex](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb) y otro [ejemplito en panel](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/panel/panel-demo.ipynb) 
+1. [Python tools for data visualization](https://pyviz.org) y también [un ejemplito en jupyter-flex](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/jupyter-flex/dashboard-python.ipynb) y otro [ejemplito en panel](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/dashboards/panel/panel-demo.ipynb) 
 
 
 3. [Streamlit](https://streamlit.io), una forma muy sencilla de hacer tableros en python. Revisar [la documentación](https://docs.streamlit.io), la sección de *get started* muy rápido nos enseña lo escencial.
@@ -47,6 +60,7 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 5. [Streamlit vs Dash vs Voilà vs Panel — Battle of The Python Dashboarding Giants](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voilà-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57#8026)
 
-6. Para tableros dinámicos con filtros existen dos opciones comerciales que son importantes de conocer debido a que se uso se encuentra muy extendido en muchas empresas e instituciones:
+6. Para tableros dinámicos con filtros existen varias opciones comerciales que son importantes de conocer debido a que se uso se encuentra muy extendido en muchas empresas e instituciones:
    1. [PowerBI](https://powerbi.microsoft.com/es-mx/) de *Microsoft. Se puede acceder a *PowerBI* con la cuenta institucional, aunque solamente se tiene acceso a la versión limitada es suficiente para aprender a usarlo. Particularmente interesante es que se puede acceder a *PowerBI* desde *Teams* y tener visualizaciones para un equipo de trabajo.
-   2. [Tableau](https://www.tableau.com) de +Salesforce*. Se pueden solicitar licencias sin conto y acceso a material de aprendizaje en los [programas académicos de Tableau](https://www.tableau.com/community/academic). Igualmente, se pueden hacer tableros y postearlos en forma pública con [Tableau Public](https://www.tableau.com/products/public).
+   2. [Tableau](https://www.tableau.com) de *Salesforce*. Se pueden solicitar licencias sin costo y acceso a material de aprendizaje en los [programas académicos de Tableau](https://www.tableau.com/community/academic). Igualmente, se pueden hacer tableros y postearlos en forma pública con [Tableau Public](https://www.tableau.com/products/public).
+   3. [Looker Studio](https://lookerstudio.google.com/overview) de *Google*. Es gratuito para usar desde la nube de Google con tu cuenta de *gmail* aunque la versión libre es relativamente simple.
