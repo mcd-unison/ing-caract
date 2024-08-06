@@ -26,30 +26,30 @@ show_sidebar: false
 2. **Ingesta de datos**
    1. Lectura de formatos `csv`, `json`, `xml`, `sql`
    2. Uso de API's para adquirir información
-   3. Operaciones comunes en `dataframes`
-   4. Calidad del datos
-3. **Procesamiento de características**
-   1. Datos numéricos
-   2. Datos cualitativos
-   3. Cadenas de caracteres
-   4. Fechas, horas 
-   5. Series de tiempo
-   6. Información georeferenciada
+   3. Calidad del datos
+3. **Análisis exploratorio de Datos**
+   1. Tipos de datos y su procesamiento básico
+   2. Combinando tablas de datos
+   3. Herramientas para EDA
+   4. Librerías de visualización
+   5. Agregación 
 4. **Limpieza de datos**
-   1. Combinando tablas de datos
-   2. Valores faltantes e imputación de datos
-   3. Detección de anomalías
-   4. Agregación
-   5. Generación de características
-5. **Reducción de datos**
-   1. Selección de características
-   2. Análisis en componentes principales
-   3. Aprendizaje en variedades para visualización
-6. **Análisis exploratorio de Datos**
-   1. Herramientas para EDA
-   2. Principios básicos de visualización
-   3. Indicadores claves de desempeño
-   4. Desarrollo de tableros para EDA
+   1. Valores faltantes e imputación de datos
+   2. Detección de anomalías
+   3. Análisis en componentes principales
+   4. Aprendizaje en variedades para visualización
+5. **Ingeniería de características**
+   1. Datos numéricos y cualitativos
+   2. Cadenas de caracteres
+   3. Series de tiempo y variables de calendario
+   4. Variables georeferenciadas
+   5. Selección de características
+   6. Generación de características
+6.  **Contando historias con datos**
+   1. Principios básicos de visualización
+   2. Indicadores claves de desempeño
+   3. Contando historias con datos
+   4. Herramientas para el desarrollo de tableros de visualización
 
 ## Herramientas de enseñanza
 

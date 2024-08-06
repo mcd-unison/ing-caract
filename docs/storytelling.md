@@ -7,21 +7,6 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Análisis exploratorio de datos
-
-1. Motivación: [¿Porque las solas estadísticas descriptivas no son suficientes y un análisis exploratorio de datos siempre es necesario?](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
-2. [EDA ¿Qué es?](https://harvard-iacs.github.io/2018-CS109A/lectures/lecture-3/presentation/lecture3.pdf)
-3. EDA automátizado. [Esta entrada de Medium con 5 herramientas](https://towardsdatascience.com/5-powerful-python-libraries-you-need-to-know-to-enhance-your-eda-process-f0100d563c16) y [esta otra, con algunas repetidas](https://pub.towardsai.net/5-python-packages-for-effortless-eda-94abddac3bc5) entre las que destacan:
-   -  [YData profiling](https://docs.profiling.ydata.ai/),
-   -  [D-Tale](https://github.com/man-group/dtale)
-   -  [Sweetviz](https://github.com/fbdesignpro/sweetviz)
-   -  [summarytools](https://github.com/6chaoran/jupyter-summarytools) 
-   -  [AutoViz](https://github.com/AutoViML/AutoViz)
-
-## Librerías para visualización de datos:
-
-1. Exclusivas de python: [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/index.html) y [`holoviz`](https://holoviz.org)
-2. General: [librerías abiertas de `plotly`](https://plotly.com/graphing-libraries/)
 
 ## Principios de visualización básicos
 

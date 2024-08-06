@@ -5,13 +5,13 @@
       link: /intro/
     - name: Ingesta de datos
       link: /ingesta/
-    - name: Procesamiento de características
-      link: /tipos/
+    - name: Análisis exploratorio de datos
+      link: /eda2/
     - name: Limpieza de datos
-      link: /procesa/
-    - name: Reducción de datos
-      link: /redu/
-    - name: EDA y visualización
+      link: /limpieza/
+    - name: Ingeniería de características
+      link: /igc/
+    - name: Contando historias con datos
       link: /storytelling/
 - name: Actividades aprendizaje
   link: /#
@@ -20,12 +20,12 @@
       link: /t-intro/
     - name: Ingesta de datos
       link: /t-ingesta/
-    - name: Procesamiento de características
-      link: /t-tipos/
+    - name: Análisis exploratorio de datos
+      link: /t-eda2/
     - name: Limpieza de datos
-      link: /t-procesa/
-    - name: Reducción de datos
-      link: /t-redu/
+      link: /t-limpieza/
+    - name: Ingeniería de características
+      link: /t-igc/
     - name: Contando historias con datos
       link: /t-storytelling/
 
