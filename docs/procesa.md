@@ -46,6 +46,13 @@ show_sidebar: false
 
 1. [Featuretools](https://www.featuretools.com). Herramienta para generación automática de atributos en función de la naturaleza de los atributos originales y una [libreta de ejemplo que me copié de la documentación](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/featuretools/NHL_Games.ipynb).
 
+
+## ETLs
+
+1. [Amphi-ETL](https://github.com/amphi-ai/amphi-etl) una herramienta de *low-code* para hacer ETLs y ponerlos en producción.
+2. [DVC para hacer ETL](https://dvc.org). Así es, ETL que se puede hacer en forma local y como *GitHub Actions* en un proceso de integración continua.
+3. [AirFlow]() como una herramienta genérica y todo poderosa.
+
 <!-- # Libros de consulta general
 
 1. [R for Data Science](https://r4ds.had.co.nz), el libro de cabecera del *tidyverse*.

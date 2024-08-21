@@ -18,19 +18,20 @@ show_sidebar: false
 6. Archivos [Parquet](https://databricks.com/glossary/what-is-parquet)
 
 
-## En donde encontrar datos
+## En donde encontrar datos sobre México
 
-1. El [INEGI](https://www.inegi.org.mx/default.html)
-2. Plataforma [DataMéxico](https://datamexico.org/es) y su [interesante API](https://dev-api.datamexico.org/ui/)
+1. El [INEGI](https://www.inegi.org.mx/default.html) y una [herramienta de consulta en python](https://github.com/FabioSol/INEGIExplorer)
+2. Plataforma [DataMéxico](https://www.economia.gob.mx/datamexico/) y su [interesante API](https://www.economia.gob.mx/datamexico/es/vizbuilder)
 3. El portal de [datos abiertos del gobierno de México](https://datos.gob.mx)
-4. Micrositio de [incidencia delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-299891?state=published) del secretariado ejecutivo nacional, [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx), [CONAPO](https://www.gob.mx/conapo)
-5. El portal de [Datamx](http://datamx.io) o el de [Data Civica](https://datacivica.org)
-6. [Explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
-7. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
-8. [Kaggle](https://www.kaggle.com/datasets)
-9. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
-10. [Google Dataset Search](https://datasetsearch.research.google.com)
-11. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis) y otro [de APIs gratuitas](https://free-apis.github.io)
+4. [Incidencia delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-299891?state=published) del secretariado ejecutivo nacional y un ejemplo de un [explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
+5. [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) y [CONAPO](https://www.gob.mx/conapo)
+6. El portal de [Datamx](http://datamx.io)
+7. [*Our World in Data*](https://ourworldindata.org) y su [repositorio base en GitHub](https://github.com/owid)
+8. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
+9. [Kaggle](https://www.kaggle.com/datasets)
+10. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
+11. [Google Dataset Search](https://datasetsearch.research.google.com)
+12. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis) y otro [de APIs gratuitas](https://free-apis.github.io)
 
 
 ## Descargando archivos
@@ -52,12 +53,11 @@ show_sidebar: false
  -->
 ### Usando python
 
-- [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6)
-- [Descargando datos con Pandas](https://towardsdatascience.com/direct-to-pandas-dataframe-ab2e97ae7574)
+- [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6) y con [Pandas](https://towardsdatascience.com/direct-to-pandas-dataframe-ab2e97ae7574), en forma concisa
 - [Documentación de Pandas para entrada y salida](https://pandas.pydata.org/docs/user_guide/io.html)
 - [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/), y [este otro](https://towardsdatascience.com/quick-fire-guide-to-apis-in-python-891dd98c8877)
 - [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
-- [Una libreta de ejemplito](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) y [otra con el uso de una API mal documentada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
+- [Una libreta de ejemplito](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) y [otra con el uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
 - [Librería para descargar archivos públicos desde el *Google Drive* en forma programática](https://github.com/wkentaro/gdown) (Gracias a Estephanía por compartirlo con todos)
 
 ### SQL
