@@ -75,6 +75,7 @@ show_sidebar: false
 
 ### Auditabilidad de los datos
 
-1. [Deltalake](https://delta.io), el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/DLDTG_ER5.pdf), y un [acordeón para SQL y para python](https://delta.io/pdfs/DLDTG_ER5.pdf)
-2. [DVC](https://dvc.org) o *Data Version Control*
+1. [DVC](https://dvc.org) o *Data Version Control*, [una presentacioncita](https://github.com/mcd-unison/ing-caract/raw/main/slides/dvc.pdf) y [un ejemplito de la documentación](https://dvc.org/doc/start?tab=Mac-Linux)
+2. [Deltalake](https://delta.io), el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/DLDTG_ER5.pdf), y un [acordeón para SQL y para python](https://delta.io/pdfs/DLDTG_ER5.pdf)
+3. [Hopsworks](https://www.hopsworks.ai), otro *Lakehouse* como *Deltalake*, versión sin costo y empresarial, siempre en la nube.
 
