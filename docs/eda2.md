@@ -11,7 +11,7 @@ show_sidebar: false
 
 ### Variables cualitativas
 
-1. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data)
+1. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data), y [una muy breve libretita](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/cat.ipynb).
 
 ### Fechas y horas
 
