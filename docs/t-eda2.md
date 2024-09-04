@@ -8,9 +8,16 @@ show_sidebar: false
 ---
 
 
+## Tracks
+
+- [Importing & Cleaning Data with Python](https://www.datacamp.com/tracks/importing-cleaning-data-with-python)
+
 ## Cursos
 
-- [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn). Parte del *career track* de analista de datos de *DataCamp*.
+- [Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
+
+
+<!-- - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn). Parte del *career track* de analista de datos de *DataCamp*.
 
 - [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python). Parte del *career track* de analista de datos de *DataCamp*.
 
@@ -42,3 +49,5 @@ show_sidebar: false
     - [Comparing Search Interest with Google Trends](https://app.datacamp.com/learn/projects/google_trends)
     - [Bad Passwords and the NIST Guidelines](https://app.datacamp.com/learn/projects/analyzing_password_strength)
     - [The Android App Market on Google Play](https://app.datacamp.com/learn/projects/android-app-market)
+
+ -->
