@@ -37,18 +37,18 @@ show_sidebar: false
 
 ### Información georeferenciada 
 
-1. [Geopandas](https://geopandas.org/en/stable/index.html#) 
-2. Una [libreta de uso de geopandas](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/geopandas.ipynb) copiada directamente del [Material del curso de geoinformática](https://centrogeo.github.io/curso-geoinformatica-2/)
+1. [Geopandas](https://geopandas.org/en/stable/index.html#) y [una presentacioncita](https://github.com/mcd-unison/ing-caract/raw/main/slides/introGeo-dc.pdf).
+2. Una [libreta de uso de geopandas](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/geopandas.ipynb) copiada directamente del [Material del curso de geoinformática](https://centrogeo.github.io/curso-geoinformatica-2/).
 3. Archivos [geojson](https://geojson.org), [archivos Shape](https://en.wikipedia.org/wiki/Shapefile)
 4. Para visualizar, lo más usado es la biblioteca [Leaflet](https://leafletjs.com) y su interface [para python](http://python-visualization.github.io/folium/).
-5. Una [libreta para hacer mapas en python usando folium](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/Mapas-en-python.ipynb)
+5. Una [libreta para hacer mapas en python usando folium](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/Mapas-en-python.ipynb).
 
 
 ## Combinando tablas de datos
 
 1. Combinación de dataframes [en python](https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html) 
 2. Expansión en columnas o renglones [en python](https://pandas.pydata.org/docs/user_guide/reshaping.html)
-3. Coeficientes de correlación de [Pearson](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Spearman](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [Kendall](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient) y[$\Phi_k$](https://phik.readthedocs.io/en/latest/index.html) (con [un ejemplito](https://github.com/KaveIO/PhiK/blob/master/phik/notebooks/phik_tutorial_basic.ipynb) de como usarla).
+3. Coeficientes de correlación de [Pearson](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Spearman](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [Kendall](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient) y [\(\Phi_k\)](https://phik.readthedocs.io/en/latest/index.html) (con [un ejemplito](https://github.com/KaveIO/PhiK/blob/master/phik/notebooks/phik_tutorial_basic.ipynb) de como usarla).
 
 
 ## Análisis exploratorio de datos
