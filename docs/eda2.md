@@ -63,6 +63,7 @@ show_sidebar: false
       -  [Sweetviz](https://github.com/fbdesignpro/sweetviz)
       -  [summarytools](https://github.com/6chaoran/jupyter-summarytools) 
       -  [AutoViz](https://github.com/AutoViML/AutoViz)
+3. [Un ejemplito del uso de los AutoEDAs](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/eda/auto-eda.ipynb)
    
 
 ## Librerías para visualización de datos:
