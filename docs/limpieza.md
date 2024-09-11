@@ -32,6 +32,7 @@ show_sidebar: false
 2. [Principal Component Analysis](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html). Libreta de Colab del libro [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 3. [Una libreta sobre PCA](https://github.com/mcd-unison/ing-caract/raw/main/ejemplos/reduccion-caracteristicas/pca.ipynb) para visualización de variables.
 
+![](https://www.explainxkcd.com/wiki/images/e/e9/data_pipeline.png)
 
 ## Métodos no lineales de reducción de características para visualización
 

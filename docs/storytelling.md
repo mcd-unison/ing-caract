@@ -28,11 +28,14 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 3. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
 
+
 ## Contando historias con datos
 
 1. [Una revoltura de presentaciones](https://github.com/mcd-unison/ing-caract/raw/main/slides/storytelling1.pdf) con lo que más o menos saqué en claro de varios cursos de *DataCamp*
 2. [¿Porqué contar historias?](https://github.com/mcd-unison/ing-caract/raw/main/slides/contando_historias.pdf) y algo sobre [conocer a tu audiencia](https://github.com/mcd-unison/ing-caract/raw/main/slides/audiencia.pdf), presentaciones de Joe Franklin para DataCamp.
 3. [Un repositorio de github con un ejemplito mal hecho](https://github.com/juliowaissman/streamlit-mcd) qe se puede [consultar aquí](https://juliowaissman-mcd-ejemplito.streamlit.app). Lo vamos a usar de base para contar una historia.
+
+![](https://imgs.xkcd.com/comics/self_description.png)
 
 ## Herramientas para desarrollar tablero
 
