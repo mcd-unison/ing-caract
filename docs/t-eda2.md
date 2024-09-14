@@ -7,15 +7,21 @@ hero_darken: true
 show_sidebar: false
 ---
 
-
 ## Tracks
 
 - [Importing & Cleaning Data with Python](https://www.datacamp.com/tracks/importing-cleaning-data-with-python)
+
+
+- [Data Manipulation with Python](https://www.datacamp.com/tracks/data-manipulation-with-python)
 
 ## Cursos
 
 - [Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
 
+
+## Libretas
+
+- Los ejercicios de la [libreta de uso de geopandas](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/geopandas.ipynb)
 
 <!-- - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn). Parte del *career track* de analista de datos de *DataCamp*.
 
