@@ -14,17 +14,19 @@ show_sidebar: false
 2. Presentación [*Dealing with Missing Data*](https://cyfs.unl.edu/cyfsprojects/videoPPT/8551c12760de7027a89d14b29c26522a/151026-Enders.pdf) de *Craig Enders* de la UCLA. Muy completo.
 3. Una imagen con [el resumen del proceso de imputación](https://github.com/mcd-unison/ing-caract/raw/main/docs/imagenes/missing_data.png)
 4. [Missing value imputation: a review and analysis of the literature](https://github.com/mcd-unison/ing-caract/raw/main/slides/imputation-review.pdf)
-5. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/merging.html)
+5. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/missing_data.html)
 6. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
 7. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
 8.  [Top Techniques to Handle Missing Values Every Data Scientist Should Know](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values). Blog de *DataCamp*
 
 ## Detección de anomalías
 
-1. [Recursos sobre detección de anomalías](https://github.com/yzhao062/anomaly-detection-resources)
-2. [Novelty and Outlier Detection (Sci-kit Learn)](https://scikit-learn.org/stable/modules/outlier_detection.html)
-3. [PyOD](https://pyod.readthedocs.io/en/latest/) y una [breve reseña](https://towardsdatascience.com/pyod-a-unified-python-library-for-anomaly-detection-3608ec1fe321) en TDS.
-4. [Una libreta](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/anomalias/taller_solar.ipynb) con un ejemplito sobre detección y eliminación de *outliers*.
+1. [Una presentación inicial de detección de anomalías](http://courses.washington.edu/css581/lecture_slides/18_anomaly_detection.pdf)
+2. [Otra presentación sobre técnicas específicas de detección de anomalías](https://lhchen.top/slides/AnomalyDetection/Anomaly-Detection.pdf)
+3. [Recursos sobre detección de anomalías](https://github.com/yzhao062/anomaly-detection-resources)
+4. [Novelty and Outlier Detection (Sci-kit Learn)](https://scikit-learn.org/stable/modules/outlier_detection.html)
+5. [PyOD](https://pyod.readthedocs.io/en/latest/) y una [breve reseña](https://towardsdatascience.com/pyod-a-unified-python-library-for-anomaly-detection-3608ec1fe321) en TDS.
+6. [Una libreta](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/anomalias/taller_solar.ipynb) con un ejemplito sobre detección y eliminación de *outliers*.
 
 ## Análisis en componentes principales
 
