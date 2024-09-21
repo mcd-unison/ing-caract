@@ -15,7 +15,8 @@ Para el resto del curso vamos a trabajar sobre el mismo problema, basado en dato
    1. Que implique alguna base de datos con series de tiempo
    2. Que maneje información georeferenciada (como estados, municipios, AGEBs, ...)
    3. Que incluya datos cualitativos y cuantitativos
-   4. Si hay datos que vienen en forma de texto (aunque se puedan tratar) es una característica deseable pero no obligatoria
+   4. Que use al menos dos fuentes de datos
+   5. Si hay datos que vienen en forma de texto (aunque se puedan tratar) es una característica deseable pero no obligatoria
 
 2. Indicar cual es el público a el que está destinado el producto de datos final (tablero)
 
@@ -29,7 +30,7 @@ La obtención de datos es muy importante, y fuera de los datos públicos que pod
 
 En este proyecto, cada equipo va a desarrollar un pequeño programa que ayude a descargar datos a partir de diferentes APIs, o usando un método para descargas masivas. Recuerda de usar un entorno virtual, y dejar especificado el método de descarga de datos en el archivo `makefile`. 
 
-Las evidencias para esta estapa del proyecto será:
+Las evidencias para esta etapa del proyecto será:
 
 1. Un script que descargue datos de al menos dos fuentes diferentes, y que genere un archivo texto con la descripción de las fuentes, las fechas de descarga y de ser posible la descripción (o enlaces) que expliquen la naturaleza de los datos descargados. Si los datos venían sin explicación, agregar la explicación propia para simplificar el proceso. Los datos se deberán guardar en `.data/raw/`. Pueden hacer primero una libreta para probar cosas (en la sección de `notebooks`)
 
@@ -43,5 +44,5 @@ Las evidencias para esta estapa del proyecto será:
 
 ## Comunicación
 
-Uno de los miembros del equipo va a hacer una entrade de *Medium*
+Uno de los miembros del equipo va a hacer una entra de de *Medium*
 
