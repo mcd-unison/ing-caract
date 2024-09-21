@@ -7,26 +7,19 @@ hero_darken: true
 show_sidebar: false
 ---
 
----
-title: Proyecto 1. Descargando datos de la web
-subtitle: Curso Ingeniería de Características
-layout: page
-hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/API-banner.jpg
-hero_darken: true
-show_sidebar: false
----
 
 ## Selección de un problema
 
 Para el resto del curso vamos a trabajar sobre el mismo problema, basado en datos reales públicos, los cuales van a tener que descargar. Para esta primera etapa, cada equipo deberá hacer lo siguiente:
 
 1. Seleccionar un tema o una problemática, y especificar cual es la pregunta que se piensa contestar al final de los 3 proyectos del curso. Para que la problemática sea válida deberá implicar el uso de los siguientes tipos de datos:
-   1. Que implique alguna base de datos con series de tiempo
+   1. Que implique alguna base de datos con series de tiempo.
    2. Que maneje información georeferenciada (como estados, municipios, AGEBs, ...)
-   3. Que incluya datos cualitativos y cuantitativos
-   4. Si hay datos que vienen en forma de texto (aunque se puedan tratar) es una característica deseable pero no obligatoria
+   3. Que incluya datos cualitativos y cuantitativos.
+   4. Si hay datos que vienen en forma de texto (aunque se puedan tratar) es una característica deseable pero no obligatoria.
+   5. Que use al menos dos fuentes de datos.
 
-2. Indicar cual es el público a el que está destinado el producto de datos final (tablero)
+2. Indicar cual es el público a el que está destinado el producto de datos final (tablero).
 
 3. Indicar en una lista las fuentes primarias de datos donde se encuentra la información.
 
@@ -38,7 +31,7 @@ La obtención de datos es muy importante, y fuera de los datos públicos que pod
 
 En este proyecto, cada equipo va a desarrollar un pequeño programa que ayude a descargar datos a partir de diferentes APIs, o usando un método para descargas masivas. Recuerda de usar un entorno virtual, y dejar especificado el método de descarga de datos en el archivo `makefile`. 
 
-Las evidencias para esta estapa del proyecto será:
+Las evidencias para esta etapa del proyecto será:
 
 1. Un script que descargue datos de al menos dos fuentes diferentes, y que genere un archivo texto con la descripción de las fuentes, las fechas de descarga y de ser posible la descripción (o enlaces) que expliquen la naturaleza de los datos descargados. Si los datos venían sin explicación, agregar la explicación propia para simplificar el proceso. Los datos se deberán guardar en `.data/raw/`. Pueden hacer primero una libreta para probar cosas (en la sección de `notebooks`)
 
@@ -52,5 +45,5 @@ Las evidencias para esta estapa del proyecto será:
 
 ## Comunicación
 
-Uno de los miembros del equipo va a hacer una entrade de *Medium*
+Uno de los miembros del equipo va a hacer una entrada de *Medium*
 
