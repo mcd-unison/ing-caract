@@ -25,7 +25,7 @@ show_sidebar: false
 7. Biblioteca de python [`categorical_encoding`](https://github.com/alteryx/categorical_encoding) de Alteryx
 
 
-8. [Libreta para colab con sklearn](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/catnum.ipynb) y otra [libreta para colab con una librería especializada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/categoricos.ipynb).
+8. [Libreta para colab con sklearn](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/catnum.ipynb) y otra [libreta para colab con una librería especializada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/categoricos.ipynb).
 
 9. [*A Data Scientist’s Toolkit to Encode Categorical Variables to Numeric*](https://towardsdatascience.com/a-data-scientists-toolkit-to-encode-categorical-variables-to-numeric-d17ad9fae03f)
 
