@@ -30,6 +30,7 @@ Se espera lo siguiente en el repositorio de *GitHub* de cada proyecto:
    3. Resumen de uno o dos párrafos con los hallazgos más importantes directamente
    4. Una gráfica o imagen representativa del hallazgo más importante
    5. Máximo 3 páginas con el detalle de los hallazgos, incluyendo bibliografía y gráficas. 
+4. Realizar una presentación por equipo de los principales hallazgos de menos de 10 minutos y menos de 5 slides.
 
 Como ven, tendrán que seleccionar los temas y los hallazgos que consideren relevantes, así como las gráficas que consideren que mejor representa las ideas.
 
