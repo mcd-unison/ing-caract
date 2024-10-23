@@ -45,7 +45,7 @@ show_sidebar: false
    4. Variables georeferenciadas
    5. Selección de características
    6. Generación de características
-6.  **Contando historias con datos**
+6. **Contando historias con datos**
    1. Principios básicos de visualización
    2. Indicadores claves de desempeño
    3. Contando historias con datos
