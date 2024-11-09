@@ -28,7 +28,9 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 2. Una [página de Qlik](https://www.qlik.com/us/kpi) sobre KPI's y [una guía](https://github.com/mcd-unison/ing-caract/raw/main/pdf/eb-kpi-planning-guide-en.pdf) para su desarrollo de la misma compañía.
 
-3. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
+3. [Una plantilla para definir KPIs](https://bernardmarr.com/a-sample-kpi-template/) que me parece bastante clara. No es la única y puedes escoger la que se ajuste a tus necesidades. 
+
+4. [10 Best Practices for Building Effective Dashboards](https://github.com/mcd-unison/ing-caract/raw/main/pdf/BestPracticesDashboards.pdf) de Tableau
 
 
 ## Contando historias con datos
