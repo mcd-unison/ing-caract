@@ -36,16 +36,6 @@ show_sidebar: false
 2. Una [presentación con más detalle](https://github.com/mcd-unison/ing-caract/raw/main/slides/modelo-cbow.pdf)
 
 
-## Series de tiempo y variables de calendario
-
-1. La documentación de `pandas`para fechas y horas [vuelta una libreta de jupyter](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/timestamp.ipynb)
-
-2. [Suavizado por medias móviles, filtro exponencial y *Holt-Winters*](https://medium.com/@srv96/smoothing-techniques-for-time-series-data-91cccfd008a2) y [Suavizado local](https://en.wikipedia.org/wiki/Local_regression) y en particular [LOESS](https://towardsdatascience.com/loess-373d43b03564)
-
-3. [Un tutorial bastante completo en Kaggle de series de tiempo](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python)
-
-4. [Un ejemplito sobre suavizado en python](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/suavizado/suavizado.ipynb)
-
 ## Variables georeferenciadas
 
 1. [Una presentación muy agradable](https://kjordahl.net/SciPy-Tutorial-2015/#1) sobre el análisis de datos geoespaciales en python con herramientas libres.
@@ -53,6 +43,17 @@ show_sidebar: false
 2. Curso [Geographic Data Science](http://darribas.org/gds16/index.html) de [Dani Arribas-Bel](http://darribas.org). Tiene ejemplos en librets de python y presentaciones muy interesantes y accesibles.
    
 3. [Material del curso de geoinformática](https://centrogeo.github.io/curso-geoinformatica-2/) del Laboratorio Nacional de Geointeligencia (GeoInt) de CentroGeo.
+
+## Series de tiempo y variables de calendario
+
+1. La documentación de `pandas`para fechas y horas [vuelta una libreta de jupyter](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/timestamp.ipynb)
+
+2. [Un tutorial bastante completo en Kaggle de series de tiempo](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python)
+
+3. [Suavizado por medias móviles, filtro exponencial y *Holt-Winters*](https://medium.com/@srv96/smoothing-techniques-for-time-series-data-91cccfd008a2) y [Suavizado local](https://en.wikipedia.org/wiki/Local_regression) y en particular [LOESS](https://towardsdatascience.com/loess-373d43b03564)
+
+4. [Un ejemplito sobre suavizado en python](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/suavizado/suavizado.ipynb)
+
 
 ## Agregación
 
