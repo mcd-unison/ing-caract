@@ -10,12 +10,14 @@ show_sidebar: false
 
 ## Principios de visualización básicos
 
-1. Libro [*Storytelling with data: a data visualization guide for business professionals*](https://www.storytellingwithdata.com)
+1. [Guía de visualización de datos para entidades locales](https://github.com/mcd-unison/ing-caract/raw/main/docs/guia_de_visualizacion.pdf) de la [FEMP](https://redtransparenciayparticipacion.es).
+
+2. Libro [*Storytelling with data: a data visualization guide for business professionals*](https://www.storytellingwithdata.com)
 de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
-2. Libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) de Claus O. Wilke. Buena introducción, con código en R.
+1. Libro [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) de Claus O. Wilke. Buena introducción, con código en R.
 
-3. Un muy bonito sitio [para escoger visualizaciones](https://datavizproject.com/#)
+2. Un muy bonito sitio [para escoger visualizaciones](https://datavizproject.com/#)
 
 3. [Un checklist](https://github.com/mcd-unison/ing-caract/raw/main/pdf/DataVizChecklist.pdf) viejito pero útil para saber si mis gráficas son correctas.
 
