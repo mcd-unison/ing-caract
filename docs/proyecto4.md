@@ -23,15 +23,13 @@ Para este proyecto es necesario agregar al repositorio del proyecto lo siguiente
 
 2. Un documento (*markdown*, *latex* o pdf) con el *storyboard* con la narrativa que se va a contar, cuida que se tenga exposición del problema, datos, climax, descubrimientos y conclusión.
 
-3. Uno o varios documentos (*markdown*, *latex* o pdf) con la definición de los KPIs necesarios para contar la historia. Para definir los KPIs se puede utilizar [este formato](https://bernardmarr.com/a-sample-kpi-template/), aunque son libres de definirlos usando otra plantilla, pero siempre procurando que sean SMARTER.
+3. Uno o varios documentos (*markdown*, *latex* o pdf) con la definición de las métricas necesarias para contar la historia. Organiza las métricas en orden de importancia, manejando una narrativa de lo más importante a lo contextual.
 
-4. Un documento (*markdown*, *latex* o pdf) con los KPIs en orden de importancia, manejando una narrativa de lo más importante a lo contextual.
+4. Un documento (*markdown*, *latex* o pdf) con una maqueta o diseño de como se haría la visualización. Recuerda usar la técnica de la forma de F, y cuidar el orden de acuerdo a la historia que se está contando. Pueden hacerlo a mano y simplemente subir una fotografía.
 
-5. Un documento (*markdown*, *latex* o pdf) con una maqueta o diseño de como se haría la visualización. Recuerda usar la técnica de la forma de F, y cuidar el orden de acuerdo a la historia que se está contando. Pueden hacerlo a mano y simplemente subir una fotografía.
+5. Una página en *GitHub pages* del proyecto, la cual puede ser directamente el tablero, o la historia. 
 
-6. Una página en *GitHub pages* del proyecto, la cual puede ser directamente el tablero, o la historia. 
-
-7. Un enlace a un tablero con la historia. Es muy importante en el tablero que se encuentren los siguientes elementos:
+6. Un enlace a un tablero con la historia. Es muy importante en el tablero que se encuentren los siguientes elementos:
    
    1. Los elementos de visualización y el tipo de gráfica correcta para cada tipo de variable. Los elementos de visualización deben contar con todos los elementos necesarios para la comunicación efectiva.
 
