@@ -47,14 +47,14 @@ de Cole Nussbaumer Knaflic, Wiley (2015), disponible en la librería de la DCEN.
 
 2. [A Survey of Python Frameworks](https://ploomber.io/blog/survey-python-frameworks/)
 
-3. [Dash open source](https://dash.plotly.com), la versión libre del *framework* de *Dash*. Una forma de crear tableros dinámicos complejos, pero que requiere una mayor complejidad en su programación, respecto a *Streamlit*.
+3. [Voilá](https://voila.readthedocs.io/en/stable/index.html) es un framework que no me gusta mucho pero es el que viene como oficial dentro del proyecto *Jupyter*.
 
-4. [Streamlit](https://streamlit.io), una forma muy sencilla de hacer tableros en python. Revisar [la documentación](https://docs.streamlit.io), la sección de *get started* muy rápido nos enseña lo esencial.
+4. [Dash open source](https://dash.plotly.com), la versión libre del *framework* de *Dash*. Una forma de crear tableros dinámicos complejos, pero que requiere una mayor complejidad en su programación, respecto a *Streamlit*.
+
+5. [Streamlit](https://streamlit.io), una forma muy sencilla de hacer tableros en python. Revisar [la documentación](https://docs.streamlit.io), la sección de *get started* muy rápido nos enseña lo esencial.
    1. [Un tutorial simple para hacer un tablero](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
    2. [Una presentación de *Streamlit* en un tablero de *Streamlit*](https://example-driven-learning.streamlit.app)
    3. [Un tablerito de la MCD extremadamente simple](https://juliowaissman-mcd-ejemplito.streamlit.app) con su [codigo en *GitHub*](https://github.com/juliowaissman/streamlit-mcd/)
-
-
 
 6. Para tableros dinámicos con filtros existen varias opciones comerciales que son importantes de conocer debido a que se uso se encuentra muy extendido en muchas empresas e instituciones:
    1. [PowerBI](https://powerbi.microsoft.com/es-mx/) de *Microsoft. Se puede acceder a *PowerBI* con la cuenta institucional, aunque solamente se tiene acceso a la versión limitada es suficiente para aprender a usarlo. Particularmente interesante es que se puede acceder a *PowerBI* desde *Teams* y tener visualizaciones para un equipo de trabajo.
