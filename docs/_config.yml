@@ -4,7 +4,7 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.13.3
 lang: es
 title: Ingeniería de Características (2025-2)
 tagline: MCD-UNISON 
-email: {julio.waissman, raquel.torres}@unison.mx
+email: julio.waissman@unison.mx
 description: Material del curso
 baseurl: "/"
 url: "https://mcd-unison/ing-caract"
