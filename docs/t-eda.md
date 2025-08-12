@@ -8,6 +8,11 @@ show_sidebar: false
 ---
 
 
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+
+<!-- 
+
 ## Cursos
 
 - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn). Parte del *career track* de analista de datos de *DataCamp*.
@@ -41,4 +46,4 @@ show_sidebar: false
     - [Exploring the History of Lego](https://app.datacamp.com/learn/projects/history-of-lego)
     - [Comparing Search Interest with Google Trends](https://app.datacamp.com/learn/projects/google_trends)
     - [Bad Passwords and the NIST Guidelines](https://app.datacamp.com/learn/projects/analyzing_password_strength)
-    - [The Android App Market on Google Play](https://app.datacamp.com/learn/projects/android-app-market)
+    - [The Android App Market on Google Play](https://app.datacamp.com/learn/projects/android-app-market) -->

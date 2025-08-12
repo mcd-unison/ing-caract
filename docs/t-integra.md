@@ -7,7 +7,9 @@ hero_darken: true
 show_sidebar: false
 ---
 
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
 
+<!-- 
 ## Cursos
 
 - Realizar el curso [Introduction to Importing Data in R](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-r) de DataCamp
@@ -30,3 +32,4 @@ show_sidebar: false
   - [Descargando y limpiando archivos `json` y `xml`](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) 
   
   - [Uso de una API mal documentada](https://github.com/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
+ -->

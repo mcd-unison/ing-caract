@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 
-**Profesor**: Julio Waissman Vilanova  (julio.waissman@unison.mx)
+**Profesores**: Julio Waissman Vilanova  (julio.waissman@unison.mx), Raquel Torres (raquel.torres@unison.mx)
 
 **Horarios**:
 
@@ -50,13 +50,3 @@ show_sidebar: false
    2. Indicadores claves de desempeño
    3. Contando historias con datos
    4. Herramientas para el desarrollo de tableros de visualización
-
-## Herramientas de enseñanza
-
-Vamos a utilizar *DataCamp for the Classroom* este semestre. DataCamp apoya la educación alrededor del muno con esta iniciativa libre. Puedes encontrar más información al respecto en [datacamp.com/groups/education](datacamp.com/groups/education).
-
-
-<img src="https://github.com/mcd-unison/ing-caract/raw/main/docs/img/datacamp.jpg" alt="DataCamp" height="10">
-
-
-[DataCamp](https://www.datacamp.com/) es una plataforma intuitiva para el aprendizaje de competencias para ciencia de datos. DataCamp cuenta con cursos, proyectos, tutoriales y rutas de aprendizaje para aprender desde los conceptos básicos hasta los temas avanzados de ciencia de datos usando R, python y SQL. DataCamp ofrece 350+ cursos por instructores expertos en tópicos como importación de datos, visualización y aprendizaje automático entre otros.

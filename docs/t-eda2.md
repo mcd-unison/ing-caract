@@ -7,6 +7,11 @@ hero_darken: true
 show_sidebar: false
 ---
 
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+
+<!--
+
 ## Tracks
 
 - [Importing & Cleaning Data with Python](https://www.datacamp.com/tracks/importing-cleaning-data-with-python)
@@ -23,7 +28,7 @@ show_sidebar: false
 
 - Los ejercicios de la [libreta de uso de geopandas](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/mapas/python/geopandas.ipynb)
 
-<!-- - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn). Parte del *career track* de analista de datos de *DataCamp*.
+ - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn). Parte del *career track* de analista de datos de *DataCamp*.
 
 - [Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python). Parte del *career track* de analista de datos de *DataCamp*.
 

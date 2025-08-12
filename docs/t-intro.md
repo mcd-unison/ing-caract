@@ -10,5 +10,13 @@ show_sidebar: false
 
 ## Cursos
 
-- Realizar el curso [Understanding Data Science](https://app.datacamp.com/learn/courses/understanding-data-science) de DataCamp
+- Realizar los cursos de DataCamp:
+  - *Introduction to Python*
+  - *Python Intermediate*
+  - *Data Manipulation with pandas*
   
+- Realizar los proyectos de DataCamp
+  - *Investigating Netflix Movies*
+  - *Exploring NYC Public School Test Result Scores*
+
+- Realizar el curso *AWS Academy Cloud Foundations*

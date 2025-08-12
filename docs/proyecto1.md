@@ -7,8 +7,10 @@ hero_darken: true
 show_sidebar: false
 ---
 
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
 
-## Selección de un problema
+
+<!-- ## Selección de un problema
 
 Para el resto del curso vamos a trabajar sobre el mismo problema, basado en datos reales públicos, los cuales van a tener que descargar. Para esta primera etapa, cada equipo deberá hacer lo siguiente:
 
@@ -47,3 +49,4 @@ Las evidencias para esta etapa del proyecto será:
 
 Uno de los miembros del equipo va a hacer una entrada de *Medium*
 
+ -->

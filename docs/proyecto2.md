@@ -7,6 +7,10 @@ hero_darken: true
 show_sidebar: false
 ---
 
+
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+<!-- 
 ## Análisis exploratorio de datos
 
 A partir de los datos en forma *tidy* que se obtuvieron de proyecto 1, en este proyecto se busca tener un conocimiento más a profundidad de los datos y del problema que se busca resolver. El análisis exploratorio de datos es el inicio de todo trabajo de Ciencia de Datos y ayuda a definir mejor los posibles alcances, los objetivos que se pueden alcanzar en corto, mediano y largo plazo, y a hacer una mejor planeación. También es una actividad que permite conocer mejor al usuario del producto de datos final y sus necesidades.
@@ -34,3 +38,4 @@ Se espera lo siguiente en el repositorio de *GitHub* de cada proyecto:
 
 Como ven, tendrán que seleccionar los temas y los hallazgos que consideren relevantes, así como las gráficas que consideren que mejor representa las ideas.
 
+ -->

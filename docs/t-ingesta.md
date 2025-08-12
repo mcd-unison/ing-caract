@@ -7,6 +7,11 @@ hero_darken: true
 show_sidebar: false
 ---
 
+
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+<!--  
+
 ## Cursos
 
 - Realizar el curso [Introduction to Importing Data in Python](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python) de DataCamp
@@ -28,7 +33,7 @@ show_sidebar: false
   
   - [Uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
  
-<!--  ## Certificaciones
+## Certificaciones
 
 - Realizar el *learning path* [Databricks Lakehouse Fundamentals](https://customer-academy.databricks.com/learn/lp/21/Databricks%2520Lakehouse%2520Fundamentals%2520Learning%2520Plan) de DataBricks
 

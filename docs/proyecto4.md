@@ -7,7 +7,10 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Contando una historia con datos
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+
+<!-- ## Contando una historia con datos
 
 Para este proyecto, vamos a culminar todo lo realizado a lo largo del semestre con un tablero, en el cual contemos una historia con los datos que obtuvimos y limpiamos en el proyecto 1, y luego exploramos en el proyecto 2. Como en ambos proyectos anteriores, las evidencias deberán estar en el mismo repositorio del proyecto. Una posible excepción podría ser el tablero, el cual es posible que sea más fácil tenerlo en un repositorio independiente.
 
@@ -42,4 +45,4 @@ Para este proyecto es necesario agregar al repositorio del proyecto lo siguiente
 
 ----
 
-Espero que este proyecto sea muy enriquecedor. Los proyectos serán públicos y anexaremos en esta parte una liga a cada tablero al final del curso.
+Espero que este proyecto sea muy enriquecedor. Los proyectos serán públicos y anexaremos en esta parte una liga a cada tablero al final del curso. -->
