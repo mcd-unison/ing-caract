@@ -24,6 +24,7 @@ show_sidebar: false
    - [DeepNote](https://deepnote.com)
    - [SageMaker Studio Lab](https://studiolab.sagemaker.aws)
    - [Datalore](https://datalore.jetbrains.com/)
+- [Una breve introducción a `pandas`](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/intro-pandas.ipynb)
 - [Docker](https://www.docker.com), con unas muy buenas [guías de uso](https://docs.docker.com/guides/)
 - [Estructura genérica de un proyecto de ciencia de datos](https://cookiecutter-data-science.drivendata.org)
 - [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
