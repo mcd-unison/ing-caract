@@ -36,11 +36,11 @@ show_sidebar: false
  -->
 ### Usando python
 
-- [Descargando archivos con las librerías estándar](https://betterprogramming.pub/3-simple-ways-to-download-files-with-python-569cb91acae6) y con [Pandas](https://towardsdatascience.com/direct-to-pandas-dataframe-ab2e97ae7574), en forma concisa
+- [Una libreta de ejemplito](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb)
 - [Documentación de Pandas para entrada y salida](https://pandas.pydata.org/docs/user_guide/io.html)
 - [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/), y [este otro](https://towardsdatascience.com/quick-fire-guide-to-apis-in-python-891dd98c8877)
 - [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
-- [Una libreta de ejemplito](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb) y [otra con el uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
+- [Una libreta con el uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
 - [Librería para descargar archivos públicos desde el *Google Drive* en forma programática](https://github.com/wkentaro/gdown) (Gracias a Estephanía por compartirlo con todos)
 
 ### SQL
