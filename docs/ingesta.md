@@ -36,11 +36,11 @@ show_sidebar: false
  -->
 ### Usando python
 
-- [Una libreta de ejemplito](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb)
 - [Documentación de Pandas para entrada y salida](https://pandas.pydata.org/docs/user_guide/io.html)
-- [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/), y [este otro](https://towardsdatascience.com/quick-fire-guide-to-apis-in-python-891dd98c8877)
-- [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
+- [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/)
 - [Una libreta con el uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
+- [Una libreta de ejemplo](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/descarga_datos.ipynb)
+- [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
 - [Librería para descargar archivos públicos desde el *Google Drive* en forma programática](https://github.com/wkentaro/gdown) (Gracias a Estephanía por compartirlo con todos)
 
 ### SQL
@@ -70,8 +70,9 @@ show_sidebar: false
 ### Aseguramiento de la calidad de los datos
 
 1. Una [presentación sobre calidad de los datos](https://github.com/mcd-unison/ing-caract/raw/main/slides/calidad_dato.pdf).
-2. [Great Expectations](https://greatexpectations.io), una librería en python para asegurar la calidad de los datos. Y [una libreta con un sobrevuelo rápido para su uso](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/calidad/great_expectations_intro.ipynb).
+2. [Pydantic](https://docs.pydantic.dev/latest/), una librería para validar y serializar datos en Python; y su versión para datos en `DataFrames`de pandas, [Pandantic](https://pandantic-rtd.readthedocs.io/en/latest/).
 3. [Pandera](https://www.union.ai/pandera), una librería basada en evaluar directamente los *DataFrames*, con una [documentación](https://pandera.readthedocs.io/en/stable/index.html#) bastante completa.
+4. [Great Expectations](https://greatexpectations.io), una librería en python para asegurar la calidad de los datos. Y [una libreta con un sobrevuelo rápido para su uso](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/calidad/great_expectations_intro.ipynb).
 
 ### Auditabilidad de los datos
 
