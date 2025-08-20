@@ -53,15 +53,16 @@ show_sidebar: false
 1. El [INEGI](https://www.inegi.org.mx/default.html) y una [herramienta de consulta en python](https://github.com/FabioSol/INEGIExplorer)
 2. Plataforma [DataMéxico](https://www.economia.gob.mx/datamexico/) y su [interesante API](https://www.economia.gob.mx/datamexico/es/vizbuilder)
 3. El portal de [datos abiertos del gobierno de México](https://datos.gob.mx)
-4. [Incidencia delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-299891?state=published) del secretariado ejecutivo nacional y un ejemplo de un [explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
-5. [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) y [CONAPO](https://www.gob.mx/conapo)
-6. El portal de [Datamx](http://datamx.io)
-7. [*Our World in Data*](https://ourworldindata.org) y su [repositorio base en GitHub](https://github.com/owid)
-8. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
-9. [Kaggle](https://www.kaggle.com/datasets)
-10. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
-11. [Google Dataset Search](https://datasetsearch.research.google.com)
-12. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis) y otro [de APIs gratuitas](https://free-apis.github.io)
+4. El portel de [datos abiertos del gobierno de Sonora](https://datos.sonora.gob.mx)
+5. [Incidencia delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-299891?state=published) del secretariado ejecutivo nacional y un ejemplo de un [explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
+6. [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) y [CONAPO](https://www.gob.mx/conapo)
+7. El portal de [Datamx](http://datamx.io)
+8. [*Our World in Data*](https://ourworldindata.org) y su [repositorio base en GitHub](https://github.com/owid)
+9. [7 portales de datos abiertos](https://github.com/mcd-unison/ing-caract/raw/main/pdf/fuentelibreinfo.JPG). Gracias, Malena, por compartirlo.
+10. [Kaggle](https://www.kaggle.com/datasets)
+11. El [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) (para los viejitos)
+12. [Google Dataset Search](https://datasetsearch.research.google.com)
+13. [Listado de algunas APIs abiertas](https://github.com/public-apis/public-apis) y otro [de APIs gratuitas](https://free-apis.github.io)
 
 
 
