@@ -54,7 +54,7 @@ show_sidebar: false
 2. Plataforma [DataMéxico](https://www.economia.gob.mx/datamexico/) y su [interesante API](https://www.economia.gob.mx/datamexico/es/vizbuilder)
 3. El portal de [datos abiertos del gobierno de México](https://datos.gob.mx)
 4. El portel de [datos abiertos del gobierno de Sonora](https://datos.sonora.gob.mx)
-5. [Incidencia delictiva](https://www.gob.mx/sesnsp/acciones-y-programas/incidencia-delictiva-299891?state=published) del secretariado ejecutivo nacional y un ejemplo de un [explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
+5. [Incidencia delictiva](https://www.gob.mx/sesnsp) del secretariado ejecutivo nacional y un ejemplo de un [explorador de datos delictivos de México](http://www.morlan.mx/explorador_delictivo/) desarrollado por Morlan.
 6. [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) y [CONAPO](https://www.gob.mx/conapo)
 7. El portal de [Datamx](http://datamx.io)
 8. [*Our World in Data*](https://ourworldindata.org) y su [repositorio base en GitHub](https://github.com/owid)
@@ -80,5 +80,13 @@ show_sidebar: false
 1. [DVC](https://dvc.org) o *Data Version Control*, [una presentacioncita](https://github.com/mcd-unison/ing-caract/raw/main/slides/dvc.pdf) y [un ejemplito de la documentación](https://dvc.org/doc/start?tab=Mac-Linux)
 2. [Deltalake](https://delta.io), el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/DLDTG_ER5.pdf), y un [acordeón para SQL y para python](https://delta.io/pdfs/DLDTG_ER5.pdf)
 3. [Hopsworks](https://www.hopsworks.ai), otro *Lakehouse* como *Deltalake*, versión sin costo y empresarial, siempre en la nube.
+
+### Haciendo un proyecto de ciencia de datos en github
+
+1. [Estructura genérica de un proyecto de ciencia de datos](https://cookiecutter-data-science.drivendata.org)
+2. [Un ejemplito con los datos de la ENHIGN](https://github.com/juliowaissman/enhigh-eda)
+3. [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
+
+
 
 ![](https://www.explainxkcd.com/wiki/images/d/d7/flawed_data.png)
