@@ -7,11 +7,6 @@ hero_darken: true
 show_sidebar: false
 ---
 
-![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
-
-
-<!-- ## Selección de un problema
-
 Para el resto del curso vamos a trabajar sobre el mismo problema, basado en datos reales públicos, los cuales van a tener que descargar. Para esta primera etapa, cada equipo deberá hacer lo siguiente:
 
 1. Seleccionar un tema o una problemática, y especificar cual es la pregunta que se piensa contestar al final de los 3 proyectos del curso. Para que la problemática sea válida deberá implicar el uso de los siguientes tipos de datos:
@@ -21,7 +16,7 @@ Para el resto del curso vamos a trabajar sobre el mismo problema, basado en dato
    4. Si hay datos que vienen en forma de texto (aunque se puedan tratar) es una característica deseable pero no obligatoria.
    5. Que use al menos dos fuentes de datos.
 
-2. Indicar cual es el público a el que está destinado el producto de datos final (tablero).
+2. Indicar cual es el público al que está destinado el producto de datos final (tablero).
 
 3. Indicar en una lista las fuentes primarias de datos donde se encuentra la información.
 
@@ -49,4 +44,3 @@ Las evidencias para esta etapa del proyecto será:
 
 Uno de los miembros del equipo va a hacer una entrada de *Medium*
 
- -->
