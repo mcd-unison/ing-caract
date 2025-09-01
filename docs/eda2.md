@@ -16,9 +16,7 @@ show_sidebar: false
 ### Fechas y horas
 
 2. [¿Que es UTC?](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) [¿Y el formato POSIX?](https://en.wikipedia.org/wiki/Unix_time).
-3. [How To Manipulate Date And Time In Python Like A Boss](https://towardsdatascience.com/how-to-manipulate-date-and-time-in-python-like-a-boss-ddea677c6a4d)
-3. [Working with datetime in Pandas DataFrame](https://towardsdatascience.com/working-with-datetime-in-pandas-dataframe-663f7af6c587)
-4. [Una libretita](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/timestamp.ipynb) que es copia de la [guía de uso de fechas de pandas](https://pandas.pydata.org/docs/user_guide/timeseries.html)
+3. [Una libretita](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/timestamp.ipynb) que es copia de la [guía de uso de fechas de pandas](https://pandas.pydata.org/docs/user_guide/timeseries.html)
 
 ### Series de tiempo
 
