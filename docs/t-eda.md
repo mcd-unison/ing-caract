@@ -7,11 +7,22 @@ hero_darken: true
 show_sidebar: false
 ---
 
+## Cursos
+
+- Realizar los cursos de DataCamp:
+  -  *Introduction to Data Visualization with Seaborn*
+
+- Realizar los miniproyectos de DataCamp:
+    - *Visualizing the History of Nobel Prize Winners*
+  
+## Miniproyectos
+
+- [*Analizando un grupo de WhatsApp*](miniproy_was.md)
+
+<!-- 
 
 ![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
 
-
-<!-- 
 
 ## Cursos
 
