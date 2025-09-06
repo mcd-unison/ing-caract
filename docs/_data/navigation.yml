@@ -21,7 +21,7 @@
     - name: Ingesta de datos
       link: /t-ingesta/
     - name: Análisis exploratorio de datos
-      link: /t-eda2/
+      link: /t-eda/
     - name: Limpieza de datos
       link: /t-limpieza/
     - name: Ingeniería de características
