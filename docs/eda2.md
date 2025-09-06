@@ -25,10 +25,10 @@ show_sidebar: false
 
 ### Manejo de cadenas de caracteres
 
-1. [Working with text data (pandas)](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
-2. Libreta de colab [Vectorized String Operations](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb), como parte del libro en linea [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-3. [Regex 101 (para armar expresiones regulares)](https://regex101.com)
-4. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+1. [Uso de expresiones regulares](https://github.com/mcd-unison/ing-caract/raw/main/slides/regexp.pdf)
+2. [Regex 101 (para armar expresiones regulares)](https://regex101.com)
+3. [Working with text data (pandas)](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
+4. Libreta de colab [Vectorized String Operations](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb), como parte del libro en linea [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 5. [NLP avanzado con SpaCy (curso)](https://course.spacy.io/en/)
 6. [Nubes de palabras en python](https://amueller.github.io/word_cloud/) y [una libreta con un ejemplo que hicimos para integrar `spacy` con `word_cloud`](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/nube_informe.ipynb)
 
