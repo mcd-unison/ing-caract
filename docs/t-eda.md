@@ -11,9 +11,12 @@ show_sidebar: false
 
 - Realizar los cursos de DataCamp:
   -  *Introduction to Data Visualization with Seaborn*
+  -  *Joining Data with pandas*
+  -  *Exploratory Data Analysis in Python*
 
 - Realizar los miniproyectos de DataCamp:
     - *Visualizing the History of Nobel Prize Winners*
+    - *Analyzing Crime in Los Angeles*
   
 ## Miniproyectos
 
