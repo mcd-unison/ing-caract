@@ -1,3 +1,12 @@
+---
+title: Equipos para los proyectos
+subtitle: Curso Ingeniería de Características
+layout: page
+hero_image: https://github.com/mcd-unison/ing-caract/raw/main/docs/img/API-banner.jpg
+hero_darken: true
+show_sidebar: false
+---
+
 ## Proceso de conformación de los equipos
 
 1. Se formaron 3 equipos de 3 integrantes y 2 equipos de 4 integrantes.
