@@ -14,10 +14,11 @@ show_sidebar: false
 2. Presentación [*Dealing with Missing Data*](https://cyfs.unl.edu/cyfsprojects/videoPPT/8551c12760de7027a89d14b29c26522a/151026-Enders.pdf) de *Craig Enders* de la UCLA. Muy completo.
 3. Una imagen con [el resumen del proceso de imputación](https://github.com/mcd-unison/ing-caract/raw/main/docs/imagenes/missing_data.png)
 4. [Missing value imputation: a review and analysis of the literature](https://github.com/mcd-unison/ing-caract/raw/main/slides/imputation-review.pdf)
-5. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/missing_data.html)
-6. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
-7. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
-8.  [Top Techniques to Handle Missing Values Every Data Scientist Should Know](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values). Blog de *DataCamp*
+5. [ review on missing values for main challenges and methods](https://hal.science/hal-04426492v1/file/1-s2.0-S0306437923001047-main.pdf)
+6. [Manejo de valores faltantes en `pandas`](https://pandas.pydata.org/docs/user_guide/missing_data.html)
+7. [Imputación con Sci-kit Learn](https://scikit-learn.org/stable/modules/impute.html)
+8. [Libreta de python (Kaggle) sobre imputación](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
+9.  [Top Techniques to Handle Missing Values Every Data Scientist Should Know](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values). Blog de *DataCamp*
 
 ## Detección de anomalías
 
