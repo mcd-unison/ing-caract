@@ -7,8 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-
-**Profesores**: Julio Waissman Vilanova  (julio.waissman@unison.mx), Raquel Torres (raquel.torres@unison.mx)
+**Profesores**: Raquel Torres (raquel.torres@unison.mx), Julio Waissman Vilanova (julio.waissman@unison.mx)
 
 **Horarios**:
 
