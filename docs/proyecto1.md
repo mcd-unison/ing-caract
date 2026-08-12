@@ -46,4 +46,4 @@ Uno de los miembros del equipo va a hacer una entrada de *Medium*
 
 ## Equipos
 
-Los equipos se conformaron buscando una diversidad de formaciones previass, el procedimiento y los equipos [los puedes consultar aquí](equipos_proyectos.md).
+Vamos a formar equipos que estén bien equilibrados en términos de habilidades y experiencia.
