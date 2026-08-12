@@ -7,7 +7,9 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Cursos
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+<!-- ## Cursos
 
 - Realizar el curso *Introduction to Data Versioning with DVC* de DataCamp
 
@@ -26,5 +28,5 @@ show_sidebar: false
 ## Acreditación
 
 - Realizar el *learning path* [Databricks Fundamentals Learning Plan](https://customer-academy.databricks.com/learn) de DataBricks y obtener la acreditación *Databricks Fundamentals Accreditation*.
-
+ -->
 

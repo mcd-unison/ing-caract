@@ -14,9 +14,15 @@ show_sidebar: false
   - *Introduction to Python*
   - *Python Intermediate*
   - *Data Manipulation with pandas*
-  
-- Realizar los proyectos de DataCamp
-  - *Investigating Netflix Movies*
-  - *Exploring NYC Public School Test Result Scores*
+  - *Joining Data with pandas*
 
-- Realizar el curso *AWS Academy Cloud Foundations*
+## Proyectos
+  
+- Realizar el miniproyecto de DataCamp
+  - *Investigating Netflix Movies*
+
+## Badges
+
+- Realizar el curso *AWS Academy Cloud Foundations* y obtener el Badge
+
+- Obtener el *badge* de [DataBricks Fundamentals](https://www.databricks.com/resources/learn/training/databricks-fundamentals?itm_data=learn-promocard-lakehousefundamentals&itm_source=www&itm_category=learn&itm_page=learn&itm_location=body&itm_component=promo-card&itm_offer=lakehouse-fundamentals)

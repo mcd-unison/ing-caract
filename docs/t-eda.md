@@ -7,6 +7,12 @@ hero_darken: true
 show_sidebar: false
 ---
 
+![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+
+
+<!-- 
+
+
 ## Cursos
 
 - Realizar los cursos de DataCamp:
@@ -22,7 +28,6 @@ show_sidebar: false
 
 - [*Analizando un grupo de WhatsApp*](miniproy_was.md)
 
-<!-- 
 
 ![En construcción](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
 
