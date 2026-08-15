@@ -39,4 +39,6 @@ show_sidebar: false
 - [Power BI](https://powerbi.microsoft.com/es-mx/) (Tenemos acceso a la versión gratuita dentro de Teams), y [recursos de aprendizaje de PowerBI](https://learn.microsoft.com/es-es/certifications/power-bi-data-analyst-associate/)
 - [Google Looker](https://lookerstudio.google.com/), y su [guía oficial](https://support.google.com/looker-studio/answer/6283323?hl=es&ref_topic=6267740&sjid=15374691219313763457-NA)
 - [Tableau public](https://public.tableau.com/s/)
+- [Streamlit](https://streamlit.io). Una plataforma recientemente adquirida por *Snowflakes* para hacer tableros en python muy facilmente.
+  
 
