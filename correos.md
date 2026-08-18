@@ -18,3 +18,22 @@ a226230011@unison.mx
 a219222937@unison.mx
 a213208822@unison.mx
 a215206214@unison.mx
+
+Horacio Araiza Gonzalez
+Angel David Durazo Bartolini
+Jorge Gamez Lopez
+Enrique Alejandro Giottonini Herrera
+Manuel Eduardo Gortarez Blanco
+Luis Hiram Hernandez Gutierrez
+Andrea Angelica Manzanares Muciño
+Fausto Misael Medina Lugo
+Manuel Crisologo Monge Tinoco
+Victor Hugo Moreno Coronado
+David Peña Peralta
+Ana Patricia Quiroz Reyes
+Marco Antonio Ramonet Moreno
+Oscar Gamaliel Sandoval Robles
+Carlos Ivan Sotomayor Samaniego
+Manuel Francisco Valenzuela Maldonado
+Julian Patricio Villaseñor Ibarra
+Victor Andree De La Torre Velazquez
