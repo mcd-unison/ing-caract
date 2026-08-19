@@ -28,18 +28,18 @@ show_sidebar: false
 - [Librería para descargar archivos públicos desde el *Google Drive* en forma programática](https://github.com/wkentaro/gdown) (Gracias a Estephanía por compartirlo con todos)
 
 
+### Descargando de internet con *RestAPI* o *Web scrapping*
+
+- [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/)
+- [Una libreta con el uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
+- Y si quieres hacer tu propia Rest API, puedes hacerla con [FastAPI](https://fastapi.tiangolo.com/)
+- [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
+
 ### SQL
 
 - Curso [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) de Udacity
 - [SQLite](https://sqlite.org)
 - [DuckBD](https://duckdb.org)
-
-### Descargando de internet con *RestAPI* o *Web scrapping*
-
-- [Tutorial para el uso de Rest API en python](https://realpython.com/api-integration-in-python/)
-- [Una libreta con el uso de una API mal documentada](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/integracion/python/RNPDNO-API.ipynb)
-- [Tutorial de Beautiful Soup 4](https://beautiful-soup-4.readthedocs.io)
-
 
 
 ## En donde encontrar datos públicos
