@@ -72,15 +72,14 @@ show_sidebar: false
 ### Auditabilidad de los datos
 
 1. [DVC](https://dvc.org) o *Data Version Control*, [una presentacioncita](https://github.com/mcd-unison/ing-caract/raw/main/slides/dvc.pdf) y [un ejemplito de la documentación](https://dvc.org/doc/start?tab=Mac-Linux)
-2. [Deltalake](https://delta.io), el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/DLDTG_ER5.pdf), y un [acordeón para SQL y para python](https://delta.io/pdfs/DLDTG_ER5.pdf)
-3. [Hopsworks](https://www.hopsworks.ai), otro *Lakehouse* como *Deltalake*, versión sin costo y empresarial, siempre en la nube.
+2. El formato de tablas para analítica [Apache Iceberg](https://iceberg.apache.org) 
+3. [Deltalake](https://delta.io) y el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/dldg_databricks.pdf).
+4. La alternativa, la plataforma [Apache Hudi](https://hudi.apache.org).
 
 ## Haciendo un proyecto de ciencia de datos en github
 
-1. [Estructura genérica de un proyecto de ciencia de datos](https://cookiecutter-data-science.drivendata.org)
-2. [Un ejemplito con los datos de la ENHIGN](https://github.com/juliowaissman/enhigh-eda)
+1. Plantilla genérica de un proyecto de ciencia de datos [*Cookiecutter Data Science (ccds)*]](https://cookiecutter-data-science.drivendata.org)  
+2. [Kedro](https://kedro.org), una herramienta para desarrollar proyectos de ciencia de datos, con una plantilla inspirada en ccds.
 3. [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
-
-
 
 ![](https://www.explainxkcd.com/wiki/images/d/d7/flawed_data.png)
