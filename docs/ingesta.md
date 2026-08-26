@@ -73,12 +73,12 @@ show_sidebar: false
 
 1. [DVC](https://dvc.org) o *Data Version Control*, [una presentacioncita](https://github.com/mcd-unison/ing-caract/raw/main/slides/dvc.pdf) y [un ejemplito de la documentación](https://dvc.org/doc/start?tab=Mac-Linux)
 2. El formato de tablas para analítica [Apache Iceberg](https://iceberg.apache.org) 
-3. [Deltalake](https://delta.io) y el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/dldg_databricks.pdf).
-4. La alternativa, la plataforma [Apache Hudi](https://hudi.apache.org).
+3. [Deltalake](https://delta.io) y el [libro de O'Relly sobre Deltalake](https://delta.io/pdfs/dldg_databricks.pdf). Y en [DataBricks free](https://login.databricks.com/signup?provider=DB&scid=701Vp000004h4doIAA&utm_medium=paid+search&utm_source=google&utm_campaign=22848157854&utm_adgroup=197390224440&utm_content=trial&utm_offer=trial&utm_ad=802748725431&utm_term=try+databricks&dbx_source=paid&gad_source=1&gad_campaignid=22848157854&gbraid=0AAAAABYBeAjPOJ948UYrh_dW0ELEKAp5f&gclid=CjwKCAjw-rTUBhAiEiwADv8gBFMjNBlaIDC3S1hBb2ynXIeu_8v7KnXBDNYg6AkcmLoNL9NmylDyYRoCWJQQAvD_BwE&tuuid=b9a625fe-0ab3-41aa-8b07-0afebfcb46af&intent=SIGN_UP&rl_aid=709ad5d8-65d8-43fe-b379-dd4fe789ce58&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsidG9zIjp0cnVlLCJwcml2YWN5Ijp0cnVlLCJjb3Jwb3JhdGVFbWFpbFNoYXJpbmciOnRydWV9fX0%3D) hay un minicurso introductorio que te enseña como funciona (si es que no está muy lento).
+4. La alternativa a DeltaLake, la plataforma [Apache Hudi](https://hudi.apache.org).
 
 ## Haciendo un proyecto de ciencia de datos en github
 
-1. Plantilla genérica de un proyecto de ciencia de datos [*Cookiecutter Data Science (ccds)*]](https://cookiecutter-data-science.drivendata.org)  
+1. Plantilla genérica de un proyecto de ciencia de datos [*Cookiecutter Data Science (ccds)*](https://cookiecutter-data-science.drivendata.org)  
 2. [Kedro](https://kedro.org), una herramienta para desarrollar proyectos de ciencia de datos, con una plantilla inspirada en ccds.
 3. [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
 
