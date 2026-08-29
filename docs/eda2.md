@@ -13,6 +13,8 @@ show_sidebar: false
 
 1. [Codificando variables categóricas en python](https://www.datacamp.com/community/tutorials/categorical-data), y [una muy breve libretita](https://colab.research.google.com/github/mcd-unison/ing-caract/blob/main/ejemplos/tipos/python/cat.ipynb).
 
+2. [Una librería complementaria de Scikit-Learn para preprocesamiento de variables categorigas](https://github.com/scikit-learn-contrib/category_encoders). 
+
 ### Fechas y horas
 
 2. [¿Que es UTC?](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) [¿Y el formato POSIX?](https://en.wikipedia.org/wiki/Unix_time).

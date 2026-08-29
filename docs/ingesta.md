@@ -78,7 +78,13 @@ show_sidebar: false
 
 ## Haciendo un proyecto de ciencia de datos en github
 
-1. Plantilla genérica de un proyecto de ciencia de datos [*Cookiecutter Data Science (ccds)*](https://cookiecutter-data-science.drivendata.org)  
+1. Plantilla genérica de un proyecto de ciencia de datos [*Cookiecutter Data Science (ccds)*](https://cookiecutter-data-science.drivendata.org)  y algunos exjempls de los equipos del la generación 2025:
+   1. [Desigualdad Educativa en Sonora](https://github.com/Antonio-JFB/desigualdad_educativa)
+   2. [Accidentes Viales en Hermosillo](https://github.com/Mario-ACL/proyecto_ing_datos)
+   3. [Seguridad y desarrollo](https://github.com/Equipo-seguridad-y-desarrollo/seguridadDesarrollo)
+   4. [Índice Delictivo Hermosillo](https://github.com/Equipo-seguridad-y-desarrollo/indice-delictivo-hermosillo)
+   5. [Análisis del Rol Hidrológico y Biológico de la Presa Abelardo L. Rodríguez](https://github.com/MCDproyectos/arhbpalr/tree/main/arhbpalr)
+   6. [Relacion Baches Accidentes HMO](https://github.com/Ingenieria-de-Caracteristicas-MCD/Relacion_Baches_Accidentes_HMO)
 2. [Kedro](https://kedro.org), una herramienta para desarrollar proyectos de ciencia de datos, con una plantilla inspirada en ccds.
 3. [Un checklist de ética en el uso de ciencia de datos](https://deon.drivendata.org)
 
