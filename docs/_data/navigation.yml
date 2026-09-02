@@ -5,6 +5,8 @@
       link: /intro/
     - name: Ingesta de datos
       link: /ingesta/
+    - name: Tipos de variables
+      link: /tipos/
     - name: Análisis exploratorio de datos
       link: /eda2/
     - name: Limpieza de datos
@@ -20,6 +22,8 @@
       link: /t-intro/
     - name: Ingesta de datos
       link: /t-ingesta/
+    - name: Tipos de variables
+      link: /t-tipos/
     - name: Análisis exploratorio de datos
       link: /t-eda/
     - name: Limpieza de datos
